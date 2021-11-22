@@ -1,12 +1,14 @@
 ---
 permalink: /
-title: "Annemarie Friedrich - Website"
+title: "Annemarie Friedrich"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+_Website under construction!_
 
 About me
 --------
