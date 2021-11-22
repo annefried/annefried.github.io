@@ -12,9 +12,9 @@ _Website under construction!_
 
 About me
 --------
-I am a Research Scientist working on Natural Language Processing and Computational Linguistics at the Bosch Center for Artificial Intelligence.
+I am a Research Scientist working on Natural Language Processing and Computational Linguistics at the [Bosch Center for Artificial Intelligence](https://www.bosch-ai.com/).
 
-I am currently the vice president of the German Society for Computational Linguistics (GSCL), the scientific association in the German-speaking countries and regions for research, teaching and professional work in natural language processing. Check out our current activities here.
+I am currently the vice president of the [German Society for Computational Linguistics](https://gscl.org/en) (GSCL), the scientific association in the German-speaking countries and regions for research, teaching and professional work in natural language processing. Check out our current activities here.
 
 Contact
 -------
