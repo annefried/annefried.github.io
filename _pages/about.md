@@ -10,16 +10,15 @@ redirect_from:
 
 _Website under construction!_
 
+Contact
+-------
+E-Mail: firstname dot lastname @ gmail dot com
+
 About me
 --------
 I am a Research Scientist working on Natural Language Processing and Computational Linguistics at the [Bosch Center for Artificial Intelligence](https://www.bosch-ai.com/).
 
 I am currently the vice president of the [German Society for Computational Linguistics](https://gscl.org/en) (GSCL), the scientific association in the German-speaking countries and regions for research, teaching and professional work in natural language processing.
-
-Contact
--------
-E-Mail: firstname dot lastname @ gmail dot com
-
 
 Research Interests
 ------------------
