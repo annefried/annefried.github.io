@@ -11,7 +11,7 @@ redirect_from:
 
 
 Education
-======
+--------
 10/2011 - 02/2017: PhD (Dr. phil.) at Saarland University, Department of Computational Linguistics (Advisor: Prof. Dr. Manfred Pinkal).
 
 10/2009 - 09/2011: Student of Language Science and Technology at Saarland University. Degree: Master of Science
@@ -23,7 +23,7 @@ Education
 01/2008 - 04/2008: Student Exchange: Staffordshire University, UK.
 
 Work Experience
-======
+--------
 since 05/2019: Research Scientist at the Bosch Center for Artificial Intelligence, Renningen, Stuttgart. Natural Language Processing and Semantic Reasoning.
 
 11/2016 - 04/2019: Research & Teaching Staff Member at Ludwig-Maximilians-Universität München, Center for Information and Language Processing (Centrum für Informations- und Sprachverarbeitung - CIS). (with Prof. Dr. Hinrich Schütze)
@@ -45,7 +45,7 @@ since 05/2019: Research Scientist at the Bosch Center for Artificial Intelligenc
 03/2007 - 05/2007: Internship at IBM Software Group, Financial Services Sector Stuttgart.
 
 Awards
-======
+--------
 * GSCL-Promotionspreis zum Gedenken an Wolfgang Hoeppner (2018)
 * Dr. Eduard Martin-Dissertationspreis der Universitätsgesellschaft des Saarlandes (2017)
 * IBM Ph.D. Fellowship Award (2012-2015)
@@ -54,12 +54,12 @@ Awards
 * On-line Scholarship e-fellows.net (2006)
   
 Skills
-======
+--------
 * Java Programming
 * Python Programming
 
 Languages
-=========
+--------
 * German: native
 * English: fluent in writing & speaking
 * French: advanced
@@ -67,7 +67,7 @@ Languages
 * Latin: 'Grosses Latinum'
   
 Service and leadership
-======
+--------
 * Vice President of the German Association for Computational Linguistics (GSCL)
 * Action Editor for ACL Rolling Review
 * EMNLP 2021 Senior Area Chair Dialogue and Interactive Systems track
