@@ -14,9 +14,9 @@ Most of my articles can be found in the <a href="https://aclanthology.org/people
 
 2021
 ----
-Teresa Bürkle, Stefan Grünewald, and Annemarie Friedrich. [A Corpus Study of Creating Rule-Based Enhanced Universal Dependencies for German](https://aclanthology.org/2021.law-1.9/). In Proceedings of The Joint 15th Linguistic Annotation Workshop (LAW) and 3rd Designing Meaning Representations (DMR) Workshop. November 2021. Punta Cana, Dominican Republic.
+Teresa Bürkle, Stefan Grünewald, and Annemarie Friedrich. [A Corpus Study of Creating Rule-Based Enhanced Universal Dependencies for German](https://aclanthology.org/2021.law-1.9/). In Proceedings of The Joint 15th Linguistic Annotation Workshop (LAW) and 3rd Designing Meaning Representations (DMR) Workshop. November 2021. Punta Cana, Dominican Republic. [[Code](https://github.com/boschresearch/german_enhanced_ud_converter_law_dmr_2021)]
 
-Elizaveta Sineva, Stefan Grünewald, Annemarie Friedrich, and Jonas Kuhn. Negation-Instance Based Evaluation of Negation Resolution. In Proceedings of the Conference for Natural Language Learning (CoNLL 2021). November 2021.
+Elizaveta Sineva, Stefan Grünewald, Annemarie Friedrich, and Jonas Kuhn. [Negation-Instance Based Evaluation of Negation Resolution](https://aclanthology.org/2021.conll-1.41/). In Proceedings of the Conference for Natural Language Learning (CoNLL 2021). November 2021. [[Code](https://github.com/boschresearch/negation_resolution_evaluation_conll2021)]
 
 Stefan Grünewald, Annemarie Friedrich, and Jonas Kuhn. Applying Occam's Razor to Transformer-Based Dependency Parsing: What Works, What Doesn't, and What Is Really Necessary. In Proceedings of the 17th International Conference on Parsing Technologies and the IWPT 2021 Shared Task on Parsing into Enhanced Universal Dependencies (IWPT 2021). August 2021.
 
