@@ -45,34 +45,36 @@ since 05/2019: Research Scientist at the Bosch Center for Artificial Intelligenc
 06/2008 - 09/2008: Internship at IBM Total Storage Project Office Development team, San Jose, CA, USA. 
 
 03/2007 - 05/2007: Internship at IBM Software Group, Financial Services Sector Stuttgart.
+
+Awards
+======
+* GSCL-Promotionspreis zum Gedenken an Wolfgang Hoeppner (2018)
+* Dr. Eduard Martin-Dissertationspreis der Universitätsgesellschaft des Saarlandes (2017)
+* IBM Ph.D. Fellowship Award (2012-2015)
+* Scholarship Studienstiftung des Deutschen Volkes (2011)
+* Finalist of Google Anita Borg Memorial Scholarship (2010)
+* On-line Scholarship e-fellows.net (2006)
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Java Programming
+* Python Programming
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+Languages
+=========
+* German: native
+* English: fluent in writing & speaking
+* French: advanced
+* Chinese: extremely basic
+* Latin: 'Grosses Latinum'
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Vice President of the German Association for Computational Linguistics (GSCL)
+* Action Editor for ACL Rolling Review
+* EMNLP 2021 Senior Area Chair Dialogue and Interactive Systems track
+* Member of the Ethics Program Committee NAACL 2021
+* ACL 2020 Area Chair Resources and Evaluation track
+* EMNLP 2020 Area Chair Discourse & Pragmatics track (Outstanding Area Chair)
+* Reviewer for ACL, NAACL-HLT, EMNLP, Coling
+* Organizer of the Linguistic Annotation Workshop (LAW) 2016 and 2019
