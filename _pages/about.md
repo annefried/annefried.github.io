@@ -23,7 +23,11 @@ I am currently the vice president of the [German Society for Computational Lingu
 Research Interests
 ------------------
 
-**Computational Semantics - Discourse Processing - Text Mining - Linguistic Annotation**
+* Computational Syntax and Semantics
+* Discourse Processing
+* Text Mining / Information Extraction
+* Linguistic Annotation
+* Deep Learning
 
 I am interested in understanding and modeling interactions at the syntax-semantics interface, taking into account influences of discourse and pragmatics. Most of my past research is about the computational modeling of aspect and genericity. More details [here](https://www.coli.uni-saarland.de/projects/sitent/page.php). I am currently also interested in text mining for scientific text, syntactic and semantic parsing, and uncertainty in the context of deep learning for NLP.
 
