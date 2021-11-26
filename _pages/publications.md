@@ -18,15 +18,15 @@ Teresa Bürkle, Stefan Grünewald, and Annemarie Friedrich. [A Corpus Study of C
 
 Elizaveta Sineva, Stefan Grünewald, Annemarie Friedrich, and Jonas Kuhn. [Negation-Instance Based Evaluation of Negation Resolution](https://aclanthology.org/2021.conll-1.41/). In Proceedings of the Conference for Natural Language Learning (CoNLL 2021). November 2021. [[Code](https://github.com/boschresearch/negation_resolution_evaluation_conll2021)]
 
-Stefan Grünewald, Annemarie Friedrich, and Jonas Kuhn. Applying Occam's Razor to Transformer-Based Dependency Parsing: What Works, What Doesn't, and What Is Really Necessary. In Proceedings of the 17th International Conference on Parsing Technologies and the IWPT 2021 Shared Task on Parsing into Enhanced Universal Dependencies (IWPT 2021). August 2021.
+Stefan Grünewald, Annemarie Friedrich, and Jonas Kuhn. [Applying Occam's Razor to Transformer-Based Dependency Parsing: What Works, What Doesn't, and What Is Really Necessary](https://aclanthology.org/2021.iwpt-1.13/). In Proceedings of the 17th International Conference on Parsing Technologies and the IWPT 2021 Shared Task on Parsing into Enhanced Universal Dependencies (IWPT 2021). August 2021. [[Code](https://github.com/boschresearch/steps-parser)]
 
-Stefan Grünewald, Frederik Tobias Oertel, and Annemarie Friedrich. RobertNLP at the IWPT 2021 Shared Task: Simple Enhanced UD Parsing for 17 Languages. In Proceedings of the 17th International Conference on Parsing Technologies and the IWPT 2021 Shared Task on Parsing into Enhanced Universal Dependencies (IWPT 2021). August 2021.
+Stefan Grünewald, Frederik Tobias Oertel, and Annemarie Friedrich. [RobertNLP at the IWPT 2021 Shared Task: Simple Enhanced UD Parsing for 17 Languages](https://aclanthology.org/2021.iwpt-1.21/). In Proceedings of the 17th International Conference on Parsing Technologies and the IWPT 2021 Shared Task on Parsing into Enhanced Universal Dependencies (IWPT 2021). August 2021. [[Code](https://github.com/boschresearch/steps-parser)]
 
-Annemarie Friedrich and Torsten Zesch. A Crash Course on Ethics in Natural Language Processing. In Proceedings of the Fifth Workshop on Teaching NLP. June 2021. Resources and poster
+Annemarie Friedrich and Torsten Zesch. [A Crash Course on Ethics in Natural Language Processing](https://aclanthology.org/2021.teachingnlp-1.6/). In Proceedings of the Fifth Workshop on Teaching NLP. June 2021. [[Resources](https://gscl.org/en/resources/ethics-crash-course)]
 
 Stefan Grünewald, Prisca Piccirilli, and Annemarie Friedrich. [Coordinate Constructions in English Enhanced Universal Dependencies: Analysis and Computational Modeling](Coordinate Constructions in English Enhanced Universal Dependencies: Analysis and Computational Modeling). April 2021. In Proceedings of the 16th Conference of the European Chapter of the Association for Computational Linguistics (EACL). [[Code](https://github.com/boschresearch/coordinate_constructions_english_enhanced_ud_eacl2021)][[Dataset](https://aclanthology.org/attachments/2021.eacl-main.67.Dataset.zip)]
 
-Subhash Chandra Pujari, Annemarie Friedrich, and Jannik Strötgen. A Multi-Task Approach to Neural Multi-Label Hierarchical Patent Classification using Transformers. March 2021. In Proceedings of the 43rd European Conference on Information Retrieval (ECIR). Code, Author's Version, Publisher Version
+Subhash Chandra Pujari, Annemarie Friedrich, and Jannik Strötgen. [A Multi-Task Approach to Neural Multi-Label Hierarchical Patent Classification using Transformers](https://link.springer.com/chapter/10.1007/978-3-030-72113-8_34). March 2021. In Proceedings of the 43rd European Conference on Information Retrieval (ECIR). [[Code](https://github.com/boschresearch/hierarchical_patent_classification_ecir2021), [Author's Version]()
 
 2020
 ----
