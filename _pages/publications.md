@@ -26,18 +26,18 @@ Annemarie Friedrich and Torsten Zesch. [A Crash Course on Ethics in Natural Lang
 
 Stefan Grünewald, Prisca Piccirilli, and Annemarie Friedrich. [Coordinate Constructions in English Enhanced Universal Dependencies: Analysis and Computational Modeling](Coordinate Constructions in English Enhanced Universal Dependencies: Analysis and Computational Modeling). April 2021. In Proceedings of the 16th Conference of the European Chapter of the Association for Computational Linguistics (EACL). [[Code](https://github.com/boschresearch/coordinate_constructions_english_enhanced_ud_eacl2021)][[Dataset](https://aclanthology.org/attachments/2021.eacl-main.67.Dataset.zip)]
 
-Subhash Chandra Pujari, Annemarie Friedrich, and Jannik Strötgen. [A Multi-Task Approach to Neural Multi-Label Hierarchical Patent Classification using Transformers](https://link.springer.com/chapter/10.1007/978-3-030-72113-8_34). March 2021. In Proceedings of the 43rd European Conference on Information Retrieval (ECIR). [[Code](https://github.com/boschresearch/hierarchical_patent_classification_ecir2021), [Author's Version]()
+Subhash Chandra Pujari, Annemarie Friedrich, and Jannik Strötgen. [A Multi-Task Approach to Neural Multi-Label Hierarchical Patent Classification using Transformers](https://link.springer.com/chapter/10.1007/978-3-030-72113-8_34). March 2021. In Proceedings of the 43rd European Conference on Information Retrieval (ECIR). [[Code](https://github.com/boschresearch/hierarchical_patent_classification_ecir2021)][Author's Version](files/hierarchical_patent_classification_ecir2021.pdf)
 
 2020
 ----
 
-Stefan Grünewald and Annemarie Friedrich. Unifying the Treatment of Preposition-Determiner Contractions in German Universal Dependencies Treebanks. In Proceedings of the Universal Dependencies Workshop (UDW) 2020.
+Stefan Grünewald and Annemarie Friedrich. [Unifying the Treatment of Preposition-Determiner Contractions in German Universal Dependencies Treebanks](https://aclanthology.org/2020.udw-1.11/). In Proceedings of the Universal Dependencies Workshop (UDW) 2020.
 
-Hanna Wecker, Annemarie Friedrich, and Heike Adel. ClusterDataSplit: Exploring Challenging Clustering-Based Data Splits for Model Performance Evaluation. November 2020. In Proceedings of Evaluation and Comparison of NLP Systems (Eval4NLP). (video)
+Hanna Wecker, Annemarie Friedrich, and Heike Adel. [ClusterDataSplit: Exploring Challenging Clustering-Based Data Splits for Model Performance Evaluation](https://aclanthology.org/2020.eval4nlp-1.15/). November 2020. In Proceedings of Evaluation and Comparison of NLP Systems (Eval4NLP). [[Code](https://github.com/boschresearch/clusterdatasplit_eval4nlp-2020)][[Video](https://slideslive.com/38939708/clusterdatasplit-exploring-challenging-clusteringbased-data-splits-for-model-performance-evaluation)]
 
-Annemarie Friedrich, Heike Adel, Federico Tomazic, Johannes Hingerl, Renou Benteau, Anika Maruscyk, Lukas Lange: The SOFC-Exp Corpus and Neural Approaches to Information Extraction in the Materials Science Domain. July 2020. In Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics (ACL). Seattle, WA, USA.
+Annemarie Friedrich, Heike Adel, Federico Tomazic, Johannes Hingerl, Renou Benteau, Anika Maruscyk, Lukas Lange: [The SOFC-Exp Corpus and Neural Approaches to Information Extraction in the Materials Science Domain](https://aclanthology.org/2020.acl-main.116/). July 2020. In Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics (ACL). Seattle, WA, USA. [[Code](https://github.com/boschresearch/sofc-exp_textmining_resources)][[Video](https://slideslive.com/38928792/the-sofcexp-corpus-and-neural-approaches-to-information-extraction-in-the-materials-science-domain)]
 
-Stefan Grünewald and Annemarie Friedrich. RobertNLP at the IWPT 2020 Shared Task: Surprisingly Simple Enhanced UD Parsing for English. July 2020. Proceedings of the 16th International Conference on Parsing Technologies and the IWPT 2020 Shared Task on Parsing into Enhanced Universal Dependencies. Seattle, WA, USA.
+Stefan Grünewald and Annemarie Friedrich. [RobertNLP at the IWPT 2020 Shared Task: Surprisingly Simple Enhanced UD Parsing for English](https://aclanthology.org/2020.iwpt-1.26/). July 2020. Proceedings of the 16th International Conference on Parsing Technologies and the IWPT 2020 Shared Task on Parsing into Enhanced Universal Dependencies. Seattle, WA, USA. [[Code](https://github.com/boschresearch/steps-parser)][[Video](https://slideslive.com/38929693/robertnlp-at-the-iwpt-2020-shared-task-surprisingly-simple-enhanced-ud-parsing-for-english)]
 
 2017--2019
 ----------
