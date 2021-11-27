@@ -81,7 +81,7 @@ Languages
 * Chinese: extremely basic
 * Latin: 'Grosses Latinum'
   
-Service and leadership
+Service and Leadership
 --------
 * Vice President of the German Association for Computational Linguistics (GSCL)
 * Action Editor for ACL Rolling Review
