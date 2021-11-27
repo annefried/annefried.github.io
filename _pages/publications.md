@@ -26,7 +26,7 @@ Annemarie Friedrich and Torsten Zesch. [A Crash Course on Ethics in Natural Lang
 
 Stefan Grünewald, Prisca Piccirilli, and Annemarie Friedrich. [Coordinate Constructions in English Enhanced Universal Dependencies: Analysis and Computational Modeling](https://aclanthology.org/2021.eacl-main.67/). April 2021. In Proceedings of the 16th Conference of the European Chapter of the Association for Computational Linguistics (EACL). [[Code](https://github.com/boschresearch/coordinate_constructions_english_enhanced_ud_eacl2021)][[Dataset](https://aclanthology.org/attachments/2021.eacl-main.67.Dataset.zip)]
 
-Subhash Chandra Pujari, Annemarie Friedrich, and Jannik Strötgen. [A Multi-Task Approach to Neural Multi-Label Hierarchical Patent Classification using Transformers](https://link.springer.com/chapter/10.1007/978-3-030-72113-8_34). March 2021. In Proceedings of the 43rd European Conference on Information Retrieval (ECIR). [[Code](https://github.com/boschresearch/hierarchical_patent_classification_ecir2021)][[Author's Version]([Link to a file]({{ site.baseurl }}{% link /files/hierarchical_patent_classification_ecir2021.pdf % })]
+Subhash Chandra Pujari, Annemarie Friedrich, and Jannik Strötgen. [A Multi-Task Approach to Neural Multi-Label Hierarchical Patent Classification using Transformers](https://link.springer.com/chapter/10.1007/978-3-030-72113-8_34). March 2021. In Proceedings of the 43rd European Conference on Information Retrieval (ECIR). [[Code](https://github.com/boschresearch/hierarchical_patent_classification_ecir2021)][[Author's Version](https://annefried.github.io/files/hierarchical_patent_classification_ecir2021.pdf)]
 
 2020
 ----
@@ -51,7 +51,7 @@ Annemarie Friedrich and Damyana Gateva. [Classification of telicity using cross-
 
 Anita Ramm, Sharid Loáiciga, Annemarie Friedrich and Alexander Fraser. [Annotating tense, mood and voice for English, French and German](https://aclanthology.org/P17-4001/). July 2017. In Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics (ACL), System Demonstrations. Vancouver, Canada. [[Poster](https://aclanthology.org/attachments/P17-4001.Poster.pdf)][[Code](https://github.com/aniramm/tmv-annotator)]
 
-Annemarie Friedrich. [States, events, and generics: computational modeling of situation entity types](https://publikationen.sulb.uni-saarland.de/handle/20.500.11880/23722;jsessionid=FDCAD7C7405EC4440164314ED91C080B). February 2017. PhD thesis, Saarland University.
+Annemarie Friedrich. [States, events, and generics: computational modeling of situation entity types](https://publikationen.sulb.uni-saarland.de/handle/20.500.11880/23722). February 2017. PhD thesis, Saarland University.
 
 
 2016
