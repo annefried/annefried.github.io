@@ -57,7 +57,7 @@ Internship and Bachelor Thesis at IBM Research and Development Laboratory Böbli
 Internship at IBM Total Storage Project Office Development team, San Jose, CA, USA. 
 
 **03/2007 - 05/2007** -
-Internship at IBM Softw are Group, Financial Services Sector Stuttgart.
+Internship at IBM Software Group, Financial Services Sector Stuttgart.
 
 Awards
 --------
