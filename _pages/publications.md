@@ -49,7 +49,7 @@ Parental leave.
 
 Annemarie Friedrich and Damyana Gateva. [Classification of telicity using cross-linguistic annotation projection](https://aclanthology.org/D17-1271/). September 2017. In Proceedings of the 2017 Conference on Empirical Methods in Natural Language Processing (EMNLP). Copenhagen, Denmark. [[Code](https://github.com/annefried/telicity)]
 
-Anita Ramm, Sharid Loáiciga, Annemarie Friedrich and Alexander Fraser. [Annotating tense, mood and voice for English, French and German](https://aclanthology.org/P17-4001/). July 2017. In Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics (ACL), System Demonstrations. Vancouver, Canada. [[Poster](https://aclanthology.org/attachments/P17-4001.Poster.pdf)]
+Anita Ramm, Sharid Loáiciga, Annemarie Friedrich and Alexander Fraser. [Annotating tense, mood and voice for English, French and German](https://aclanthology.org/P17-4001/). July 2017. In Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics (ACL), System Demonstrations. Vancouver, Canada. [[Poster](https://aclanthology.org/attachments/P17-4001.Poster.pdf)][[Code](https://github.com/aniramm/tmv-annotator)]
 
 Annemarie Friedrich. [States, events, and generics: computational modeling of situation entity types](https://publikationen.sulb.uni-saarland.de/handle/20.500.11880/23722;jsessionid=FDCAD7C7405EC4440164314ED91C080B). February 2017. PhD thesis, Saarland University.
 
@@ -65,36 +65,36 @@ Annemarie Friedrich, Alexis Palmer and Manfred Pinkal: [Situation entity types: 
 2015
 ----
 
-Annemarie Friedrich and Manfred Pinkal: Automatic recognition of habituals: a three-way classification of clausal aspect. September 2015. In Proceedings of the 2015 Conference on Empirical Methods in Natural Language Processing (EMNLP). Lisbon, Portugal.
+Annemarie Friedrich and Manfred Pinkal: [Automatic recognition of habituals: a three-way classification of clausal aspect](https://aclanthology.org/D15-1294/). September 2015. In Proceedings of the 2015 Conference on Empirical Methods in Natural Language Processing (EMNLP). Lisbon, Portugal. [[Code](https://github.com/annefried/sitent)]
 
-Kleio-Isidora Mavridou, Annemarie Friedrich, Melissa Peate Sørensen, Alexis Palmer and Manfred Pinkal: Linking discourse modes and situation entity types in a cross-linguistic corpus study. September 2015. In Proceedings of Linking Models of Lexical, Sentential and Discourse-level Semantics (LSDSem). Lisbon, Portugal.
+Kleio-Isidora Mavridou, Annemarie Friedrich, Melissa Peate Sørensen, Alexis Palmer and Manfred Pinkal: [Linking discourse modes and situation entity types in a cross-linguistic corpus study](https://aclanthology.org/W15-2702/). September 2015. In Proceedings of Linking Models of Lexical, Sentential and Discourse-level Semantics (LSDSem). Lisbon, Portugal.
 
-Mengfei Zhou, Anette Frank, Annemarie Friedrich and Alexis Palmer: Semantically Enriched Models for Modal Sense Classification. September 2015. In Proceedings of Linking Models of Lexical, Sentential and Discourse-level Semantics (LSDSem). Lisbon, Portugal.
+Mengfei Zhou, Anette Frank, Annemarie Friedrich and Alexis Palmer: [Semantically Enriched Models for Modal Sense Classification](https://aclanthology.org/W15-2705/). September 2015. In Proceedings of Linking Models of Lexical, Sentential and Discourse-level Semantics (LSDSem). Lisbon, Portugal.
 
-Annemarie Friedrich and Manfred Pinkal: Discourse-sensitive Automatic Identification of Generic Expressions. August 2015. In Proceedings of the 53rd Annual Meeting of the Association for Computational Linguistics (ACL). Beijing, China.
+Annemarie Friedrich and Manfred Pinkal: [Discourse-sensitive Automatic Identification of Generic Expressions](https://aclanthology.org/P15-1123/). August 2015. In Proceedings of the 53rd Annual Meeting of the Association for Computational Linguistics (ACL). Beijing, China. [[Code](https://github.com/annefried/sitent)]
 
-Annemarie Friedrich, Alexis Palmer, Melissa Peate Sørensen and Manfred Pinkal: Annotating genericity: a survey, a scheme, and a corpus. June 2015. In Proceedings of the 9th Linguistic Annotation Workshop (LAW IX). Denver, Colorado, US.
+Annemarie Friedrich, Alexis Palmer, Melissa Peate Sørensen and Manfred Pinkal: [Annotating genericity: a survey, a scheme, and a corpus](https://aclanthology.org/W15-1603/). June 2015. In Proceedings of the 9th Linguistic Annotation Workshop (LAW IX). Denver, Colorado, US. [[Data](https://github.com/annefried/sitent)]
 
 
 2014
 ----
 
-Annemarie Friedrich and Alexis Palmer: Centering Theory in natural text: a large-scale corpus study. October 2014. In Proceedings of KONVENS. Hildesheim, Germany.
+Annemarie Friedrich and Alexis Palmer: [Centering Theory in natural text: a large-scale corpus study](https://hildok.bsz-bw.de/files/254/p017.pdf ). October 2014. In Proceedings of KONVENS. Hildesheim, Germany.
 
-Anna Senina, Marcus Rohrbach, Wei Qiu, Annemarie Friedrich, Manfred Pinkal and Bernt Schiele: Coherent Multi-Sentence Video Description with Variable Level of Detail. September 2014. In Proceedings of the 36th German Conference on Pattern Recognition (GCPR). Münster, Germany.
+Anna Senina, Marcus Rohrbach, Wei Qiu, Annemarie Friedrich, Manfred Pinkal and Bernt Schiele: [Coherent Multi-Sentence Video Description with Variable Level of Detail](https://hildok.bsz-bw.de/files/254/p017.pdf). September 2014. In Proceedings of the 36th German Conference on Pattern Recognition (GCPR). Münster, Germany.
 
-Annemarie Friedrich and Alexis Palmer: Situation entity annotation. August 2014. In Proceedings of the 8th Linguistic Annotation Workshop (LAW VIII). Dublin, Ireland. 
+Annemarie Friedrich and Alexis Palmer: [Situation entity annotation](https://aclanthology.org/W14-4921/). August 2014. In Proceedings of the 8th Linguistic Annotation Workshop (LAW VIII). Dublin, Ireland. [[Data](https://github.com/annefried/sitent)]
 
-Alexis Palmer and Annemarie Friedrich: Genre distinctions and discourse modes: Text types differ in their situation type distributions. July 2014. In Proceedings of the Workshop on Frontiers and Connections between Argumentation Theory and Natural Language Processing. Forlì-Cesena, Italy.
+Alexis Palmer and Annemarie Friedrich: [Genre distinctions and discourse modes: Text types differ in their situation type distributions](http://ceur-ws.org/Vol-1341/paper13.pdf). July 2014. In Proceedings of the Workshop on Frontiers and Connections between Argumentation Theory and Natural Language Processing. Forlì-Cesena, Italy.
 
-Annemarie Friedrich and Alexis Palmer: Automatic prediction of aspectual class of verbs in context. June 2014. In Proceedings of the 52nd Annual Meeting of the Association for Computational Linguistics (ACL). Baltimore, USA.
+Annemarie Friedrich and Alexis Palmer: [Automatic prediction of aspectual class of verbs in context](https://aclanthology.org/P14-2085/). June 2014. In Proceedings of the 52nd Annual Meeting of the Association for Computational Linguistics (ACL). Baltimore, USA. [[Code](https://github.com/annefried/sitent)]
 
-Annemarie Friedrich, Marina Valeeva and Alexis Palmer: LQVSumm: A Corpus of Linguistic Quality Violations in Multi-Document Summarization. May 2014. In Proceedings of the Ninth International Conference on Language Resources and Evaluation (LREC). Reykjavik, Iceland.
+Annemarie Friedrich, Marina Valeeva and Alexis Palmer: [LQVSumm: A Corpus of Linguistic Quality Violations in Multi-Document Summarization](https://aclanthology.org/L14-1467/)]. May 2014. In Proceedings of the Ninth International Conference on Language Resources and Evaluation (LREC). Reykjavik, Iceland.
 
 
 2012
 ----
 
-Annemarie Friedrich, Nikos Engonopoulos, Stefan Thater and Manfred Pinkal: A Comparison of Knowledge-based Algorithms for Graded Word Sense Assignment. December 2012. Proceedings of the 24th International Conference on Computational Linguistics (CoLing). Mumbai, India.
+Annemarie Friedrich, Nikos Engonopoulos, Stefan Thater and Manfred Pinkal: [A Comparison of Knowledge-based Algorithms for Graded Word Sense Assignment](https://aclanthology.org/C12-2033/). December 2012. Proceedings of the 24th International Conference on Computational Linguistics (CoLing). Mumbai, India.
 
-Casey Redd Kennington, Martin Kay and Annemarie Friedrich: Suffix Trees as Language Models. May 2012. In Proceedings of the Eight International Conference on Language Resources and Evaluation (LREC). Istanbul, Turkey.
+Casey Redd Kennington, Martin Kay and Annemarie Friedrich: [Suffix Trees as Language Models](https://aclanthology.org/L12-1378/). May 2012. In Proceedings of the Eight International Conference on Language Resources and Evaluation (LREC). Istanbul, Turkey.
