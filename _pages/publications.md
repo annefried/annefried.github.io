@@ -26,7 +26,7 @@ Annemarie Friedrich and Torsten Zesch. [A Crash Course on Ethics in Natural Lang
 
 Stefan Grünewald, Prisca Piccirilli, and Annemarie Friedrich. [Coordinate Constructions in English Enhanced Universal Dependencies: Analysis and Computational Modeling](https://aclanthology.org/2021.eacl-main.67/). April 2021. In Proceedings of the 16th Conference of the European Chapter of the Association for Computational Linguistics (EACL). [[Code](https://github.com/boschresearch/coordinate_constructions_english_enhanced_ud_eacl2021)][[Dataset](https://aclanthology.org/attachments/2021.eacl-main.67.Dataset.zip)]
 
-Subhash Chandra Pujari, Annemarie Friedrich, and Jannik Strötgen. [A Multi-Task Approach to Neural Multi-Label Hierarchical Patent Classification using Transformers](https://link.springer.com/chapter/10.1007/978-3-030-72113-8_34). March 2021. In Proceedings of the 43rd European Conference on Information Retrieval (ECIR). [[Code](https://github.com/boschresearch/hierarchical_patent_classification_ecir2021)][[Author's Version](https://annefried.github.io/files/hierarchical_patent_classification_ecir2021.pdf)]
+Subhash Chandra Pujari, Annemarie Friedrich, and Jannik Strötgen. [A Multi-Task Approach to Neural Multi-Label Hierarchical Patent Classification using Transformers](https://link.springer.com/chapter/10.1007/978-3-030-72113-8_34). March 2021. In Proceedings of the 43rd European Conference on Information Retrieval (ECIR). [[Code](https://github.com/boschresearch/hierarchical_patent_classification_ecir2021)][[Author's Version](http://annefried.github.io/files/hierarchical_patent_classification_ecir2021.pdf)]
 
 2020
 ----
