@@ -1,7 +1,7 @@
 ---
 title: 'Some thoughts on Area Chairing / Meta-Reviewing'
 date: 2020-12-01
-permalink: /posts/2020-12-01-area_chairing.md
+permalink: /posts/2020-12-01-area_chairing
 tags:
   - area chairing
   - acl
