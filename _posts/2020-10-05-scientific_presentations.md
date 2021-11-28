@@ -1,7 +1,7 @@
 ---
 title: 'Scientific Presentations'
-date: 2020-12-01
-permalink: /posts/2021-12-05-scientific_presentations
+date: 2020-10-05
+permalink: /posts/2020-10-05-scientific_presentations
 tags:
   - scientific presentations
   - nlp

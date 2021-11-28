@@ -1,7 +1,7 @@
 ---
 title: 'Scientific Writing'
-date: 2020-12-01
-permalink: /posts/2021-12-01-scientific_writing
+date: 2020-09-01
+permalink: /posts/2020-09-01-scientific_writing
 tags:
   - nlp
   - scientific writing
