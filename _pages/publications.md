@@ -51,7 +51,7 @@ Annemarie Friedrich and Damyana Gateva. [Classification of telicity using cross-
 
 Anita Ramm, Sharid Loáiciga, Annemarie Friedrich and Alexander Fraser. [Annotating tense, mood and voice for English, French and German](https://aclanthology.org/P17-4001/). July 2017. In Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics (ACL), System Demonstrations. Vancouver, Canada. [[Poster](https://aclanthology.org/attachments/P17-4001.Poster.pdf)][[Code](https://github.com/aniramm/tmv-annotator)]
 
-Annemarie Friedrich. [States, events, and generics: computational modeling of situation entity types](https://publikationen.sulb.uni-saarland.de/handle/20.500.11880/23722). February 2017. PhD thesis, Saarland University. [[Defense Slides](slides-phd-defense-friedrich-2017.pdf)]
+Annemarie Friedrich. [States, events, and generics: computational modeling of situation entity types](https://publikationen.sulb.uni-saarland.de/handle/20.500.11880/23722). February 2017. PhD thesis, Saarland University. [[Defense Slides](http://annefried.github.io/files/slides-phd-defense-friedrich-2017.pdf)]
 
 
 2016
