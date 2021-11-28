@@ -7,9 +7,6 @@ tags:
   - scientific writing
 ---
 
-
-Scientific Writing
-======
 An [overview](https://blog.apastyle.org/apastyle/2011/08/punctuating-around-quotation-marks.html) of where to put quotation marks in English.
 
 [This page](http://users.ece.cmu.edu/~koopman/essays/abstract.html) provides a nice summary of how to write good abstracts for your research papers.

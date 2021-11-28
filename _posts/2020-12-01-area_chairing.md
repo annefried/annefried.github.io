@@ -8,9 +8,6 @@ tags:
 ---
 
 
-Some thoughts on Area Chairing / Meta-Reviewing
-======
-
 *Thanks to Alexis Palmer, Casey Kennington and Nathan Schneider for their comments on an earlier version of this.*
 
 PREAMBLE: Why I Am Writing This.
