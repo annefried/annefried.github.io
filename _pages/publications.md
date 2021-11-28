@@ -67,7 +67,7 @@ Annemarie Friedrich, Alexis Palmer and Manfred Pinkal: [Situation entity types: 
 
 Annemarie Friedrich and Manfred Pinkal: [Automatic recognition of habituals: a three-way classification of clausal aspect](https://aclanthology.org/D15-1294/). September 2015. In Proceedings of the 2015 Conference on Empirical Methods in Natural Language Processing (EMNLP). Lisbon, Portugal. [[Code](https://github.com/annefried/sitent)][[Poster](http://annefried.github.io/files/poster_emnlp2015_friedrich_pinkal.pdf)]
 
-Kleio-Isidora Mavridou, Annemarie Friedrich, Melissa Peate Sørensen, Alexis Palmer and Manfred Pinkal: [Linking discourse modes and situation entity types in a cross-linguistic corpus study](https://aclanthology.org/W15-2702/). September 2015. In Proceedings of Linking Models of Lexical, Sentential and Discourse-level Semantics (LSDSem). Lisbon, Portugal. [[Slides](http://annefried.github.io/slides_LSDSem2015_mavridou_etal.pdf)]
+Kleio-Isidora Mavridou, Annemarie Friedrich, Melissa Peate Sørensen, Alexis Palmer and Manfred Pinkal: [Linking discourse modes and situation entity types in a cross-linguistic corpus study](https://aclanthology.org/W15-2702/). September 2015. In Proceedings of Linking Models of Lexical, Sentential and Discourse-level Semantics (LSDSem). Lisbon, Portugal. [[Slides](http://annefried.github.io/files/slides_LSDSem2015_mavridou_etal.pdf)]
 
 Mengfei Zhou, Anette Frank, Annemarie Friedrich and Alexis Palmer: [Semantically Enriched Models for Modal Sense Classification](https://aclanthology.org/W15-2705/). September 2015. In Proceedings of Linking Models of Lexical, Sentential and Discourse-level Semantics (LSDSem). Lisbon, Portugal.
 
