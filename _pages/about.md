@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-_Website under construction!_
-
 Contact
 -------
 E-Mail: firstname dot lastname @ gmail dot com
