@@ -13,10 +13,10 @@ redirect_from:
 Education
 --------
 **10/2011 - 02/2017** -
-PhD (Dr. phil.) at Saarland University, Department of Computational Linguistics (Advisor: Prof. Dr. Manfred Pinkal).
+PhD (Dr. phil.) at Saarland University, Department of Computational Linguistics (Advisor: [Prof. Dr. Manfred Pinkal](https://www.coli.uni-saarland.de/~pinkal/en/page.php)). *Summa cum laude.*
 
 **10/2009 - 09/2011** -
-Student of Language Science and Technology at Saarland University. Degree: Master of Science
+Student of Language Science and Technology at Saarland University. Degree: Master of Science.
  
 **09/2010 - 12/2010** -
 Erasmus Student Exchange: School of Informatics, University of Edinburgh.
@@ -33,13 +33,13 @@ Work Experience
 Research Scientist at the Bosch Center for Artificial Intelligence, Renningen, Stuttgart. Natural Language Processing and Semantic Reasoning.
 
 **11/2016 - 04/2019** -
-Research & Teaching Staff Member at Ludwig-Maximilians-Universität München, Center for Information and Language Processing (Centrum für Informations- und Sprachverarbeitung - CIS). (with Prof. Dr. Hinrich Schütze)
+Research & Teaching Staff Member at Ludwig-Maximilians-Universität München, Center for Information and Language Processing (Centrum für Informations- und Sprachverarbeitung - CIS). (with [Prof. Dr. Hinrich Schütze](https://www.cis.uni-muenchen.de/schuetze/))
 
 **10/2011-10/2016** -
 Research & Teaching Staff Member at Saarland University, Department of Computational Linguistics.
 
 **02/2014-05/2014** -
-Visiting Research Student at Edinburgh University, Institute for Language, Cognition and Computation (Advisor: Prof. Dr. Bonnie Webber).
+Visiting Research Student at Edinburgh University, Institute for Language, Cognition and Computation (Advisor: [Prof. Dr. Bonnie Webber](https://homepages.inf.ed.ac.uk/bonnie/)).
 
 **02/2011 - 08/2011** -
 Internship and Master Thesis at IBM T.J. Watson Research Center, Deep Question Answering (Watson/Jeopardy!) project.
@@ -61,12 +61,12 @@ Internship at IBM Software Group, Financial Services Sector Stuttgart.
 
 Awards
 --------
-* GSCL-Promotionspreis zum Gedenken an Wolfgang Hoeppner (2018)
+* [GSCL-Promotionspreis](https://gscl.org/en/auszeichnungen) zum Gedenken an Wolfgang Hoeppner (2018)
 * Dr. Eduard Martin-Dissertationspreis der Universitätsgesellschaft des Saarlandes (2017)
 * IBM Ph.D. Fellowship Award (2012-2015)
-* Scholarship Studienstiftung des Deutschen Volkes (2011)
-* Finalist of Google Anita Borg Memorial Scholarship (2010)
-* On-line Scholarship e-fellows.net (2006)
+* Scholarship [Studienstiftung des Deutschen Volkes](https://www.studienstiftung.de/) (2011)
+* Finalist of [Google Anita Borg Memorial Scholarship](https://students.googleblog.com/2010/05/introducing-googles-2010-anita-borg.html) (2010)
+* On-line Scholarship [e-fellows.net](https://www.e-fellows.net/) (2006)
   
 Skills
 --------
