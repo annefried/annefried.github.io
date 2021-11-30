@@ -8,6 +8,10 @@ author_profile: true
 
 June 2021: **Tutorial on Text Annotation**, GSCL Tutorial Talks (virtual).
 
+September 2018: **States, events, and generics: computational modeling of situation entity types**. Invited Talk at KONVENS, Vienna, Austria.
+
+January 2017: **States, events, and generics: computational modeling of situation entity types**. Kolloquium der Computerlinguistik und Linguistik, University of Stuttgart.
+
 December 2016: **States, events, and generics: computational modeling of situation entity types**. CIS Talks, LMU Munich. [[Slides](http://annefried.github.io/files/slides_cis_talk_dec2016_friedrich.pdf)]
 
 January 2016: **Annotation and automatic classification of situation entity types**. Kolloquium Übersetzungswissenschaft (colloquium translation studies), Saarland University. [[Slides](http://annefried.github.io/files/slides_jan2016_sb_friedrich.pdf)]
