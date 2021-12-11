@@ -7,7 +7,7 @@ author_profile: true
 
 University Didactics
 -------------------
-I am a passionated teacher and completed the [certificate in university didactics](https://www.uni-saarland.de/einrichtung/zell/arbeitsstelle-hochschuldidaktik/hochschuldidaktik-zertifikat.html) offered by Saarland University.
+I am a passionate teacher and completed the [certificate in university didactics](https://www.uni-saarland.de/einrichtung/zell/arbeitsstelle-hochschuldidaktik/hochschuldidaktik-zertifikat.html) offered by Saarland University.
 
 
 Teaching
