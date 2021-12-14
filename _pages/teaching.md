@@ -25,6 +25,8 @@ I have given various lectures and seminars at Saarland University and at Ludwig-
 
 * Recent Developments in Computational Discourse Processing (Seminar, co-taught with Alexis Palmer)
 
+* Recent Developments in Computational Semantics and Discourse Processing (Seminar, co-taught with Lilian Wanzare and Simon Ostermann)
+
 * Discourse Coherence Theories and Modeling (Seminar, co-taught with Alexis Palmer)
 
 
