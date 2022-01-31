@@ -29,8 +29,11 @@ Student Exchange: Staffordshire University, UK.
 
 Work Experience
 --------
+**since 01/2021** -
+Research Scientist and Activity Manager __Robust Language Processing__ at the Bosch Center for Artificial Intelligence, Renningen, Stuttgart.
+
 **since 05/2019** -
-Research Scientist at the Bosch Center for Artificial Intelligence, Renningen, Stuttgart. Natural Language Processing and Semantic Reasoning.
+Research Scientist at the Bosch Center for Artificial Intelligence, Renningen, Stuttgart.
 
 **11/2016 - 04/2019** -
 Research & Teaching Staff Member at Ludwig-Maximilians-Universität München, Center for Information and Language Processing (Centrum für Informations- und Sprachverarbeitung - CIS). (with [Prof. Dr. Hinrich Schütze](https://www.cis.uni-muenchen.de/schuetze/))
