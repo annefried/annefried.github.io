@@ -5,6 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
+September 2022: **Natural Language Processing Research von und für Bosch**, DHBW AI Transfer Congress, Heilbronn, Germany.
 
 June 2021: **Tutorial on Text Annotation**, GSCL Tutorial Talks (virtual).
 

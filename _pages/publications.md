@@ -12,6 +12,21 @@ Most of my articles can be found in the <a href="https://aclanthology.org/people
 
 {% include base_path %}
 
+
+Pre-Prints
+----------
+
+Annemarie Friedrich, Nianwen Xue, and Alexis Palmer. 
+[A Kind Introduction to Lexical and Grammatical Aspect, with a Survey of Computational Approaches](https://arxiv.org/abs/2208.09012). ArXiv Preprint. August 2022.
+
+
+2022
+----
+Chen et al. [Multi-label classification for biomedical literature: an overview of the BioCreative VII LitCovid Track for COVID-19 literature topic annotations](https://academic.oup.com/database/article/doi/10.1093/database/baac069/6679392). In Database, The Journal of Biological Databases and Curation. August 2022.
+
+Subhash Chandra Pujari, Fryderyk Mantiuk, Mark Giereth, Jannik Strötgen, and Annemarie Friedrich. [Evaluating Neural Multi-Field Document Representations for Patent Classification](to appear). In Proceedings of The 12th International Workshop on Bibliometric-enhanced Information Retrieval at ECIR 2022. (to appear)
+
+
 2021
 ----
 Subhash Chandra Pujari, Tim Tarsi, Jannik Strötgen, and Annemarie Friedrich. [RobertNLP at the BioCreative VII - LitCovid track: Neural Document Classification Using SciBERT](https://biocreative.bioinformatics.udel.edu/media/store/files/2021/TRACK5_pos_17_BC7_submission_146.pdf). In Proceedings of the BioCreative VII Challenge Evaluation Workshop. November 2021.
