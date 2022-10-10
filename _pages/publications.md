@@ -19,9 +19,25 @@ Pre-Prints
 Annemarie Friedrich, Nianwen Xue, and Alexis Palmer. 
 [A Kind Introduction to Lexical and Grammatical Aspect, with a Survey of Computational Approaches](https://arxiv.org/abs/2208.09012). ArXiv Preprint. August 2022.
 
+Sophie Henning, William H. Beluch, Alexander Fraser, and Annemarie Friedrich.
+[A Survey of Methods for Addressing Class Imbalance in Deep-Learning Based Natural Language Processing](to-be-added). ArXiv Preprint. October 2022.
+
 
 2022
 ----
+
+Subhash Chandra Pujari, Jannik Strötgen, Mark Giereth, Michael Gertz, and Annemarie Friedrich.
+[Three Real-World Datasets and Neural Computational Models for Classification Tasks in Patent Landscaping](to-be-added).
+In Proceedings of The 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP).
+December 2022. Abu Dhabi. (to appear)
+
+
+Sophie Henning, Nicole Macher, Stefan Grünewald, and Annemarie Friedrich.
+[MIST: a Large-Scale Annotated Resource and Neural Models for Functions of Modal Verbs in English Scientific Text](to-be-added).
+In Findings of EMNLP 2022.
+December 2022. Abu Dhabi. (to appear)
+
+
 Chen et al. [Multi-label classification for biomedical literature: an overview of the BioCreative VII LitCovid Track for COVID-19 literature topic annotations](https://academic.oup.com/database/article/doi/10.1093/database/baac069/6679392). In Database, The Journal of Biological Databases and Curation. August 2022.
 
 Subhash Chandra Pujari, Fryderyk Mantiuk, Mark Giereth, Jannik Strötgen, and Annemarie Friedrich. [Evaluating Neural Multi-Field Document Representations for Patent Classification](to appear). In Proceedings of The 12th International Workshop on Bibliometric-enhanced Information Retrieval at ECIR 2022. (to appear)
