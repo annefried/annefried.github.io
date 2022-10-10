@@ -29,8 +29,10 @@ Student Exchange: Staffordshire University, UK.
 
 Work Experience
 --------
+**since 04/2022** - Lead Research Scientist at the Bosch Center for Artificial Intelligence, Renningen, Stuttgart.
+
 **since 01/2021** -
-Research Scientist and Activity Manager __Robust Language Processing__ at the Bosch Center for Artificial Intelligence, Renningen, Stuttgart.
+Activity Manager __Robust Language Processing__ at the Bosch Center for Artificial Intelligence, Renningen, Stuttgart.
 
 **since 05/2019** -
 Research Scientist at the Bosch Center for Artificial Intelligence, Renningen, Stuttgart.
@@ -88,6 +90,7 @@ Service and Leadership
 --------
 * Vice President of the German Association for Computational Linguistics (GSCL)
 * Action Editor for ACL Rolling Review
+* EMNLP 2022 Area Chair Resources and Evaluation track
 * EMNLP 2021 Senior Area Chair Dialogue and Interactive Systems track
 * Member of the Ethics Program Committee NAACL 2021
 * ACL 2020 Area Chair Resources and Evaluation track

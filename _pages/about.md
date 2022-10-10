@@ -14,7 +14,7 @@ E-Mail: firstname dot lastname @ gmail dot com
 
 About me
 --------
-I am a __Lead Research Scientist__ working on Natural Language Processing and Computational Linguistics at the [Bosch Center for Artificial Intelligence](https://www.bosch-ai.com/). I am __Activity Manager__ for the _Robust Language Processing_ research activity.
+I am a __Lead Research Scientist__ working on Natural Language Processing and Computational Linguistics at the [Bosch Center for Artificial Intelligence](https://www.bosch-ai.com/). I am __Activity Manager__ for our _Robust Language Processing_ research activity.
 
 I am currently the vice president of the [German Society for Computational Linguistics](https://gscl.org/en) (GSCL), the scientific association in the German-speaking countries and regions for research, teaching and professional work in natural language processing.
 
