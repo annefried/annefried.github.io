@@ -20,7 +20,7 @@ Annemarie Friedrich, Nianwen Xue, and Alexis Palmer.
 [A Kind Introduction to Lexical and Grammatical Aspect, with a Survey of Computational Approaches](https://arxiv.org/abs/2208.09012). ArXiv Preprint. August 2022.
 
 Sophie Henning, William H. Beluch, Alexander Fraser, and Annemarie Friedrich.
-[A Survey of Methods for Addressing Class Imbalance in Deep-Learning Based Natural Language Processing](to-be-added). ArXiv Preprint. October 2022.
+[A Survey of Methods for Addressing Class Imbalance in Deep-Learning Based Natural Language Processing](https://arxiv.org/abs/2210.04675). ArXiv Preprint. October 2022.
 
 
 2022
