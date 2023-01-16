@@ -14,7 +14,7 @@ E-Mail: firstname dot lastname @ gmail dot com
 
 About me
 --------
-I am a __Lead Research Scientist__ working on Natural Language Processing and Computational Linguistics at the [Bosch Center for Artificial Intelligence](https://www.bosch-ai.com/). I am __Activity Manager__ for our _Robust Language Processing_ research activity.
+I am a __Senior Expert__ working on Natural Language Processing and Computational Linguistics at the [Bosch Center for Artificial Intelligence](https://www.bosch-ai.com/).
 
 I am currently the vice president of the [German Society for Computational Linguistics](https://gscl.org/en) (GSCL), the scientific association in the German-speaking countries and regions for research, teaching and professional work in natural language processing.
 
@@ -36,6 +36,7 @@ PhD Students
 
 In case you're wondering ... I am not a university professor but I am lucky to work very closely with several very talented PhD students at our industrial research lab.
 
+* Timo Schrader (2023-), temporal processing of text, co-supervised with Lukas Lange (Bosch Center for Artificial Intelligence)
 * Sophie Henning (2021-), uncertainty modeling and confidence estimation for deep learning in NLP, co-supervised with Alexander Fraser (LMU Munich)
-* [Stefan Grünewald](https://stgrue.net/) (2019-), dependency-parsing based approaches to open information extraction from scientitic text, co-supervised with Jonas Kuhn (University of Stuttgart)
-* [Subhash Pujari Chandra](https://scholar.google.com/citations?user=Pda-ntQAAAAJ&hl=en) (2019-), text mining from patents, co-supervised with Michael Gertz (Heidelberg University) and Jannik Strötgen
+* [Stefan Grünewald](https://stgrue.net/) (2019-2023), dependency-parsing based approaches to open information extraction from scientitic text, co-supervised with Jonas Kuhn (University of Stuttgart)
+* [Subhash Pujari Chandra](https://scholar.google.com/citations?user=Pda-ntQAAAAJ&hl=en) (2019-2023), text mining from patents, co-supervised with Michael Gertz (Heidelberg University) and Jannik Strötgen
