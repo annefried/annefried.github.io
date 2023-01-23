@@ -13,14 +13,13 @@ Most of my articles can be found in the <a href="https://aclanthology.org/people
 {% include base_path %}
 
 
-Pre-Prints
-----------
-
+2023
+----
 Annemarie Friedrich, Nianwen Xue, and Alexis Palmer. 
-[A Kind Introduction to Lexical and Grammatical Aspect, with a Survey of Computational Approaches](https://arxiv.org/abs/2208.09012). ArXiv Preprint. August 2022.
+[A Kind Introduction to Lexical and Grammatical Aspect, with a Survey of Computational Approaches](https://arxiv.org/abs/2208.09012). Accepted to EACL.
 
 Sophie Henning, William H. Beluch, Alexander Fraser, and Annemarie Friedrich.
-[A Survey of Methods for Addressing Class Imbalance in Deep-Learning Based Natural Language Processing](https://arxiv.org/abs/2210.04675). ArXiv Preprint. October 2022.
+[A Survey of Methods for Addressing Class Imbalance in Deep-Learning Based Natural Language Processing](https://arxiv.org/abs/2210.04675). Accepted to EACL.
 
 
 2022
