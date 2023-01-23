@@ -29,9 +29,11 @@ Student Exchange: Staffordshire University, UK.
 
 Work Experience
 --------
+**since 01/2023** - Senior Expert for Natural Language Processing at the Bosch Center for Artificial Intelligence, Renningen, Stuttgart.
+
 **since 04/2022** - Lead Research Scientist at the Bosch Center for Artificial Intelligence, Renningen, Stuttgart.
 
-**since 01/2021** -
+**since 01/2022** -
 Activity Manager __Robust Language Processing__ at the Bosch Center for Artificial Intelligence, Renningen, Stuttgart.
 
 **since 05/2019** -
