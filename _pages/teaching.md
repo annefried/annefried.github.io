@@ -33,11 +33,11 @@ I have given various lectures and seminars at Saarland University and at Ludwig-
 Theses advised
 -------------
 
-* Fryderyk Mantiuk: "tba", B.Sc. thesis, DHBW Stuttgart, September 2021. (co-advised with Subhash Pujari)
+* Fryderyk Mantiuk: "Identifying informative document representations for patent classification", B.Sc. thesis, DHBW Stuttgart, September 2021. (co-advised with Subhash Pujari)
 
 * Elizaveta Sineva: "Negation Resolution as Dependency Parsing", M.Sc. thesis, IMS Universität Stuttgart, July 2021. (co-advised with Stefan Grünewald and Jonas Kuhn)
 
-* Frederik Oertel: "tba", B.Sc. thesis, DHBW Stuttgart, 2021. (co-advised with Stefan Grünewald)
+* Frederik Oertel: "Learning to Lexicalize Enhanced Universal Dependency Relations from Treebank Data", B.Sc. thesis, DHBW Stuttgart, 2021. (co-advised with Stefan Grünewald)
 
 * Timo Schrader: "Concept Detection for User-Guided Information Extraction in the Materials Science Domain", B.Sc. thesis, DHBW Stuttgart, September 2020.
 
