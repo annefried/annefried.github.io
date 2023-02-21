@@ -13,37 +13,37 @@ redirect_from:
 Education
 --------
 **10/2011 - 02/2017** -
-PhD (Dr. phil.) at Saarland University, Department of Computational Linguistics (Advisor: [Prof. Dr. Manfred Pinkal](https://www.coli.uni-saarland.de/~pinkal/en/page.php)). *Summa cum laude.*
+**PhD (Dr. phil.)** at Saarland University, Department of Computational Linguistics (Advisor: [Prof. Dr. Manfred Pinkal](https://www.coli.uni-saarland.de/~pinkal/en/page.php)). *Summa cum laude.*
 
 **10/2009 - 09/2011** -
-Student of Language Science and Technology at Saarland University. Degree: Master of Science.
+**Master of Science** in Language Science and Technology at Saarland University.
  
 **09/2010 - 12/2010** -
 Erasmus Student Exchange: School of Informatics, University of Edinburgh.
 
 **10/2006 - 09/2009** -
-Student of Applied Computer Science at the University of Cooperative Education Stuttgart (Duale Hochschule Baden-Württemberg) in cooperation with IBM Germany. Degree: Bachelor of Science.
+**Bachelor of Science** in Applied Computer Science at the University of Cooperative Education Stuttgart (Duale Hochschule Baden-Württemberg) in cooperation with IBM Germany.
 
 **01/2008 - 04/2008** -
 Student Exchange: Staffordshire University, UK.
 
 Work Experience
 --------
-**since 01/2023** - Senior Expert for Natural Language Processing at the Bosch Center for Artificial Intelligence, Renningen, Stuttgart.
+**since 01/2023** - **Senior Expert** for Natural Language Processing at the Bosch Center for Artificial Intelligence, Renningen, Stuttgart.
 
-**since 04/2022** - Lead Research Scientist at the Bosch Center for Artificial Intelligence, Renningen, Stuttgart.
+**since 04/2022** - **Lead Research Scientist** at the Bosch Center for Artificial Intelligence, Renningen, Stuttgart.
 
 **since 01/2022** -
-Activity Manager __Robust Language Processing__ at the Bosch Center for Artificial Intelligence, Renningen, Stuttgart.
+**Activity Manager** Robust Language Processing at the Bosch Center for Artificial Intelligence, Renningen, Stuttgart.
 
 **since 05/2019** -
-Research Scientist at the Bosch Center for Artificial Intelligence, Renningen, Stuttgart.
+**Research Scientist** at the Bosch Center for Artificial Intelligence, Renningen, Stuttgart.
 
 **11/2016 - 04/2019** -
-Research & Teaching Staff Member at Ludwig-Maximilians-Universität München, Center for Information and Language Processing (Centrum für Informations- und Sprachverarbeitung - CIS). (with [Prof. Dr. Hinrich Schütze](https://www.cis.uni-muenchen.de/schuetze/))
+**Research & Teaching Staff Member** at Ludwig-Maximilians-Universität München, Center for Information and Language Processing (Centrum für Informations- und Sprachverarbeitung - CIS). (with [Prof. Dr. Hinrich Schütze](https://www.cis.uni-muenchen.de/schuetze/))
 
 **10/2011-10/2016** -
-Research & Teaching Staff Member at Saarland University, Department of Computational Linguistics.
+**Research & Teaching Staff Member** at Saarland University, Department of Computational Linguistics.
 
 **02/2014-05/2014** -
 Visiting Research Student at Edinburgh University, Institute for Language, Cognition and Computation (Advisor: [Prof. Dr. Bonnie Webber](https://homepages.inf.ed.ac.uk/bonnie/)).
@@ -52,7 +52,7 @@ Visiting Research Student at Edinburgh University, Institute for Language, Cogni
 Internship and Master Thesis at IBM T.J. Watson Research Center, Deep Question Answering (Watson/Jeopardy!) project.
 
 **11/2009 - 07/2010** -
-Research Assistant at German Research Center for Artificial Intelligence (DFKI). Language Technologies Department, EuroMatrix Plus Project (Machine Translation).
+**Research Assistant** at German Research Center for Artificial Intelligence (DFKI). Language Technologies Department, EuroMatrix Plus Project (Machine Translation).
 
 **03/2010 - 04/2010** -
 Internship at IBM Research and Development Laboratory Böblingen, Germany, eDiscovery Analyzer team, development of text annotators.
@@ -92,10 +92,12 @@ Service and Leadership
 --------
 * Vice President of the German Association for Computational Linguistics (GSCL)
 * Action Editor for ACL Rolling Review
+* Program Chair KONVENS 2023
+* EACL 2023 Area Chair Resources and Evaluation track
 * EMNLP 2022 Area Chair Resources and Evaluation track
 * EMNLP 2021 Senior Area Chair Dialogue and Interactive Systems track
 * Member of the Ethics Program Committee NAACL 2021
 * ACL 2020 Area Chair Resources and Evaluation track
 * EMNLP 2020 Area Chair Discourse & Pragmatics track (Outstanding Area Chair)
-* Reviewer for ACL, NAACL-HLT, EMNLP, Coling
-* Organizer of the Linguistic Annotation Workshop (LAW) 2016 and 2019
+* Organizer of the Linguistic Annotation Workshop (LAW) 2016, 2019, and 2023
+* Reviewer for ACL, NAACL-HLT, EMNLP, EACL, Coling
