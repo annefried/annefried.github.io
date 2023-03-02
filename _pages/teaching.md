@@ -36,7 +36,7 @@ Theses advised
 
 * Teresa Bürkle: "Addressing Class Imbalance in Argumentative Zoning: Effectiveness of Oversampling for Pre-trained Transformer Models", B.Sc. thesis, DHBW Stuttgart, May 2022. (co-advised with Sophie Henning)
 
-* Fryderyk Mantiuk: "Identifying informative document representations for patent classification", B.Sc. thesis, DHBW Stuttgart, September 2021. (co-advised with Subhash Pujari) [[BIR Workshop]((https://ceur-ws.org/Vol-3230/paper-04.pdf)]
+* Fryderyk Mantiuk: "Identifying informative document representations for patent classification", B.Sc. thesis, DHBW Stuttgart, September 2021. (co-advised with Subhash Pujari) [[BIR Workshop](https://ceur-ws.org/Vol-3230/paper-04.pdf)]
 
 * Elizaveta Sineva: "Negation Resolution as Dependency Parsing", M.Sc. thesis, IMS Universität Stuttgart, July 2021. (co-advised with Stefan Grünewald and Jonas Kuhn) [[CoNLL Main Conference](https://aclanthology.org/2021.conll-1.41/)]
 
