@@ -36,7 +36,9 @@ PhD Students
 
 In case you're wondering ... I am not a university professor but I am lucky to work very closely with several very talented PhD students at our industrial research lab.
 
-* Timo Schrader (2023-), temporal processing of text, co-supervised with Lukas Lange (Bosch Center for Artificial Intelligence)
+* Valentin Knappich (2023-), document-level processing of patent text, co-supervised with Heike Adel and Simon Razniewski (Bosch Center for Artificial Intelligence)
+* Timo Schrader (2023-), temporal processing of text, co-supervised with Lukas Lange and Simon Razniewski (Bosch Center for Artificial Intelligence)
+* Wei Zhou (2023-), document-level modeling of text, co-supervised with Heike Adel (Bosch Center for Artificial Intelligence)
 * Sophie Henning (2021-), uncertainty modeling and confidence estimation for deep learning in NLP, co-supervised with Alexander Fraser (LMU Munich)
 * [Stefan Grünewald](https://stgrue.net/) (2019-2023), dependency-parsing based approaches to open information extraction from scientitic text, co-supervised with Jonas Kuhn (University of Stuttgart)
 * [Subhash Pujari Chandra](https://scholar.google.com/citations?user=Pda-ntQAAAAJ&hl=en) (2019-2023), text mining from patents, co-supervised with Michael Gertz (Heidelberg University) and Jannik Strötgen
