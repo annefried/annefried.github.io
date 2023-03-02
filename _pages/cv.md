@@ -90,14 +90,15 @@ Languages
   
 Service and Leadership
 --------
-* Vice President of the German Association for Computational Linguistics (GSCL)
-* Action Editor for ACL Rolling Review
-* Program Chair KONVENS 2023
+* Vice President of the [German Association for Computational Linguistics](https://gscl.org) (GSCL)
+* Action Editor for [ACL Rolling Review](https://aclrollingreview.org/)
+* Editorial Board Member of the [Language Resources and Evaluation](https://www.springer.com/journal/10579) (LRE) Journal
+* Program Chair [KONVENS 2023](https://www.thi.de/konvens-2023/)
 * EACL 2023 Area Chair Resources and Evaluation track
 * EMNLP 2022 Area Chair Resources and Evaluation track
 * EMNLP 2021 Senior Area Chair Dialogue and Interactive Systems track
 * Member of the Ethics Program Committee NAACL 2021
 * ACL 2020 Area Chair Resources and Evaluation track
 * EMNLP 2020 Area Chair Discourse & Pragmatics track (Outstanding Area Chair)
-* Organizer of the Linguistic Annotation Workshop (LAW) 2016, 2019, and 2023
+* Organizer of the [Linguistic Annotation Workshop](https://sigann.github.io/) (LAW) 2016, 2019, and 2023
 * Reviewer for ACL, NAACL-HLT, EMNLP, EACL, Coling

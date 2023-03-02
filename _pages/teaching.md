@@ -32,18 +32,23 @@ I have given various lectures and seminars at Saarland University and at Ludwig-
 
 Theses advised
 -------------
+* Tim Tarsi: "Extracting Text-based Image Features for Scientific Figure Retrieval", B.Sc. thesis, DHBW Stuttgart, September 2022. (co-advised with Heike Adel)
 
-* Fryderyk Mantiuk: "Identifying informative document representations for patent classification", B.Sc. thesis, DHBW Stuttgart, September 2021. (co-advised with Subhash Pujari)
+* Teresa Bürkle: "Addressing Class Imbalance in Argumentative Zoning: Effectiveness of Oversampling for Pre-trained Transformer Models", B.Sc. thesis, DHBW Stuttgart, May 2022. (co-advised with Sophie Henning)
 
-* Elizaveta Sineva: "Negation Resolution as Dependency Parsing", M.Sc. thesis, IMS Universität Stuttgart, July 2021. (co-advised with Stefan Grünewald and Jonas Kuhn)
+* Fryderyk Mantiuk: "Identifying informative document representations for patent classification", B.Sc. thesis, DHBW Stuttgart, September 2021. (co-advised with Subhash Pujari) [[BIR Workshop]((https://ceur-ws.org/Vol-3230/paper-04.pdf)]
 
-* Frederik Oertel: "Learning to Lexicalize Enhanced Universal Dependency Relations from Treebank Data", B.Sc. thesis, DHBW Stuttgart, 2021. (co-advised with Stefan Grünewald)
+* Elizaveta Sineva: "Negation Resolution as Dependency Parsing", M.Sc. thesis, IMS Universität Stuttgart, July 2021. (co-advised with Stefan Grünewald and Jonas Kuhn) [[CoNLL Main Conference](https://aclanthology.org/2021.conll-1.41/)]
+
+* Frederik Oertel: "Learning to Lexicalize Enhanced Universal Dependency Relations from Treebank Data", B.Sc. thesis, DHBW Stuttgart, 2021. (co-advised with Stefan Grünewald) [IWPT Shared Task]](https://aclanthology.org/2021.iwpt-1.21/)]
 
 * Timo Schrader: "Concept Detection for User-Guided Information Extraction in the Materials Science Domain", B.Sc. thesis, DHBW Stuttgart, September 2020.
 
-* Damyana Gateva: "Acquisition of Parallel Corpora for Aspect Classification", B.Sc. thesis, Saarland University, December 2016.
+* Hanna Wecker: "Exploring Challenging Clustering-Based Data Splits for Model Performance Evaluation", M.Sc. thesis, LMU München, 2020. (co-advised with Heike Adel) [[Eval4NLP Workshop](https://aclanthology.org/2020.eval4nlp-1.15/)]
 
-* Kleio-Isidora Mavridou, "Situation Entity Types: a Cross-linguistic Corpus Study and a Comparison of Automatic Classifiers", M.Sc. thesis, Saarland University, February 2016.
+* Damyana Gateva: "Acquisition of Parallel Corpora for Aspect Classification", B.Sc. thesis, Saarland University, December 2016. [[EMNLP Main Conference](https://aclanthology.org/D17-1271/)]
+
+* Kleio-Isidora Mavridou, "Situation Entity Types: a Cross-linguistic Corpus Study and a Comparison of Automatic Classifiers", M.Sc. thesis, Saarland University, February 2016. [[LSDSem Workshop](https://aclanthology.org/W15-2702/)]
 
 * Susanne Fertmann, "Using Speaker Identification to Improve Coreference Resolution in Literary Narratives", M.Sc. thesis, Saarland University. January 2016.
 
@@ -53,4 +58,4 @@ Theses advised
 
 * Yudong Zhou, "Fine-grained Sentiment Analysis with Discourse Structure", M.Sc. thesis, Saarland University, October 2013. (co-advised with Alexis Palmer)
 
-* Marina Valeeva, "Linguistic Quality Violations in Multi-Document Summarization", M.Sc. thesis, Saarland University, 2013. (co-advised with Alexis Palmer)
+* Marina Valeeva, "Linguistic Quality Violations in Multi-Document Summarization", M.Sc. thesis, Saarland University, 2013. (co-advised with Alexis Palmer) [[LREC](https://aclanthology.org/L14-1467/)]

@@ -39,7 +39,7 @@ December 2022. Abu Dhabi. (to appear)
 
 Chen et al. [Multi-label classification for biomedical literature: an overview of the BioCreative VII LitCovid Track for COVID-19 literature topic annotations](https://academic.oup.com/database/article/doi/10.1093/database/baac069/6679392). In Database, The Journal of Biological Databases and Curation. August 2022.
 
-Subhash Chandra Pujari, Fryderyk Mantiuk, Mark Giereth, Jannik Strötgen, and Annemarie Friedrich. [Evaluating Neural Multi-Field Document Representations for Patent Classification](to appear). In Proceedings of The 12th International Workshop on Bibliometric-enhanced Information Retrieval at ECIR 2022. (to appear)
+Subhash Chandra Pujari, Fryderyk Mantiuk, Mark Giereth, Jannik Strötgen, and Annemarie Friedrich. [Evaluating Neural Multi-Field Document Representations for Patent Classification](https://ceur-ws.org/Vol-3230/paper-04.pdf). In Proceedings of The 12th International Workshop on Bibliometric-enhanced Information Retrieval at ECIR 2022. (to appear)
 
 
 2021
