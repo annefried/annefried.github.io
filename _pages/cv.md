@@ -29,14 +29,13 @@ Student Exchange: Staffordshire University, UK.
 
 Work Experience
 --------
-**since 01/2023** - **Senior Expert** for Natural Language Processing at the Bosch Center for Artificial Intelligence, Renningen, Stuttgart.
+**since 06/2023** - **Professor** (tenured) at the Faculty of Applied Computer Science, University of Augsburg, Germany.
 
-**since 04/2022** - **Lead Research Scientist** at the Bosch Center for Artificial Intelligence, Renningen, Stuttgart.
+**01/2023 - 04/2023** - **Senior Expert** for Natural Language Processing at the Bosch Center for Artificial Intelligence, Renningen, Stuttgart.
 
-**since 01/2022** -
-**Activity Manager** Robust Language Processing at the Bosch Center for Artificial Intelligence, Renningen, Stuttgart.
+**04/2022 - 12/2022** - **Lead Research Scientist** at the Bosch Center for Artificial Intelligence, Renningen, Stuttgart.
 
-**since 05/2019** -
+**05/2019 - 03/2022**
 **Research Scientist** at the Bosch Center for Artificial Intelligence, Renningen, Stuttgart.
 
 **11/2016 - 04/2019** -
@@ -90,9 +89,10 @@ Languages
   
 Service and Leadership
 --------
-* Vice President of the [German Association for Computational Linguistics](https://gscl.org) (GSCL)
+* Vice President of the [German Association for Computational Linguistics](https://gscl.org) (GSCL) 2019-2023
 * Action Editor for [ACL Rolling Review](https://aclrollingreview.org/)
 * Editorial Board Member of the [Language Resources and Evaluation](https://www.springer.com/journal/10579) (LRE) Journal
+* LREC/Coling 2024 Workshop Chair
 * Program Chair [KONVENS 2023](https://www.thi.de/konvens-2023/)
 * EACL 2023 Area Chair Resources and Evaluation track
 * EMNLP 2022 Area Chair Resources and Evaluation track

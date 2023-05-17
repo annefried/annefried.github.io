@@ -10,8 +10,13 @@ University Didactics
 I am a passionate teacher and completed the [certificate in university didactics](https://www.uni-saarland.de/einrichtung/zell/arbeitsstelle-hochschuldidaktik/hochschuldidaktik-zertifikat.html) offered by Saarland University.
 
 
-Teaching
---------
+Current Teaching
+----------------
+* SS 2023: Introduction to Natural Language Processing (for B.Sc. Computer Science, B.Sc. Data Science),
+
+
+Past Teaching
+-------------
 
 I have given various lectures and seminars at Saarland University and at Ludwig-Maximilians-Universität Munich.
 

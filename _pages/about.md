@@ -14,7 +14,9 @@ E-Mail: firstname dot lastname @ gmail dot com
 
 About me
 --------
-I am a __Senior Expert__ working on Natural Language Processing and Computational Linguistics at the [Bosch Center for Artificial Intelligence](https://www.bosch-ai.com/).
+I am a _University Professor_ (tenured) for __Natural Language Understanding__ at the Faculty of Applied Computer Science at the __University of Augsburg__ (start date: June 1, 2023).
+
+Before that, I was a __Senior Expert__ working on Natural Language Processing and Computational Linguistics at the [Bosch Center for Artificial Intelligence](https://www.bosch-ai.com/).
 
 I am currently the vice president of the [German Society for Computational Linguistics](https://gscl.org/en) (GSCL), the scientific association in the German-speaking countries and regions for research, teaching and professional work in natural language processing.
 
@@ -34,11 +36,12 @@ I am interested in understanding and modeling interactions at the syntax-semanti
 PhD Students
 ------------
 
-In case you're wondering ... I am not a university professor but I am lucky to work very closely with several very talented PhD students at our industrial research lab.
-
-* Valentin Knappich (2023-), document-level processing of patent text, co-supervised with Heike Adel and Simon Razniewski (Bosch Center for Artificial Intelligence)
+* Valentin Knappich (2023-), document-level processing of patent text, co-supervised with Simon Razniewski (Bosch Center for Artificial Intelligence)
 * Timo Schrader (2023-), temporal processing of text, co-supervised with Lukas Lange and Simon Razniewski (Bosch Center for Artificial Intelligence)
 * Wei Zhou (2023-), document-level modeling of text, co-supervised with Heike Adel (Bosch Center for Artificial Intelligence)
-* Sophie Henning (2021-), uncertainty modeling and confidence estimation for deep learning in NLP, co-supervised with Alexander Fraser (LMU Munich)
+
+I also work(ed) very closely with the following PhD students:
+
+* [Sophie Henning](https://sophiehenning.github.io/) (2021-), uncertainty modeling and confidence estimation for deep learning in NLP, co-supervised with Alexander Fraser (LMU Munich)
 * [Stefan Grünewald](https://stgrue.net/) (2019-2023), dependency-parsing based approaches to open information extraction from scientitic text, co-supervised with Jonas Kuhn (University of Stuttgart)
 * [Subhash Pujari Chandra](https://scholar.google.com/citations?user=Pda-ntQAAAAJ&hl=en) (2019-2023), text mining from patents, co-supervised with Michael Gertz (Heidelberg University) and Jannik Strötgen
