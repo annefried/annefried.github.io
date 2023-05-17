@@ -14,7 +14,7 @@ E-Mail: firstname dot lastname @ gmail dot com
 
 About me
 --------
-I am a _University Professor_ (tenured) for __Natural Language Understanding__ at the Faculty of Applied Computer Science at the __University of Augsburg__ (start date: June 1, 2023).
+I am a __University Professor__ (tenured) for __Natural Language Understanding__ (Computational Linguistics) at the Faculty of Applied Computer Science at the __University of Augsburg__ (start date: June 1, 2023).
 
 Before that, I was a __Senior Expert__ working on Natural Language Processing and Computational Linguistics at the [Bosch Center for Artificial Intelligence](https://www.bosch-ai.com/).
 

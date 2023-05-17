@@ -12,12 +12,11 @@ I am a passionate teacher and completed the [certificate in university didactics
 
 Current Teaching
 ----------------
-* SS 2023: Introduction to Natural Language Processing (for B.Sc. Computer Science, B.Sc. Data Science),
+* SS 2023: Introduction to Natural Language Processing (for B.Sc. Computer Science/Data Science).
 
 
 Past Teaching
 -------------
-
 I have given various lectures and seminars at Saarland University and at Ludwig-Maximilians-Universität Munich.
 
 * Einführung in die Computerlinguistik (Introduction to Computational Linguistics, co-taught with Benjamin Roth)

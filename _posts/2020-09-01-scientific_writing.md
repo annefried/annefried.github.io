@@ -13,4 +13,4 @@ An [overview](https://blog.apastyle.org/apastyle/2011/08/punctuating-around-quot
 
 I highly recommend [this book](https://www.worldscientific.com/worldscibooks/10.1142/q0232) on science research writing for non-native speakers of English as a must-read for PhD students in our field.
 
-[Scientifc Writing Cheat Sheet + Exercises (PDF)], developed for PhD students, but certainly also useful for Bachelor/Master students.
+[Scientifc Writing Cheat Sheet + Exercises (PDF)](http://annefried.github.io/files/Scientific_Writing_Exercises_09-22.pdf), developed for PhD students, but certainly also useful for Bachelor/Master students.
