@@ -15,11 +15,12 @@ Most of my articles can be found in the <a href="https://aclanthology.org/people
 
 2023
 ----
-Annemarie Friedrich, Nianwen Xue, and Alexis Palmer. 
-[A Kind Introduction to Lexical and Grammatical Aspect, with a Survey of Computational Approaches](https://arxiv.org/abs/2208.09012). Accepted to EACL.
+Timo Schrader, Teresa Bürkle, Sophie Henning, Sherry Tan, Matteo Finco, Stefan Grünewald, Maira Indrikova, Felix Hildebrand and Annemarie Friedrich.
+[MuLMS-AZ: An Argumentative Zoning Dataset for the Materials Science Domain](https://arxiv.org/abs/2307.02340). In Proceedings of the 4th Workshop on Computational Approaches to Discourse. Toronto, 2023.
 
-Sophie Henning, William H. Beluch, Alexander Fraser, and Annemarie Friedrich.
-[A Survey of Methods for Addressing Class Imbalance in Deep-Learning Based Natural Language Processing](https://arxiv.org/abs/2210.04675). Accepted to EACL.
+Annemarie Friedrich, Nianwen Xue, and Alexis Palmer. 2023. [A Kind Introduction to Lexical and Grammatical Aspect, with a Survey of Computational Approaches](https://aclanthology.org/2023.eacl-main.44/). In Proceedings of the 17th Conference of the European Chapter of the Association for Computational Linguistics, pages 599–622, Dubrovnik, Croatia. Association for Computational Linguistics.
+
+Sophie Henning, William Beluch, Alexander Fraser, and Annemarie Friedrich. 2023. [A Survey of Methods for Addressing Class Imbalance in Deep-Learning Based Natural Language Processing](https://www.google.com/url?client=internal-element-cse&cx=000299513257099441687:fkkgoogvtaw&q=https://aclanthology.org/2023.eacl-main.38&sa=U&ved=2ahUKEwjb753Nyf__AhXPPOwKHcZdDAAQFnoECAcQAQ&usg=AOvVaw0I01ix9p7bEie5jIGj_8Ye). In Proceedings of the 17th Conference of the European Chapter of the Association for Computational Linguistics, pages 523–540, Dubrovnik, Croatia. Association for Computational Linguistics.
 
 
 2022

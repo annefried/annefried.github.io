@@ -10,7 +10,7 @@ redirect_from:
 
 Contact
 -------
-E-Mail: firstname dot lastname @ gmail dot com
+E-Mail: firstname dot lastname @ informatik dot uni-augsburg dot com
 
 About me
 --------
@@ -38,7 +38,7 @@ PhD Students
 
 * Valentin Knappich (2023-), document-level processing of patent text, co-supervised with Simon Razniewski (Bosch Center for Artificial Intelligence)
 * Timo Schrader (2023-), temporal processing of text, co-supervised with Lukas Lange and Simon Razniewski (Bosch Center for Artificial Intelligence)
-* Wei Zhou (2023-), document-level modeling of text, co-supervised with Heike Adel (Bosch Center for Artificial Intelligence)
+* Wei Zhou (2023-), document-level modeling of text, co-supervised with Heike Adel and Mohsen Mesgar (Bosch Center for Artificial Intelligence)
 
 I also work(ed) very closely with the following PhD students:
 
