@@ -12,6 +12,8 @@ Contact
 -------
 E-Mail: firstname dot lastname @ informatik dot uni-augsburg dot com
 
+Photo: © University of Augsburg
+
 About me
 --------
 I am a __University Professor__ (tenured) for __Natural Language Understanding__ (Computational Linguistics) at the Faculty of Applied Computer Science at the __University of Augsburg__ (start date: June 1, 2023).
