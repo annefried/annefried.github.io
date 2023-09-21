@@ -5,6 +5,10 @@ permalink: /talks/
 author_profile: true
 ---
 
+September 26, 2023: **Extracting Knowledge from Scientific Text: How to Leverage Domain Expertise and Linguistic Categories**, AI Impulse Series, IU International University of Applied Sciences, Germany.
+
+September 11, 2023: **Extracting Knowledge from Scientific Text: How to Leverage Domain Expertise and Linguistic Categories**, Deep Learning for Language Analysis Summer School, University of Cologne, Germany.
+
 September 2022: **Natural Language Processing Research von und für Bosch**, DHBW AI Transfer Congress, Heilbronn, Germany.
 
 June 2021: **Tutorial on Text Annotation**, GSCL Tutorial Talks (virtual).
