@@ -10,7 +10,7 @@ redirect_from:
 
 Contact
 -------
-E-Mail: firstname dot lastname @ informatik dot uni-augsburg dot com
+E-Mail: firstname dot lastname @ informatik dot uni minus augsburg dot de
 
 Photo: © University of Augsburg
 
