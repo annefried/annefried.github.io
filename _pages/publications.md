@@ -13,10 +13,18 @@ Most of my articles can be found in the <a href="https://aclanthology.org/people
 {% include base_path %}
 
 
+
+
+
 2023
 ----
-Timo Schrader, Teresa Bürkle, Sophie Henning, Sherry Tan, Matteo Finco, Stefan Grünewald, Maira Indrikova, Felix Hildebrand and Annemarie Friedrich.
-[MuLMS-AZ: An Argumentative Zoning Dataset for the Materials Science Domain](https://arxiv.org/abs/2307.02340). In Proceedings of the 4th Workshop on Computational Approaches to Discourse. Toronto, 2023.
+
+Sophie Henning, Talita Anthonio, Wei Zhou, Heike Adel, Mohsen Mesgar, and Annemarie Friedrich. 2023. [Is the Answer in the Text? Challenging ChatGPT with Evidence Retrieval from Instructive Text](). In Proceedings of Findings of the Association for Computational Linguistics: EMNLP 2023. <i>to appear</i>
+
+Timo Pierre Schrader, Simon Razniewski, Lukas Lange and Annemarie Friedrich. 2023. [BoschAI @ Causal News Corpus 2023: Robust Cause-Effect Span Extraction using Multi-Layer Sequence Tagging and Data Augmentation](). In Proceedings of The 6th Workshop on Challenges and Applications of Automated Extraction of Socio-political Events from Text (CASE). September 2023, Varna. <i>to appear</i>
+
+Timo Pierre Schrader, Teresa Bürkle, Sophie Henning, Sherry Tan, Matteo Finco, Stefan Grünewald, Maira Indrikova, Felix Hildebrand and Annemarie Friedrich.
+[MuLMS-AZ: An Argumentative Zoning Dataset for the Materials Science Domain](https://aclanthology.org/2023.codi-1.1/). In Proceedings of the 4th Workshop on Computational Approaches to Discourse. Toronto, 2023.
 
 Annemarie Friedrich, Nianwen Xue, and Alexis Palmer. 2023. [A Kind Introduction to Lexical and Grammatical Aspect, with a Survey of Computational Approaches](https://aclanthology.org/2023.eacl-main.44/). In Proceedings of the 17th Conference of the European Chapter of the Association for Computational Linguistics, pages 599–622, Dubrovnik, Croatia. Association for Computational Linguistics.
 
