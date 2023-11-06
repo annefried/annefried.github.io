@@ -13,6 +13,10 @@ Most of my articles can be found in the <a href="https://aclanthology.org/people
 {% include base_path %}
 
 
+2024
+----
+
+Tim Tarsi, Heike Adel, Jan Hendrik Metzen, Dan Zhang, Matteo Finco, and Annemarie Friedrich. 2024. [SciOL and MuLMS-Img: Introducing A Large-Scale Multimodal Scientific Dataset and Models for Image-Text Tasks in the Scientific Domain](). In Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV). January 2024, Waikoloa, Hawaii. <i>to appear</i>
 
 
 
@@ -21,14 +25,14 @@ Most of my articles can be found in the <a href="https://aclanthology.org/people
 
 Sophie Henning, Talita Anthonio, Wei Zhou, Heike Adel, Mohsen Mesgar, and Annemarie Friedrich. 2023. [Is the Answer in the Text? Challenging ChatGPT with Evidence Retrieval from Instructive Text](). In Proceedings of Findings of the Association for Computational Linguistics: EMNLP 2023. <i>to appear</i>
 
-Timo Pierre Schrader, Simon Razniewski, Lukas Lange and Annemarie Friedrich. 2023. [BoschAI @ Causal News Corpus 2023: Robust Cause-Effect Span Extraction using Multi-Layer Sequence Tagging and Data Augmentation](). In Proceedings of The 6th Workshop on Challenges and Applications of Automated Extraction of Socio-political Events from Text (CASE). September 2023, Varna. <i>to appear</i>
+Timo Pierre Schrader, Simon Razniewski, Lukas Lange and Annemarie Friedrich. 2023. [BoschAI @ Causal News Corpus 2023: Robust Cause-Effect Span Extraction using Multi-Layer Sequence Tagging and Data Augmentation](https://arxiv.org/abs/2310.15569). In Proceedings of The 6th Workshop on Challenges and Applications of Automated Extraction of Socio-political Events from Text (CASE). September 2023, Varna. <i>to appear</i>
 
 Timo Pierre Schrader, Teresa Bürkle, Sophie Henning, Sherry Tan, Matteo Finco, Stefan Grünewald, Maira Indrikova, Felix Hildebrand and Annemarie Friedrich.
 [MuLMS-AZ: An Argumentative Zoning Dataset for the Materials Science Domain](https://aclanthology.org/2023.codi-1.1/). In Proceedings of the 4th Workshop on Computational Approaches to Discourse. Toronto, 2023.
 
-Annemarie Friedrich, Nianwen Xue, and Alexis Palmer. 2023. [A Kind Introduction to Lexical and Grammatical Aspect, with a Survey of Computational Approaches](https://aclanthology.org/2023.eacl-main.44/). In Proceedings of the 17th Conference of the European Chapter of the Association for Computational Linguistics, pages 599–622, Dubrovnik, Croatia. Association for Computational Linguistics.
+Annemarie Friedrich, Nianwen Xue, and Alexis Palmer. 2023. [A Kind Introduction to Lexical and Grammatical Aspect, with a Survey of Computational Approaches](https://aclanthology.org/2023.eacl-main.44/). In Proceedings of the 17th Conference of the European Chapter of the Association for Computational Linguistics (EACL), pages 599–622, Dubrovnik, Croatia. Association for Computational Linguistics.
 
-Sophie Henning, William Beluch, Alexander Fraser, and Annemarie Friedrich. 2023. [A Survey of Methods for Addressing Class Imbalance in Deep-Learning Based Natural Language Processing](https://www.google.com/url?client=internal-element-cse&cx=000299513257099441687:fkkgoogvtaw&q=https://aclanthology.org/2023.eacl-main.38&sa=U&ved=2ahUKEwjb753Nyf__AhXPPOwKHcZdDAAQFnoECAcQAQ&usg=AOvVaw0I01ix9p7bEie5jIGj_8Ye). In Proceedings of the 17th Conference of the European Chapter of the Association for Computational Linguistics, pages 523–540, Dubrovnik, Croatia. Association for Computational Linguistics.
+Sophie Henning, William Beluch, Alexander Fraser, and Annemarie Friedrich. 2023. [A Survey of Methods for Addressing Class Imbalance in Deep-Learning Based Natural Language Processing](https://www.google.com/url?client=internal-element-cse&cx=000299513257099441687:fkkgoogvtaw&q=https://aclanthology.org/2023.eacl-main.38&sa=U&ved=2ahUKEwjb753Nyf__AhXPPOwKHcZdDAAQFnoECAcQAQ&usg=AOvVaw0I01ix9p7bEie5jIGj_8Ye). In Proceedings of the 17th Conference of the European Chapter of the Association for Computational Linguistics (EACL), pages 523–540, Dubrovnik, Croatia. Association for Computational Linguistics.
 
 
 2022
@@ -41,7 +45,7 @@ December 2022. Abu Dhabi. (to appear)
 
 
 Sophie Henning, Nicole Macher, Stefan Grünewald, and Annemarie Friedrich.
-[MIST: a Large-Scale Annotated Resource and Neural Models for Functions of Modal Verbs in English Scientific Text](https://aclanthology.org/2022.findings-emnlp.94/). In Findings of EMNLP 2022. December 2022. Abu Dhabi.
+[MIST: a Large-Scale Annotated Resource and Neural Models for Functions of Modal Verbs in English Scientific Text](https://aclanthology.org/2022.findings-emnlp.94/). In Proceedings of Findings of the Association for Computational Linguistics: EMNLP 2022. December 2022. Abu Dhabi.
 
 
 Chen et al. [Multi-label classification for biomedical literature: an overview of the BioCreative VII LitCovid Track for COVID-19 literature topic annotations](https://academic.oup.com/database/article/doi/10.1093/database/baac069/6679392). In Database, The Journal of Biological Databases and Curation. August 2022.
