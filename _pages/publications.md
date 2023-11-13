@@ -23,7 +23,7 @@ Tim Tarsi, Heike Adel, Jan Hendrik Metzen, Dan Zhang, Matteo Finco, and Annemari
 2023
 ----
 
-Valentin Knappich, Simon Razniewski, and Annemarie Friedrich. 
+Valentin Knappich, Simon Razniewski, and Annemarie Friedrich. 2023. [BoschAI @ PLABA 2023: Leveraging Edit Operations in End-to-End Neural Sentence Simplification](https://arxiv.org/abs/2311.01907). Arxiv pre-print.
 
 Sophie Henning, Talita Anthonio, Wei Zhou, Heike Adel, Mohsen Mesgar, and Annemarie Friedrich. 2023. [Is the Answer in the Text? Challenging ChatGPT with Evidence Retrieval from Instructive Text](). In Proceedings of Findings of the Association for Computational Linguistics: EMNLP 2023. <i>to appear</i>
 
