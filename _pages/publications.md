@@ -23,6 +23,8 @@ Tim Tarsi, Heike Adel, Jan Hendrik Metzen, Dan Zhang, Matteo Finco, and Annemari
 2023
 ----
 
+Valentin Knappich, Simon Razniewski, and Annemarie Friedrich. 
+
 Sophie Henning, Talita Anthonio, Wei Zhou, Heike Adel, Mohsen Mesgar, and Annemarie Friedrich. 2023. [Is the Answer in the Text? Challenging ChatGPT with Evidence Retrieval from Instructive Text](). In Proceedings of Findings of the Association for Computational Linguistics: EMNLP 2023. <i>to appear</i>
 
 Timo Pierre Schrader, Simon Razniewski, Lukas Lange and Annemarie Friedrich. 2023. [BoschAI @ Causal News Corpus 2023: Robust Cause-Effect Span Extraction using Multi-Layer Sequence Tagging and Data Augmentation](https://arxiv.org/abs/2310.15569). In Proceedings of The 6th Workshop on Challenges and Applications of Automated Extraction of Socio-political Events from Text (CASE). September 2023, Varna. <i>to appear</i>
