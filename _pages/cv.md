@@ -92,6 +92,7 @@ Service and Leadership
 * Vice President of the [German Association for Computational Linguistics](https://gscl.org) (GSCL) 2019-2023
 * Action Editor for [ACL Rolling Review](https://aclrollingreview.org/)
 * Editorial Board Member of the [Language Resources and Evaluation](https://www.springer.com/journal/10579) (LRE) Journal
+* EACL 2024 Ethics Chair / ACL ARR Guest Ethics Chair
 * LREC/Coling 2024 Workshop Chair
 * Program Chair [KONVENS 2023](https://www.thi.de/konvens-2023/)
 * EACL 2023 Area Chair Resources and Evaluation track
