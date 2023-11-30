@@ -38,15 +38,15 @@ I have given various lectures and seminars at Saarland University and at Ludwig-
 
 Theses advised
 -------------
-* Tim Tarsi: "Extracting Text-based Image Features for Scientific Figure Retrieval", B.Sc. thesis, DHBW Stuttgart, September 2022. (co-advised with Heike Adel)
+* Tim Tarsi: "Extracting Text-based Image Features for Scientific Figure Retrieval", B.Sc. thesis, DHBW Stuttgart, September 2022. (co-advised with Heike Adel) [Accepted to WACV 2024]
 
-* Teresa Bürkle: "Addressing Class Imbalance in Argumentative Zoning: Effectiveness of Oversampling for Pre-trained Transformer Models", B.Sc. thesis, DHBW Stuttgart, May 2022. (co-advised with Sophie Henning)
+* Teresa Bürkle: "Addressing Class Imbalance in Argumentative Zoning: Effectiveness of Oversampling for Pre-trained Transformer Models", B.Sc. thesis, DHBW Stuttgart, May 2022. (co-advised with Sophie Henning) [[CODI 2023](https://aclanthology.org/2023.codi-1.1/)]
 
 * Fryderyk Mantiuk: "Identifying informative document representations for patent classification", B.Sc. thesis, DHBW Stuttgart, September 2021. (co-advised with Subhash Pujari) [[BIR Workshop](https://ceur-ws.org/Vol-3230/paper-04.pdf)]
 
 * Elizaveta Sineva: "Negation Resolution as Dependency Parsing", M.Sc. thesis, IMS Universität Stuttgart, July 2021. (co-advised with Stefan Grünewald and Jonas Kuhn) [[CoNLL Main Conference](https://aclanthology.org/2021.conll-1.41/)]
 
-* Frederik Oertel: "Learning to Lexicalize Enhanced Universal Dependency Relations from Treebank Data", B.Sc. thesis, DHBW Stuttgart, 2021. (co-advised with Stefan Grünewald) [IWPT Shared Task]](https://aclanthology.org/2021.iwpt-1.21/)]
+* Frederik Oertel: "Learning to Lexicalize Enhanced Universal Dependency Relations from Treebank Data", B.Sc. thesis, DHBW Stuttgart, 2021. (co-advised with Stefan Grünewald) [[IWPT Shared Task](https://aclanthology.org/2021.iwpt-1.21/)]]
 
 * Timo Schrader: "Concept Detection for User-Guided Information Extraction in the Materials Science Domain", B.Sc. thesis, DHBW Stuttgart, September 2020.
 
