@@ -1,6 +1,6 @@
 ---
 title: 'Thesis Opportunity: Extreme Classification for Digital Humanities'
-date: 2022-09-01
+date: 2023-11-30
 permalink: /posts/2023-11-30-thesis_extreme_classification
 tags:
   - thesis_opportunity
