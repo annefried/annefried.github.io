@@ -26,4 +26,4 @@ Open to passionate Bachelor's/Master's students with an interest in natural lang
 
 ## Contact
 Prof. Dr. Annemarie Friedrich / Dr. Jakob Prange
-https://www.uni-augsburg.de/de/fakultaet/fai/informatik/prof/coling/
+[https://www.uni-augsburg.de/de/fakultaet/fai/informatik/prof/coling/](https://www.uni-augsburg.de/de/fakultaet/fai/informatik/prof/coling/)
