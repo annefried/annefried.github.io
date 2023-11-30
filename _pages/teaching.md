@@ -10,9 +10,11 @@ University Didactics
 I am a passionate teacher and completed the [certificate in university didactics](https://www.uni-saarland.de/einrichtung/zell/arbeitsstelle-hochschuldidaktik/hochschuldidaktik-zertifikat.html) offered by Saarland University.
 
 
-Current Teaching
+Current Teaching (WS 2023/24)
 ----------------
-* SS 2023: Introduction to Natural Language Processing (for B.Sc. Computer Science/Data Science).
+* Introduction to Natural Language Processing (for B.Sc. Computer Science/Data Science).
+* Introduction to Python Programming (for B.Sc. Computer Science), co-taught with Jakob Prange.
+* Seminar Natural Language Understanding (for B.Sc. Computer Science / M.Sc. Computer Science), co-taught with Jakob Prange.
 
 
 Past Teaching
