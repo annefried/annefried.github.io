@@ -1,12 +1,14 @@
 ---
-title: 'Thesis Opportunity: Extreme Classification for Digital Humanities'
+title: 'Bachelor/Master Thesis Opportunity: Extreme Classification for Digital Humanities'
 date: 2023-11-30
 permalink: /posts/2023-11-30-thesis_extreme_classification
 tags:
   - thesis_opportunity
 ---
 
-# Bachelor/Master Thesis Opportunity: Extreme Classification for Digital Humanities
+Are you fascinated by the crossroads of machine learning and human culture? Work with us on a Bachelor/Master Thesis that delves into Extreme Classification—a nuanced approach to handling complex datasets in the realm of Digital Humanities.
+
+# 
 Are you fascinated by the crossroads of machine learning and human culture? Work with us on a Bachelor/Master Thesis that delves into Extreme Classification—a nuanced approach to handling complex datasets in the realm of Digital Humanities.
 
 ## The Challenge
