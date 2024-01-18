@@ -5,6 +5,9 @@ permalink: /talks/
 author_profile: true
 ---
 
+January 17, 2024: **Wie kommen die Vorurteile in textbasierte KI-Modelle?**, Ringvorlesung Alexa, ChatGPT & Co: Wie haltet ihr es mit der Ethik? Eine interdisziplinäre Perspektive auf KI. (<a href="https://www.uni-augsburg.de/de/fakultaet/fai/informatik/studium/ringvorlesung-ki-ethik/">slides and audio</a>)
+
+
 September 26, 2023: **Extracting Knowledge from Scientific Text: How to Leverage Domain Expertise and Linguistic Categories**, AI Impulse Series, IU International University of Applied Sciences, Germany.
 
 September 11, 2023: **Extracting Knowledge from Scientific Text: How to Leverage Domain Expertise and Linguistic Categories**, Deep Learning for Language Analysis Summer School, University of Cologne, Germany.
