@@ -50,6 +50,6 @@ PhD Students
 
 I also work(ed) very closely with the following PhD students:
 
-* [Sophie Henning](https://sophiehenning.github.io/) (2021-), uncertainty modeling and confidence estimation for deep learning in NLP, co-supervised with Alexander Fraser (LMU Munich)
-* [Stefan Grünewald](https://stgrue.net/) (2019-2023), dependency-parsing based approaches to open information extraction from scientitic text, co-supervised with Jonas Kuhn (University of Stuttgart)
-* [Subhash Pujari Chandra](https://scholar.google.com/citations?user=Pda-ntQAAAAJ&hl=en) (2019-2023), text mining from patents, co-supervised with Michael Gertz (Heidelberg University) and Jannik Strötgen
+* [Sophie Henning](https://sophiehenning.github.io/) (2021-), Uncertainty Modeling for Deep Learning in NLP, co-supervised with Alexander Fraser (LMU Munich)
+* [Stefan Grünewald](https://stgrue.net/) (2019-2023), Syntactic Dependencies and Beyond: Robust Neural Architectures and Quality-Enhanced Corpora for Structured Prediction in NLP, co-supervised with Jonas Kuhn (University of Stuttgart)
+* [Subhash Pujari Chandra](https://scholar.google.com/citations?user=Pda-ntQAAAAJ&hl=en) (2019-2023), Neural Patent Classification beyond Title and Abstract: Leveraging Patent Text and Metadata, co-supervised with Michael Gertz (Heidelberg University) and Jannik Strötgen (FH Karlsruhe)

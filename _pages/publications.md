@@ -16,7 +16,13 @@ Most of my articles can be found in the <a href="https://aclanthology.org/people
 2024
 ----
 
-Tim Tarsi, Heike Adel, Jan Hendrik Metzen, Dan Zhang, Matteo Finco, and Annemarie Friedrich. 2024. [SciOL and MuLMS-Img: Introducing A Large-Scale Multimodal Scientific Dataset and Models for Image-Text Tasks in the Scientific Domain](). In Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV). January 2024, Waikoloa, Hawaii. <i>to appear</i>
+Ghazaleh Haratinezhad Torbati Dragan Milchevski Patrick Grau Subhash Pujari Lukas Lange, Marc Müller
+and Annemarie Friedrich. <strong>AnnoCTR: A Dataset for Detecting and Linking Entities, Tactics, and Techniques
+in Cyber Threat Reports.</strong> In Proceedings of LREC-COLING 2024 - The 2024 Joint International
+Conference on Computational Linguistics, Language Resources and Evaluation, 2024. <i>to appear</i>
+
+
+Tim Tarsi, Heike Adel, Jan Hendrik Metzen, Dan Zhang, Matteo Finco, and Annemarie Friedrich. 2024. [SciOL and MuLMS-Img: Introducing A Large-Scale Multimodal Scientific Dataset and Models for Image-Text Tasks in the Scientific Domain](https://openaccess.thecvf.com/content/WACV2024/html/Tarsi_SciOL_and_MuLMS-Img_Introducing_a_Large-Scale_Multimodal_Scientific_Dataset_and_WACV_2024_paper.html). In Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV). January 2024, Waikoloa, Hawaii.
 
 
 
@@ -25,7 +31,7 @@ Tim Tarsi, Heike Adel, Jan Hendrik Metzen, Dan Zhang, Matteo Finco, and Annemari
 
 Valentin Knappich, Simon Razniewski, and Annemarie Friedrich. 2023. [BoschAI @ PLABA 2023: Leveraging Edit Operations in End-to-End Neural Sentence Simplification](https://arxiv.org/abs/2311.01907). Arxiv pre-print.
 
-Sophie Henning, Talita Anthonio, Wei Zhou, Heike Adel, Mohsen Mesgar, and Annemarie Friedrich. 2023. [Is the Answer in the Text? Challenging ChatGPT with Evidence Retrieval from Instructive Text](). In Proceedings of Findings of the Association for Computational Linguistics: EMNLP 2023. <i>to appear</i>
+Sophie Henning, Talita Anthonio, Wei Zhou, Heike Adel, Mohsen Mesgar, and Annemarie Friedrich. 2023. [Is the Answer in the Text? Challenging ChatGPT with Evidence Retrieval from Instructive Text](https://aclanthology.org/2023.findings-emnlp.949/). In Proceedings of Findings of the Association for Computational Linguistics: EMNLP 2023.
 
 Timo Pierre Schrader, Simon Razniewski, Lukas Lange and Annemarie Friedrich. 2023. [BoschAI @ Causal News Corpus 2023: Robust Cause-Effect Span Extraction using Multi-Layer Sequence Tagging and Data Augmentation](https://aclanthology.org/2023.case-1.5/). In Proceedings of The 6th Workshop on Challenges and Applications of Automated Extraction of Socio-political Events from Text (CASE). September 2023, Varna. <i>to appear</i>
 
