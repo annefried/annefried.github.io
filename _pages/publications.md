@@ -16,8 +16,8 @@ Most of my articles can be found in the <a href="https://aclanthology.org/people
 2024
 ----
 
-Ghazaleh Haratinezhad Torbati Dragan Milchevski Patrick Grau Subhash Pujari Lukas Lange, Marc Müller
-and Annemarie Friedrich. <strong>AnnoCTR: A Dataset for Detecting and Linking Entities, Tactics, and Techniques
+Lukas Lange, Marc Müller, Ghazaleh Haratinezhad Torbati, Dragan Milchevski, Patrick Grau, Subhash Pujari and Annemarie Friedrich.
+ <strong>AnnoCTR: A Dataset for Detecting and Linking Entities, Tactics, and Techniques
 in Cyber Threat Reports.</strong> In Proceedings of LREC-COLING 2024 - The 2024 Joint International
 Conference on Computational Linguistics, Language Resources and Evaluation, 2024. <i>to appear</i>
 
