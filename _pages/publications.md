@@ -29,6 +29,8 @@ Tim Tarsi, Heike Adel, Jan Hendrik Metzen, Dan Zhang, Matteo Finco, and Annemari
 2023
 ----
 
+Timo Pierre Schrader, Matteo Finco, Stefan Grünewald, Felix Hildebrand, and Annemarie Friedrich. 2023. [MuLMS: A Multi-Layer Annotated Text Corpus for Information Extraction in the Materials Science Domain](https://aclanthology.org/2023.wiesp-1.11/). In Proceedings of the Second Workshop on Information Extraction from Scientific Publications, pages 84–100, Bali, Indonesia. Association for Computational Linguistics.
+
 Valentin Knappich, Simon Razniewski, and Annemarie Friedrich. 2023. [BoschAI @ PLABA 2023: Leveraging Edit Operations in End-to-End Neural Sentence Simplification](https://arxiv.org/abs/2311.01907). Arxiv pre-print.
 
 Sophie Henning, Talita Anthonio, Wei Zhou, Heike Adel, Mohsen Mesgar, and Annemarie Friedrich. 2023. [Is the Answer in the Text? Challenging ChatGPT with Evidence Retrieval from Instructive Text](https://aclanthology.org/2023.findings-emnlp.949/). In Proceedings of Findings of the Association for Computational Linguistics: EMNLP 2023.
