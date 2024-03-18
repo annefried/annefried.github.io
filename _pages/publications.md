@@ -16,6 +16,10 @@ Most of my articles can be found in the <a href="https://aclanthology.org/people
 2024
 ----
 
+Wei Zhou, Mohsen Mesgar, Heike Adel, and Annemarie Friedrich. <strong>FREB-TQA: A Fine-Grained Robustness Evaluation Benchmark for Table Question Answering.</strong>
+In Proceedings of 2024 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL). <i>(to appear)</i>
+
+
 Lukas Lange, Marc Müller, Ghazaleh Haratinezhad Torbati, Dragan Milchevski, Patrick Grau, Subhash Pujari and Annemarie Friedrich.
  <strong>AnnoCTR: A Dataset for Detecting and Linking Entities, Tactics, and Techniques
 in Cyber Threat Reports.</strong> In Proceedings of LREC-COLING 2024 - The 2024 Joint International
@@ -49,9 +53,9 @@ Sophie Henning, William Beluch, Alexander Fraser, and Annemarie Friedrich. 2023.
 ----
 
 Subhash Chandra Pujari, Jannik Strötgen, Mark Giereth, Michael Gertz, and Annemarie Friedrich.
-[Three Real-World Datasets and Neural Computational Models for Classification Tasks in Patent Landscaping](to-be-added).
+[Three Real-World Datasets and Neural Computational Models for Classification Tasks in Patent Landscaping](https://aclanthology.org/2022.emnlp-main.791/).
 In Proceedings of The 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP).
-December 2022. Abu Dhabi. (to appear)
+December 2022. Abu Dhabi.
 
 
 Sophie Henning, Nicole Macher, Stefan Grünewald, and Annemarie Friedrich.
