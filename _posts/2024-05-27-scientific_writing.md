@@ -15,11 +15,11 @@ __When you are advised by me or a team member on your thesis, please work throug
 
 Some initial hints:
 
-* First, very importantly, scientific writing is not like crime story writing: you do not need to wait with your results until the end. Throughout your article or thesis, mention important points and findings early on.
+* First, very importantly, __scientific writing is not like crime story writing__: you do not need to wait with your results until the end. Throughout your article or thesis, mention important points and findings early on.
 This will help the reader to understand and contextualize your proposed method/dataset/findings, and if your results are cool, motivate them to keep reading.
-* Write top-down rather than bottom up: each paragraph should start with a sentence that makes the reader expect what is going to be explained. Each section should start with 2-3 sentences stating what is going to be explained in the section. Each chapter ... (I think you got the idea). The Introduction should tell the reader what is happening in the article/thesis!
-* Consistency: check your work for consistency, in spelling, in terminology, in typesetting.
-* Acronym: before submitting, carefully check if every acronym has been introduced (and also if it is only introduced the very first time the term is mentioned).
+* __Write top-down__ rather than bottom up: each paragraph should start with a sentence that makes the reader expect what is going to be explained. Each section should start with 2-3 sentences stating what is going to be explained in the section. Each chapter ... (I think you got the idea). The Introduction should tell the reader what is happening in the article/thesis!
+* __Consistency__: check your work for consistency, in spelling, in terminology, in typesetting.
+* __Acronyms__: before submitting, carefully check if every acronym has been introduced (and also if it is only introduced the very first time the term is mentioned).
 
 
 ## Writing an Introduction for a Research Paper
