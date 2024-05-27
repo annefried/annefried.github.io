@@ -27,7 +27,7 @@ This will help the reader to understand and contextualize your proposed method/d
 * Motivation: Give a real-world motivation of a potential application of your work, or state which problem it solves. Then, give a high-level overview of the research area including several citations.
 * Gap: What is the problem with existing approaches? Also cite the 2-3 most closely related papers and state how you will overcome their limitations.
 * Method: Give a brief high-level overview of the most important features of your method (or new dataset, if any).
-* Contributions: A concise list of contributions (perhaps integrated with a Plan of the Paper, i.e., references to sections) should be at the end of your Introduction section. This part may be typeset as a bullet point list or as a list within the regular paragraph numbered with (1), (2), ... or (a), (b), ... or (i), (ii), ... etc. -- Pay special attention to the contributions, they are the currency in which your is evaluated!
+* Contributions: A concise list of contributions (perhaps integrated with a Plan of the Paper, i.e., references to sections) should be at the end of your Introduction section. This part may be typeset as a bullet point list or as a list within the regular paragraph numbered with (1), (2), ... or (a), (b), ... or (i), (ii), ... etc. -- Pay special attention to the contributions, they are the currency in which your work is evaluated!
 
 
 ## Writing Tipps for Bachelor/Master thesis
