@@ -13,10 +13,13 @@ Of course, they are only recommendations and the ideal solution depends on your 
 
 __When you are advised by me or a team member on your thesis, please work through this page carefully. Feel free to ask any remaining questions about your specific thesis structure in one of our meetings. Please submit a draft for a chapter earlier (at the latest midway into your thesis time) for detailed feedback.__
 
+Some initial hints:
 
-* First, very importantly: scientific writing is not like crime story writing: you do not need to wait with your results until the end. Throughout your article or thesis, mention important points and findings early on.
+* First, very importantly, scientific writing is not like crime story writing: you do not need to wait with your results until the end. Throughout your article or thesis, mention important points and findings early on.
 This will help the reader to understand and contextualize your proposed method/dataset/findings, and if your results are cool, motivate them to keep reading.
 * Write top-down rather than bottom up: each paragraph should start with a sentence that makes the reader expect what is going to be explained. Each section should start with 2-3 sentences stating what is going to be explained in the section. Each chapter ... (I think you got the idea). The Introduction should tell the reader what is happening in the article/thesis!
+* Consistency: check your work for consistency, in spelling, in terminology, in typesetting.
+* Acronym: before submitting, carefully check if every acronym has been introduced (and also if it is only introduced the very first time the term is mentioned).
 
 
 ## Writing an Introduction for a Research Paper
@@ -74,6 +77,13 @@ Most relevant papers can be found in the [ACL Anthology](https://aclanthology.or
 If a paper is not in the ACL Anthology, try finding a high-quality Bibtex entry in [dlpb](https://dblp.org/) - also for ArXiv papers!
 If an ArXiv paper has a follow-up version accepted for publication at a conference or journal, you should cite this peer-reviewed version.
 Only if you cannot find an entry in these sources, resort to other sources for Bibtex entries (e.g., Google Scholar).
+
+## Cross-References
+
+Your readers should be able to read your thesis or papers in linear orders. (As a child, I used to like the kind of crime stories where, as a reader, I could play detective by jumping to particular pages: a thesis or paper should not fall into this genre!)
+Use cross-references with care. Forward-references are almost always bad: as rule of thumb, only use them if absolutely necessary (this should not be the case more than 2 times per thesis/article).
+Instead, when you feel yourselves inclined to refer forwards, describe the important points in 2-3 sentences such that your reader will be able to follow the ideas you will describe next.
+Backward-references are okay, but only use them if absolutely necessary as well.
 
 
 ## Examples and abbreviations
