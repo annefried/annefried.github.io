@@ -1,6 +1,6 @@
 ---
 title: 'Scientific Writing'
-date: 2022-09-01
+date: 2024-05-27
 permalink: /posts/2020-09-01-scientific_writing
 tags:
   - nlp

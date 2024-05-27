@@ -6,6 +6,8 @@ tags:
   - thesis_opportunity
 ---
 
+_Position filled!_
+
 Are you fascinated by the crossroads of machine learning and human culture? Work with us on a Bachelor/Master Thesis that delves into Extreme Classification—a nuanced approach to handling complex datasets in the realm of Digital Humanities.
 
 ## The Challenge

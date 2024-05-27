@@ -19,11 +19,10 @@ Most of my articles can be found in the <a href="https://aclanthology.org/people
 Wei Zhou, Mohsen Mesgar, Heike Adel, and Annemarie Friedrich. <strong>FREB-TQA: A Fine-Grained Robustness Evaluation Benchmark for Table Question Answering.</strong>
 In Proceedings of 2024 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL). <i>(to appear)</i>
 
-
 Lukas Lange, Marc Müller, Ghazaleh Haratinezhad Torbati, Dragan Milchevski, Patrick Grau, Subhash Pujari and Annemarie Friedrich.
- <strong>AnnoCTR: A Dataset for Detecting and Linking Entities, Tactics, and Techniques
-in Cyber Threat Reports.</strong> In Proceedings of LREC-COLING 2024 - The 2024 Joint International
-Conference on Computational Linguistics, Language Resources and Evaluation, 2024. <i>to appear</i>
+ <a href="https://aclanthology.org/2024.lrec-main.103/">AnnoCTR: A Dataset for Detecting and Linking Entities, Tactics, and Techniques
+in Cyber Threat Reports.</a> In Proceedings of LREC-COLING 2024 - The 2024 Joint International
+Conference on Computational Linguistics, Language Resources and Evaluation, 2024.
 
 
 Tim Tarsi, Heike Adel, Jan Hendrik Metzen, Dan Zhang, Matteo Finco, and Annemarie Friedrich. 2024. [SciOL and MuLMS-Img: Introducing A Large-Scale Multimodal Scientific Dataset and Models for Image-Text Tasks in the Scientific Domain](https://openaccess.thecvf.com/content/WACV2024/html/Tarsi_SciOL_and_MuLMS-Img_Introducing_a_Large-Scale_Multimodal_Scientific_Dataset_and_WACV_2024_paper.html). In Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV). January 2024, Waikoloa, Hawaii.
