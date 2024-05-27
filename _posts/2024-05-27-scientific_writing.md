@@ -147,7 +147,7 @@ As illustrated by \eref{report}, ...
 
 NLP develops writing assistance tools and spellcheckers - it would hence be nonsensical not to make use of them!
 However, be aware that you need to double-check their output: is it really what you intended? Is nothing hallucinated?
-If you use spellcheckers like [Grammarly][https://www.grammarly.com/grammar-check] that also help you to improve your style, you do not need to mention this.
+If you use spellcheckers like [Grammarly](https://www.grammarly.com/grammar-check) that also help you to improve your style, you do not need to mention this.
 If you make use of generative AI like ChatGPT for writing, please add a section in your appendix where you describe which sections you have composed with their help, and also reflect your experience with the writing tool (1-2 pages minimum).
 
 
