@@ -11,7 +11,7 @@ tags:
 This blog post summarizes some important hints and tricks when writing a scientific paper or a thesis in the area of natural language processing (NLP) or computational linguistics (CL).
 Of course, they are only recommendations and the ideal solution depends on your concrete topic.
 
-__When you are advised by me or a team member on your thesis, please work through this page carefully. Feel free to ask any remaining questions about your specific thesis structure in one of our meetings. Please submit a draft for a chapter earlier (at the latest midway into your thesis time) for detailed feedback.__
+__When you are advised by me or a team member on your thesis, please work through this page carefully. Feel free to ask any remaining questions about your specific thesis structure in one of our meetings. Please submit a draft for a chapter early (at the latest midway into your thesis time) for detailed feedback.__
 
 Some initial hints:
 
