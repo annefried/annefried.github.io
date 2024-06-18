@@ -38,6 +38,15 @@ I have given various lectures and seminars at Saarland University and at Ludwig-
 
 Theses advised
 -------------
+
+* Christian Jaumann: "tbd", B.Sc. thesis, University of Augsburg, 2024 (ongoing).
+
+* Thomas Niemeier: "tbd", B.Sc. thesis, University of Augsburg, 2024 (ongoing).
+
+* Daniel Neu: "Majority vote Ensemble Based Error Spotting in Temporal Reasoning Datasets", B.Sc. thesis, University of Augsburg, 2024 (ongoing).
+
+* Steffen Kleinle: "Multilingual Neural Question Answering in a German Integration Context", M.Sc. thesis, University of Augsburg, 2024 (ongoing).
+
 * Tim Tarsi: "Extracting Text-based Image Features for Scientific Figure Retrieval", B.Sc. thesis, DHBW Stuttgart, September 2022. (co-advised with Heike Adel) [Accepted to WACV 2024]
 
 * Teresa Bürkle: "Addressing Class Imbalance in Argumentative Zoning: Effectiveness of Oversampling for Pre-trained Transformer Models", B.Sc. thesis, DHBW Stuttgart, May 2022. (co-advised with Sophie Henning) [[CODI 2023](https://aclanthology.org/2023.codi-1.1/)]
