@@ -19,7 +19,7 @@ Most of my articles can be found in the <a href="https://aclanthology.org/people
 Steffen Kleinle, Jakob Prange, Annemarie Friedrich. <a href="https://arxiv.org/pdf/2407.15736">OMoS-QA: A Dataset for Cross-Lingual Extractive Question Answering in a German Migration Context</a>. In Proceedings of Konferenz zur Verarbeitung Natürlicher Sprache (KONVENS). Vienna, September 2024. <i>to appear</i>
 
 Wei Zhou, Mohsen Mesgar, Heike Adel, and Annemarie Friedrich. <a href="https://aclanthology.org/2024.naacl-long.137/">FREB-TQA: A Fine-Grained Robustness Evaluation Benchmark for Table Question Answering.</a>
-In Proceedings of 2024 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL). <i>(to appear)</i>
+In Proceedings of 2024 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL).
 
 Lukas Lange, Marc Müller, Ghazaleh Haratinezhad Torbati, Dragan Milchevski, Patrick Grau, Subhash Pujari and Annemarie Friedrich.
  <a href="https://aclanthology.org/2024.lrec-main.103/">AnnoCTR: A Dataset for Detecting and Linking Entities, Tactics, and Techniques
