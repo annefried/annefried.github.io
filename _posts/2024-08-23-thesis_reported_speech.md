@@ -6,7 +6,6 @@ tags:
   - thesis_opportunity
 ---
 
-_Position filled!_
 
 Are you fascinated by the crossroads of machine learning and human culture? Work with us on a Bachelor/Master Thesis that delves into finding out who said what to whom!
 
