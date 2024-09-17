@@ -32,7 +32,13 @@ This will help the reader to understand and contextualize your proposed method/d
 
 ## Writing Tipps for Bachelor/Master thesis
 
-The typical reader of your thesis is a peer: imagine a Bachelor/Master student who has taken the same courses as you have. The thesis should des
+The typical reader of your thesis is a peer: imagine a Bachelor/Master student who has taken the same courses as you have. The thesis should describe everything on a level so they can understand.
+
+__Template and Length:__ Please use the template provided in [our uni-internal GitLab](https://git.rz.uni-augsburg.de/coling-a/coling-ba-ma-template).
+There is no strict length limit, as the ideal length of a thesis strongly depends on your topic. Typically, a Bachelor thesis should not contain less than 30 pages (of text, excluding figures) and no more than 50 pages, while a Master thesis should contain between 40 and 60 pages. Keep in mind that writing _concisely_ is much harder than producing large amounts of text, so your grade does not depend on the number of pages you produce. In fact, if the writing is repetitive, this will be evaluated negatively!
+
+
+__Structure:__
 
 How to write the __Introduction__ for your thesis:
 * Start with writing the background, method, and experiments chapters. You will very likely have to edit the Introduction chapter less this way.
