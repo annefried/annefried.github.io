@@ -75,6 +75,13 @@ How to write the __Discussion__ chapter:
 How to write the __Conclusion__ chapter:
 * This can be brief (1-2) pages, just summarize your main findings.
 
+What does into the __Appendix__:
+* long examples or prompts (short version in Figure in main text!)
+* long pseudocode
+* annotation guidelines
+* huge tables with detailed experimental results (short version in main text!)
+* ... ask if in doubt! ...
+
 
 ## Citation style
 
@@ -103,8 +110,12 @@ For a good explanation, see [here](https://en.wiktionary.org/wiki/i.e.) and [her
 There is no unique wrong or right way for typesetting. Here are my recommendations.
 
 * Introducing acronyms: "In this paper, we leverage Large Language Models (LLMs) to ..."
+* IMPORTANT! Introduce acronyms the __first__ time you use them (in the main text, avoid acronyms in abstract if possible) and then use them _consistently_!
 * _italic_: use for introducing (highly) specific terminology, e.g., "This work deals with distinguishing _discourse type_ vs. the _text type_." Use italics only the first time you mention the term.
 * __bold__: use for paragraph headings when using the `\paragraph{...}` command. Sometimes, another phrase in the first sentence of a paragraph may function as a paragraph heading. Occasionally, it may make sense to boldface this phrase. Use this with care!
+* Tables, figures etc. should be placed at the top of pages that do not have a chapter heading. Captions go below the table/figure, etc.
+* For diagrams, if you are not familiar with [TikZ](https://tikz.net/), we recommend [draw.io](https://app.diagrams.net/) (embed your diagrams as PDF).
+* Use chapters (sections, subsections, paragraphs). In your text, you can write "In this chapter, ..." or "In this section, ...", do not write "In this paragraph" or "In this subsection." Preferred: title case for chapter and section headings, you can use lower case spelling for subsections and lower.
 * "quotes": In scientific text on NLP or CL, you will occasionally cite text examples. I tend to put them into quotes (no matter whether they are full sentences or just words or phrases). Use the `csquotes` package in Latex and use the `\enquote{...}` command for beautiful quotes and easy typesetting.
 
 For longer examples, I use the following Latex environments (I do not typeset these numbered linguistic examples in parentheses).
