@@ -43,11 +43,11 @@ Theses advised
 
 * Thomas Niemeier: "tbd", B.Sc. thesis, University of Augsburg, 2024 (ongoing).
 
-* Daniel Neu: "Majority vote Ensemble Based Error Spotting in Temporal Reasoning Datasets", B.Sc. thesis, University of Augsburg, 2024 (ongoing).
+* Daniel Neu: "Prompt Ensembles for Annotation Error Detection with Large Language Models in Temporal Reasoning Datasets", B.Sc. thesis, University of Augsburg, 2024.
 
-* Steffen Kleinle: "Multilingual Neural Question Answering in a German Integration Context", M.Sc. thesis, University of Augsburg, 2024 (ongoing).
+* Steffen Kleinle: "Multilingual Question Answering in a German Migration Context Using Neural Methods", M.Sc. thesis, University of Augsburg, 2024. [[KONVENS 2024](https://aclanthology.org/2024.konvens-main.25/)]
 
-* Tim Tarsi: "Extracting Text-based Image Features for Scientific Figure Retrieval", B.Sc. thesis, DHBW Stuttgart, September 2022. (co-advised with Heike Adel) [Accepted to WACV 2024]
+* Tim Tarsi: "Extracting Text-based Image Features for Scientific Figure Retrieval", B.Sc. thesis, DHBW Stuttgart, September 2022. (co-advised with Heike Adel) [[WACV 2024](https://openaccess.thecvf.com/content/WACV2024/html/Tarsi_SciOL_and_MuLMS-Img_Introducing_a_Large-Scale_Multimodal_Scientific_Dataset_and_WACV_2024_paper.html)]
 
 * Teresa Bürkle: "Addressing Class Imbalance in Argumentative Zoning: Effectiveness of Oversampling for Pre-trained Transformer Models", B.Sc. thesis, DHBW Stuttgart, May 2022. (co-advised with Sophie Henning) [[CODI 2023](https://aclanthology.org/2023.codi-1.1/)]
 
