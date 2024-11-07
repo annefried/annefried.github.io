@@ -16,11 +16,11 @@ Most of my articles can be found in the <a href="https://aclanthology.org/people
 2024
 ----
 
-Timo Schrader, Lukas Lange, Simon Razniewski, and Annemarie Friedrich. <strong>QUITE: Quantifying Uncertainty in Natural Language Text in Bayesian Reasoning Scenarios</strong>. In Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP). <i>(to appear)</i>
+Timo Schrader, Lukas Lange, Simon Razniewski, and Annemarie Friedrich. <strong>QUITE: Quantifying Uncertainty in Natural Language Text in Bayesian Reasoning Scenarios</strong>. In Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP). <i>(to appear, <a href="https://arxiv.org/abs/2410.10449">ArXiv preprint</a>)</i>
 
-Maik Fröbe, Thomas Eckart, Annemarie Friedrich, Lukas Gienapp, Jan Heinrich Merker, Martin Potthast, Harrisen Scells, Philipp Schaer and Benno Stein. <strong>Teaching Information Retrieval with a Shared Task Across Universities: First Steps and Findings</strong>. Extended abstract accepted at the <i>IR Workshop @ LWDA</i>. September 2024, Würzburg, Germany.<br/>
+Maik Fröbe, Thomas Eckart, Annemarie Friedrich, Lukas Gienapp, Jan Heinrich Merker, Martin Potthast, Harrisen Scells, Philipp Schaer and Benno Stein. <a href="https://www.informatik.uni-wuerzburg.de/fileadmin/1003-lwda24/LWDA_Paper/IR_LWDA_CRC_168.pdf">Teaching Information Retrieval with a Shared Task Across Universities: First Steps and Findings</a>. Extended abstract accepted at the <i>IR Workshop @ LWDA</i>. September 2024, Würzburg, Germany.<br/>
 
-Steffen Kleinle, Jakob Prange, Annemarie Friedrich. <a href="https://arxiv.org/pdf/2407.15736">OMoS-QA: A Dataset for Cross-Lingual Extractive Question Answering in a German Migration Context</a>. In Proceedings of Konferenz zur Verarbeitung Natürlicher Sprache (KONVENS). Vienna, September 2024. <i>to appear</i>
+Steffen Kleinle, Jakob Prange, Annemarie Friedrich. <a href="https://aclanthology.org/2024.konvens-main.25/">OMoS-QA: A Dataset for Cross-Lingual Extractive Question Answering in a German Migration Context</a>. In Proceedings of Konferenz zur Verarbeitung Natürlicher Sprache (KONVENS). Vienna, September 2024.
 
 Wei Zhou, Mohsen Mesgar, Heike Adel, and Annemarie Friedrich. <a href="https://aclanthology.org/2024.naacl-long.137/">FREB-TQA: A Fine-Grained Robustness Evaluation Benchmark for Table Question Answering.</a>
 In Proceedings of 2024 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL).
@@ -44,7 +44,7 @@ Valentin Knappich, Simon Razniewski, and Annemarie Friedrich. 2023. [BoschAI @ P
 
 Sophie Henning, Talita Anthonio, Wei Zhou, Heike Adel, Mohsen Mesgar, and Annemarie Friedrich. 2023. [Is the Answer in the Text? Challenging ChatGPT with Evidence Retrieval from Instructive Text](https://aclanthology.org/2023.findings-emnlp.949/). In Proceedings of Findings of the Association for Computational Linguistics: EMNLP 2023.
 
-Timo Pierre Schrader, Simon Razniewski, Lukas Lange and Annemarie Friedrich. 2023. [BoschAI @ Causal News Corpus 2023: Robust Cause-Effect Span Extraction using Multi-Layer Sequence Tagging and Data Augmentation](https://aclanthology.org/2023.case-1.5/). In Proceedings of The 6th Workshop on Challenges and Applications of Automated Extraction of Socio-political Events from Text (CASE). September 2023, Varna. <i>to appear</i>
+Timo Pierre Schrader, Simon Razniewski, Lukas Lange and Annemarie Friedrich. 2023. [BoschAI @ Causal News Corpus 2023: Robust Cause-Effect Span Extraction using Multi-Layer Sequence Tagging and Data Augmentation](https://aclanthology.org/2023.case-1.5/). In Proceedings of The 6th Workshop on Challenges and Applications of Automated Extraction of Socio-political Events from Text (CASE). September 2023, Varna.
 
 Timo Pierre Schrader, Teresa Bürkle, Sophie Henning, Sherry Tan, Matteo Finco, Stefan Grünewald, Maira Indrikova, Felix Hildebrand and Annemarie Friedrich.
 [MuLMS-AZ: An Argumentative Zoning Dataset for the Materials Science Domain](https://aclanthology.org/2023.codi-1.1/). In Proceedings of the 4th Workshop on Computational Approaches to Discourse. Toronto, 2023.
