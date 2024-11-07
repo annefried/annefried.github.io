@@ -45,7 +45,7 @@ Theses advised
 
 * Daniel Neu: "Prompt Ensembles for Annotation Error Detection with Large Language Models in Temporal Reasoning Datasets", B.Sc. thesis, University of Augsburg, 2024.
 
-* Steffen Kleinle: "Multilingual Question Answering in a German Migration Context Using Neural Methods", M.Sc. thesis, University of Augsburg, 2024. [[KONVENS 2024](https://aclanthology.org/2024.konvens-main.25/)]
+* Steffen Kleinle: "Multilingual Question Answering in a German Migration Context Using Neural Methods", M.Sc. thesis, University of Augsburg, 2024. [[KONVENS 2024](https://aclanthology.org/2024.konvens-main.25/)][thesis](http://annefried.github.io/files/Thesis_Kleinle_Steffen.pdf)
 
 * Tim Tarsi: "Extracting Text-based Image Features for Scientific Figure Retrieval", B.Sc. thesis, DHBW Stuttgart, September 2022. (co-advised with Heike Adel) [[WACV 2024](https://openaccess.thecvf.com/content/WACV2024/html/Tarsi_SciOL_and_MuLMS-Img_Introducing_a_Large-Scale_Multimodal_Scientific_Dataset_and_WACV_2024_paper.html)]
 
