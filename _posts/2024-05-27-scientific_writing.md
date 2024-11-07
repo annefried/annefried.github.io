@@ -90,6 +90,7 @@ Most relevant papers can be found in the [ACL Anthology](https://aclanthology.or
 If a paper is not in the ACL Anthology, try finding a high-quality Bibtex entry in [dlpb](https://dblp.org/) - also for ArXiv papers!
 If an ArXiv paper has a follow-up version accepted for publication at a conference or journal, you should cite this peer-reviewed version.
 Only if you cannot find an entry in these sources, resort to other sources for Bibtex entries (e.g., Google Scholar).
+Please pay special attention to the instructions of how to integrate citations into the text. Always refer to the authors, _they_ state/propose/found something, not "the paper." This means you should write: "Friedrich et al. (2020) found that ..." (use the `\citet` command!) rather than: "In (Friedrich et al., 2020) it was found that ..." If a citation refers to a full sentence, put it _within_ the sentence, e.g., "XYZ can be achieved using really small language models (Friedrich et al., 2031)."
 
 ## Cross-References
 
@@ -174,15 +175,20 @@ Here are some additional references that may be helpful.
 
 An [overview](https://blog.apastyle.org/apastyle/2011/08/punctuating-around-quotation-marks.html) of where to put quotation marks in English.
 
+A frequent mistake in English writing is to use non-parallel constructions in the same sentence. A good explanation can be found [here](https://www.lingualbox.com/blog/parallel-structure-a-key-to-effective-english-writing). Checking this out is highly recommended!
+
 [This page](http://users.ece.cmu.edu/~koopman/essays/abstract.html) provides a nice summary of how to write good abstracts for your research papers.
 
 I highly recommend [this book](https://www.worldscientific.com/worldscibooks/10.1142/q0232) on science research writing for non-native speakers of English as a must-read for PhD students in our field.
 
 
-## Exercises: Tense and Connectives
+## Tense, connectives, and other important writing issues
 
-[Scientifc Writing Cheat Sheet + Exercises (PDF)](http://annefried.github.io/files/Scientific_Writing_Exercises_09-22.pdf), developed for PhD students, but certainly also useful for Bachelor/Master students.
+[Scientific Writing Cheat Sheet + Exercises (PDF)](http://annefried.github.io/files/Scientific_Writing_Exercises_09-22.pdf), developed for PhD students, but certainly also useful for Bachelor/Master students.
 
+As a rule of thumb, in scientific writing in the NLP domain, use __present tense__. There are only a few exceptions: when reporting on a process that you performed only once (e.g., data collection or annotation), you can use past tense, and (mostly in the conclusion) when you talk about achievements, use present perfect (e.g., "In this thesis, we have demonstrated that ...").
+
+Make use of the [Oxford comma](https://en.wikipedia.org/wiki/Serial_comma).
 
 ## Acknowledgment
 
