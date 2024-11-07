@@ -53,7 +53,7 @@ Theses advised
 
 * Fryderyk Mantiuk: "Identifying informative document representations for patent classification", B.Sc. thesis, DHBW Stuttgart, September 2021. (co-advised with Subhash Pujari) [[BIR Workshop](https://ceur-ws.org/Vol-3230/paper-04.pdf)]
 
-* Elizaveta Sineva: "Negation Resolution as Dependency Parsing", M.Sc. thesis, IMS Universität Stuttgart, July 2021. (co-advised with Stefan Grünewald and Jonas Kuhn) [[CoNLL Main Conference](https://aclanthology.org/2021.conll-1.41/)]
+* Elizaveta Sineva: "Negation Resolution as Dependency Parsing", M.Sc. thesis, IMS Universität Stuttgart, July 2021. (co-advised with Stefan Grünewald and Jonas Kuhn) [[CoNLL Main Conference](https://aclanthology.org/2021.conll-1.41/)][thesis]([thesis](http://annefried.github.io/files/Thesis_Elizaveta_Sineva.pdf))
 
 * Frederik Oertel: "Learning to Lexicalize Enhanced Universal Dependency Relations from Treebank Data", B.Sc. thesis, DHBW Stuttgart, 2021. (co-advised with Stefan Grünewald) [[IWPT Shared Task](https://aclanthology.org/2021.iwpt-1.21/)]]
 
