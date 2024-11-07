@@ -5,6 +5,8 @@ permalink: /talks/
 author_profile: true
 ---
 
+October 30, 2024: **Uncertainty in Natural Language Processing**, AI in Medicine: Bias and Explainability, Workshop at the Hochschule für Philosophie, Munich, organized by the [Center for Responsible AI Technology](https://www.center-responsible-ai.de/).
+
 April 11, 2024: **Wie kommen die Vorurteile in textbasierte KI-Modelle?**, Generative Künstliche Intelligenz in Theorie und Praxis, NExT e.V., Community KI & Ethik (virtual meeting).
 
 January 17, 2024: **Wie kommen die Vorurteile in textbasierte KI-Modelle?**, Ringvorlesung Alexa, ChatGPT & Co: Wie haltet ihr es mit der Ethik? Eine interdisziplinäre Perspektive auf KI. (<a href="https://www.uni-augsburg.de/de/fakultaet/fai/informatik/studium/ringvorlesung-ki-ethik/">slides and audio</a>)
