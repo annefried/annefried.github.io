@@ -39,13 +39,16 @@ I have given various lectures and seminars at Saarland University and at Ludwig-
 Theses advised
 -------------
 
-* Christian Jaumann: "tbd", B.Sc. thesis, University of Augsburg, 2024 (ongoing).
+* Leo Pöller: "tbd", B.Sc. thesis, University of Augsburg, 2025 (ongoing). (co-advised with Jakob Prange) 
 
-* Thomas Niemeier: "tbd", B.Sc. thesis, University of Augsburg, 2024 (ongoing).
+* Christian Jaumann: "Ranking for Abstract Screening in Systematic Literature Reviews using Large Language Models", B.Sc. thesis, University of Augsburg, 2024 (ongoing).
+
+* Thomas Niemeier: "Large Language Model based
+Information Extraction from Visually Rich Documents", B.Sc. thesis, University of Augsburg, 2024.
 
 * Daniel Neu: "Prompt Ensembles for Annotation Error Detection with Large Language Models in Temporal Reasoning Datasets", B.Sc. thesis, University of Augsburg, 2024.
 
-* Steffen Kleinle: "Multilingual Question Answering in a German Migration Context Using Neural Methods", M.Sc. thesis, University of Augsburg, 2024. [[KONVENS 2024](https://aclanthology.org/2024.konvens-main.25/)][[thesis](http://annefried.github.io/files/Thesis_Kleinle_Steffen.pdf)]
+* Steffen Kleinle: "Multilingual Question Answering in a German Migration Context Using Neural Methods", M.Sc. thesis, University of Augsburg, 2024. (co-advised with Jakob Prange) [[KONVENS 2024](https://aclanthology.org/2024.konvens-main.25/)][[thesis](http://annefried.github.io/files/Thesis_Kleinle_Steffen.pdf)]
 
 * Tim Tarsi: "Extracting Text-based Image Features for Scientific Figure Retrieval", B.Sc. thesis, DHBW Stuttgart, September 2022. (co-advised with Heike Adel) [[WACV 2024](https://openaccess.thecvf.com/content/WACV2024/html/Tarsi_SciOL_and_MuLMS-Img_Introducing_a_Large-Scale_Multimodal_Scientific_Dataset_and_WACV_2024_paper.html)]
 
