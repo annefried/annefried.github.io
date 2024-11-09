@@ -89,6 +89,7 @@ Languages
   
 Service and Leadership
 --------
+* President of the [German Association for Computational Linguistics](https://gscl.org) (GSCL) 2024-2025
 * Vice President of the [German Association for Computational Linguistics](https://gscl.org) (GSCL) 2019-2023
 * Action Editor for [ACL Rolling Review](https://aclrollingreview.org/)
 * Editorial Board Member of the [Language Resources and Evaluation](https://www.springer.com/journal/10579) (LRE) Journal
