@@ -21,7 +21,7 @@ Find more about Human Language Technology in Augsburg [here](https://hlt-augsbur
 
 Before that, I was a __Senior Expert__ working on Natural Language Processing and Computational Linguistics at the [Bosch Center for Artificial Intelligence](https://www.bosch-ai.com/).
 
-I am currently the vice president of the [German Society for Computational Linguistics](https://gscl.org/en) (GSCL), the scientific association in the German-speaking countries and regions for research, teaching and professional work in natural language processing.
+I am currently the president of the [German Society for Computational Linguistics](https://gscl.org/en) (GSCL), the scientific association in the German-speaking countries and regions for research, teaching and professional work in natural language processing.
 
 Research Interests
 ------------------
