@@ -16,7 +16,7 @@ Most of my articles can be found in the <a href="https://aclanthology.org/people
 2024
 ----
 
-Timo Schrader, Lukas Lange, Simon Razniewski, and Annemarie Friedrich. <strong>QUITE: Quantifying Uncertainty in Natural Language Text in Bayesian Reasoning Scenarios</strong>. In Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP). <i>(to appear, <a href="https://arxiv.org/abs/2410.10449">ArXiv preprint</a>)</i>
+Timo Schrader, Lukas Lange, Simon Razniewski, and Annemarie Friedrich. <a href="https://aclanthology.org/2024.emnlp-main.153/">QUITE: Quantifying Uncertainty in Natural Language Text in Bayesian Reasoning Scenarios</a>. In Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP).<br/>
 
 Maik Fröbe, Thomas Eckart, Annemarie Friedrich, Lukas Gienapp, Jan Heinrich Merker, Martin Potthast, Harrisen Scells, Philipp Schaer and Benno Stein. <a href="https://www.informatik.uni-wuerzburg.de/fileadmin/1003-lwda24/LWDA_Paper/IR_LWDA_CRC_168.pdf">Teaching Information Retrieval with a Shared Task Across Universities: First Steps and Findings</a>. Extended abstract accepted at the <i>IR Workshop @ LWDA</i>. September 2024, Würzburg, Germany.<br/>
 
