@@ -15,6 +15,7 @@ Current Teaching (University of Augsburg)
 * Introduction to Natural Language Processing (for B.Sc. Computer Science/Data Science).
 * Introduction to Python Programming (for B.Sc. Computer Science), co-taught with Jakob Prange and Fabio Mariani.
 * Seminar Natural Language Understanding (for B.Sc. Computer Science / M.Sc. Computer Science), co-taught with Jakob Prange.
+* <a href="https://annefried.github.io/teaching/probevorlesung">Probevorlesung "Wie funktioniert ChatGPT?"</a>
 
 
 Past Teaching
