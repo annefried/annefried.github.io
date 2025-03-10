@@ -13,6 +13,18 @@ Most of my articles can be found in the <a href="https://aclanthology.org/people
 {% include base_path %}
 
 
+Pre-prints
+-----------
+Valentin Knappich, Simon Razniewski, Anna Hätty, and Annemarie Friedrich. <a href="https://arxiv.org/abs/2410.07009v2">Pap2Pat: Benchmarking Outline-Guided Long-Text Patent Generation with Patent-Paper Pairs.</a> arXiv Preprint, March 2025.
+
+
+
+2025
+----
+Wei Zhou, Mohsen Mesgar, Heike Adel, and Annemarie Friedrich. <a href="https://arxiv.org/abs/2412.20145">Efficient Multi-Agent Collaboration with Tool Use \\for Online Planning in Complex Table Question Answering</a>. Accepted to Findings of the Association for Computational Linguistics: NAACL 2025. <i>(to appear)</i>
+
+
+
 2024
 ----
 

@@ -10,10 +10,10 @@ University Didactics
 I am a passionate teacher and completed the [certificate in university didactics](https://www.uni-saarland.de/einrichtung/zell/arbeitsstelle-hochschuldidaktik/hochschuldidaktik-zertifikat.html) offered by Saarland University.
 
 
-Current Teaching (WS 2023/24)
-----------------
+Current Teaching (University of Augsburg)
+-----------------------------------------
 * Introduction to Natural Language Processing (for B.Sc. Computer Science/Data Science).
-* Introduction to Python Programming (for B.Sc. Computer Science), co-taught with Jakob Prange.
+* Introduction to Python Programming (for B.Sc. Computer Science), co-taught with Jakob Prange and Fabio Mariani.
 * Seminar Natural Language Understanding (for B.Sc. Computer Science / M.Sc. Computer Science), co-taught with Jakob Prange.
 
 
@@ -39,9 +39,15 @@ I have given various lectures and seminars at Saarland University and at Ludwig-
 Theses advised
 -------------
 
+* Martin Bichlmeier, "tbd", B.Sc. thesis, University of Augsburg, 2025 (ongoing). (co-advised with Fabio Mariani)
+
+* Georg Hofmann, "tbd", M.Sc. thesis, University of Augsburg, 2025 (ongoing).
+
+* Benjamin Schüßler, "tbd", M.Sc. thesis, University of Augsburg, 2025 (ongoing). (co-advised with Jakob Prange)
+
 * Leo Pöller: "tbd", B.Sc. thesis, University of Augsburg, 2025 (ongoing). (co-advised with Jakob Prange) 
 
-* Christian Jaumann: "Ranking for Abstract Screening in Systematic Literature Reviews using Large Language Models", B.Sc. thesis, University of Augsburg, 2024 (ongoing).
+* Christian Jaumann: "Ranking for Abstract Screening in Systematic Literature Reviews using Large Language Models", B.Sc. thesis, University of Augsburg, 2024.
 
 * Thomas Niemeier: "Large Language Model based
 Information Extraction from Visually Rich Documents", B.Sc. thesis, University of Augsburg, 2024.
