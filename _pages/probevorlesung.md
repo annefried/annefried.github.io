@@ -5,7 +5,7 @@ permalink: /teaching/probevorlesung
 author_profile: true
 ---
 
-Probevorlesung "Wie funktioniert ChatGPT?"
+Titel: "Wie funktioniert ChatGPT?"
 -------------------------------------------
 
 <i>Diese Probevorlesung soll Euch einen ersten Einblick in universitäre Lehrveranstaltungen geben. Dabei geht es u.a. um folgende Fragen:
