@@ -14,6 +14,9 @@ E-Mail: firstname dot lastname @ informatik dot uni minus augsburg dot de
 
 Photo: © University of Augsburg
 
+[Official university team website](https://www.uni-augsburg.de/de/fakultaet/fai/informatik/prof/coling/) - for organizational matters, please contact team assistant Sabrina Achberger (firstname.lastname@uni-a.de, +49 821 598 4628)
+
+
 About me
 --------
 I am a __University Professor__ (tenured) for __Natural Language Understanding__ (Computational Linguistics) at the Faculty of Applied Computer Science at the __University of Augsburg__.
@@ -38,7 +41,7 @@ I am interested in understanding and modeling interactions at the syntax-semanti
 PostDoc
 ------------
 * [Jakob Prange](https://jakpra.github.io/), Akademischer Rat
-
+* Fabio Mariani, Wissenschaftler Mitarbeiter
 
 
 PhD Students
