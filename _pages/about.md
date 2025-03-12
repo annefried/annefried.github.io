@@ -38,7 +38,7 @@ Research Interests
 I am interested in understanding and modeling interactions at the syntax-semantics interface, taking into account influences of discourse and pragmatics. Most of my past research is about the computational modeling of aspect and genericity. More details [here](https://www.coli.uni-saarland.de/projects/sitent/page.php). I am currently also interested in text mining for scientific text, syntactic and semantic parsing, and uncertainty in the context of deep learning for NLP.
 
 
-PostDoc
+PostDocs
 ------------
 * [Jakob Prange](https://jakpra.github.io/), Akademischer Rat
 * Fabio Mariani, Wissenschaftler Mitarbeiter
