@@ -41,7 +41,8 @@ I am interested in understanding and modeling interactions at the syntax-semanti
 PostDocs
 ------------
 * [Jakob Prange](https://jakpra.github.io/), Akademischer Rat
-* Fabio Mariani, Wissenschaftler Mitarbeiter
+* Fabio Mariani, Wissenschaftlicher Mitarbeiter (almost-postdoc)
+* [Hanna Schmück](https://hannaschmueck.github.io/), Wissenschaftliche Mitarbeiterin
 
 
 PhD Students
