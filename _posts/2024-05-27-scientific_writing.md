@@ -181,6 +181,7 @@ A frequent mistake in English writing is to use non-parallel constructions in th
 
 I highly recommend [this book](https://www.worldscientific.com/worldscibooks/10.1142/q0232) on science research writing for non-native speakers of English as a must-read for PhD students in our field.
 
+Super useful [academic phrasebank](https://www.phrasebank.manchester.ac.uk/) (thanks to Hanna Schmück for the suggestion).
 
 ## Tense, connectives, and other important writing issues
 
