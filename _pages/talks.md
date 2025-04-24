@@ -5,6 +5,8 @@ permalink: /talks/
 author_profile: true
 ---
 
+March 28, 2025: **Making Sense of Uncertainty in Natural Language Processing** Keynote at Text-as-data in Hydrology, Natural Hazards, and Climate Change Research: exploring challenges and opportunities. Helmholtz Center for Environmental Research - UFZ Leipzig, Germany.
+
 February 19, 2025: **Macht menschliche Intelligenz noch Sinn im Zeitalter von KI?** RHI Talk (Roman-Herzog-Institut), München.
 
 November 28, 2024: **Uncertainty in Natural Language Processing.** Invited Talk at IMS, University of Stuttgart. 
