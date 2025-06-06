@@ -13,14 +13,23 @@ Most of my articles can be found in the <a href="https://aclanthology.org/people
 {% include base_path %}
 
 
-Pre-prints
------------
-Valentin Knappich, Simon Razniewski, Anna Hätty, and Annemarie Friedrich. <a href="https://arxiv.org/abs/2410.07009v2">Pap2Pat: Benchmarking Outline-Guided Long-Text Patent Generation with Patent-Paper Pairs.</a> arXiv Preprint, March 2025.
-
-
 
 2025
 ----
+Wei Zhou, Mohsen Mesgar, Heike Adel, Annemarie Friedrich. <strong>RITT: A Retrieval-Assisted Framework with Image and Text Table Representations for Table Question Answering</strong>. Accepted to The 4th Table Representation Learning Workshop, co-located with ACL 2025. Vienna, Austria.<br/>
+
+Valentin Knappich, Annemarie Friedrich, Anna Hätty and Simon Razniewski. <strong>PEDANTIC: A Dataset for the Automatic Examination of Definiteness in Patent Claims</strong>. Accepted to 6th Workshop on Patent Text Mining and Semantic Technologies (PatentSemTech 2025), co-located with SIGIR, Padua, Italy.<br/>
+
+Christian Jaumann, Andreas Wiedholz, Annemarie Friedrich. <strong>	
+LGAR: Zero-Shot LLM-Guided Neural Ranking for Abstract Screening in Systematic Literature Reviews</strong>. Accepted to ACL Findings 2025. Vienna, Austria.<br/>
+
+Bolei Ma, Yuting Li, Wei Zhou, Ziwei Gong, Yang Janet Liu, Katja Jasinskaja, Annemarie Friedrich, Julia Hirschberg, Frauke Kreuter, Barbara Plank. <strong>Pragmatics in the Era of Large Language Models: A Survey on Datasets, Evaluation, Opportunities and Challenges</strong>. Accepted to ACL 2025. Vienna, Austria.<br/>
+
+Wei Zhou, Mohsen Mesgar, Heike Adel, Annemarie Friedrich. <strong>Texts or Images? A Fine-grained Analysis on the Effectiveness of Input Representations and Models for Table Question Answering</strong>. Accepted to ACL Findings 2025. Vienna, Austria.<br/>
+
+Valentin Knappich, Simon Razniewski, Anna Hätty, and Annemarie Friedrich. <a href="https://arxiv.org/abs/2410.07009v2">Pap2Pat: Benchmarking Outline-Guided Long-Text Patent Generation with Patent-Paper Pairs.</a> Accepted to ACL Findings 2025. Vienna, Austria.<br/>
+
+
 Wei Zhou, Mohsen Mesgar, Heike Adel, and Annemarie Friedrich. <a href="https://arxiv.org/abs/2412.20145">Efficient Multi-Agent Collaboration with Tool Use \\for Online Planning in Complex Table Question Answering</a>. Accepted to Findings of the Association for Computational Linguistics: NAACL 2025. <i>(to appear)</i>
 
 
