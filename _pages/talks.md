@@ -7,9 +7,11 @@ author_profile: true
 
 July 15, 2025: **Making Sense of Uncertainty in Natural Language Processing**, Invited Talk at the BamNLP group retreat (Prof. Roman Klinger), Franken-Akademie Schloss Schney.
 
+June 4, 2025: **Von  Sprachmodellen und Sprachverstehen: Warum die KI noch nicht ausgelernt hat**, Inaugural lectures, Faculty of Applied Computer Science and Faculty of Philology and History, University of Augsburg.
+
 March 28, 2025: **Making Sense of Uncertainty in Natural Language Processing** Keynote at Text-as-data in Hydrology, Natural Hazards, and Climate Change Research: exploring challenges and opportunities. Helmholtz Center for Environmental Research - UFZ Leipzig, Germany.
 
-February 19, 2025: **Macht menschliche Intelligenz noch Sinn im Zeitalter von KI?** RHI Talk (Roman-Herzog-Institut), München.
+February 19, 2025: **Macht menschliche Intelligenz noch Sinn im Zeitalter von KI?** RHI Talk (Roman-Herzog-Institut), München. [<a href="https://www.youtube.com/watch?v=Sn2nqUf1p1s">Video</a>]
 
 November 28, 2024: **Uncertainty in Natural Language Processing.** Invited Talk at IMS, University of Stuttgart. 
 
