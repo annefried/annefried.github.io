@@ -46,12 +46,12 @@ As a side note, it was also considered bad practice to <strong>reverse-engineer<
 
 But what can we learn from this age? <strong>Only if the training data does not contain the test set, we can actually make statements about whether a model has learned anything beyond memorizing some instances.</strong> But how can we tell what data LLMs have seen during pre-training? Sadly, at the moment, for the most widely-used LLMs, we cannot. But we can do something. <strong>Proposal #2: We can create test data that was created newly, either by hand-labeling data (by making use of trustworthy annotations, perhaps even having them onsite -- I would not trust crowd-sourcing any more) or by collecting real-world data that was definitely created after the cut-off date of the pretraining data of the LLMs that are part of the system we are testing.</strong> An analysis of such non-contaminated test data should be a mandatory part of any paper using the standard machine-learning benchmarking paradigm described above. And reviewers should give credit for it, because it is a lot of extra work!
 
-Here is an example taken from the PAP2PAT paper. I really liked that my student Valentin collected this additional data and performed experiments on it, actually observing some interesting deviations on the linguistic style, and I think it would be very worth diving into such observations with an even deeper analysis. (This is not criticism of his careful work, which took more than one year, and which I, in my completely unbiased opinion, think it would absolutely have been worthy of being accepted at the main conference. :)) Another paper that I really enjoyed reading from this perspective is <a href="https://aclanthology.org/2023.emnlp-main.335/">Navigating the Grey Area</a> by Kaitlyn Zhou, Dan Jurafsky, and Tatsunori Hashimoto (EMNLP 2023). They inspected the Pile, a common pretraining dataset, to understand why the model exhibits a particular behavior in answering questions when the prompt contains expressions of (un)certainty.
+Here is an example taken from the PAP2PAT paper. I really liked that my student Valentin collected this additional data and performed experiments on it, actually observing some interesting deviations on the linguistic style, and I think it would be very worth diving into such observations with an even deeper analysis. (This is not criticism of his careful work, which took more than one year, and which I, in my completely unbiased opinion, think it would absolutely have been worthy of being accepted at the main conference. :))
 
 <img src="https://github.com/annefried/annefried.github.io/blob/master/images/pap2pat-example.png?raw=true" alt="a screenshot of the Pat2Pat paper sections on test data contamination"/>
 
 
-## Reflection on machine learning practices today
+## Reflection on "research" practices today
 
 <i>to be added</i>
 
