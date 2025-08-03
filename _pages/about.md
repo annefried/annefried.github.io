@@ -19,7 +19,7 @@ Photo: © University of Augsburg
 
 About me
 --------
-I am a __University Professor__ (tenured) for __Natural Language Understanding__ (Computational Linguistics) at the Faculty of Applied Computer Science at the __University of Augsburg__.
+I am a __University Professor__ (tenured) for __Natural Language Understanding__ (Computational Linguistics) at the Faculty of Applied Computer Science at the __University of Augsburg__. I am also a member of the Faculty of Philology and History.
 Find more about Human Language Technology in Augsburg [here](https://hlt-augsburg.github.io/).
 
 Before that, I was a __Senior Expert__ working on Natural Language Processing and Computational Linguistics at the [Bosch Center for Artificial Intelligence](https://www.bosch-ai.com/).
@@ -34,8 +34,9 @@ Research Interests
 * Text Mining / Information Extraction
 * Linguistic Annotation
 * Deep Learning
+* Digital Humanities
 
-I am interested in understanding and modeling interactions at the syntax-semantics interface, taking into account influences of discourse and pragmatics. Most of my past research is about the computational modeling of aspect and genericity. More details [here](https://www.coli.uni-saarland.de/projects/sitent/page.php). I am currently also interested in text mining for scientific text, syntactic and semantic parsing, and uncertainty in the context of deep learning for NLP.
+I am interested in understanding and modeling interactions at the syntax-semantics interface, taking into account influences of discourse and pragmatics. Most of my past research is about the computational modeling of aspect and genericity. More details [here](https://www.coli.uni-saarland.de/projects/sitent/page.php). I am currently also interested in text mining for scientific text and historical text corpora, syntactic and semantic parsing, and uncertainty in the context of deep learning for NLP.
 
 
 PostDocs
