@@ -16,10 +16,18 @@ Most of my articles can be found in the <a href="https://aclanthology.org/people
 
 2025
 ----
+Wei Zhou, Mohsen Mesgar, Heike Adel, Annemarie Friedrich. <strong>PPT: A Process-based Preference Learning Framework for Self Improving Table Question Answering Models.</strong> In Proceedings of the International Joint Conference on Natural Language Processing & Asia-Pacific Chapter of the Association for Computational Linguistics, 2025. December 2025. Mumbai, India. <i>(to appear)</i>
 
-Hanna Schmück, Michael Reder, Katrin Paula, and Annemarie Friedrich. <strong>A Case Study on Annotating and Analysing Situation Entity Types in Reddit Discussions on Democracy</strong>. Accepted to CMC Corpora. September 2025. Bayreuth, Germany. <i>(to appear)</i>
 
-Christian Jaumann, Annemarie Friedrich, and Rainer Lienhart. <strong>Coling-UniA at SciVQA 2025: Few-Shot Example Retrieval and Confidence-Informed Ensembling for Multimodal Large Language Models</strong>. Accepted to the Fifth Workshop on Scholarly Document Processing (SDProc), co-located with ACL 2025. Vienna, Austria. <i>(to appear)</i><br/>
+Georg Hofmann and Annemarie Friedrich. 2025. <a href="https://aclanthology.org/2025.konvens-2.34/"> Coling-UniA at GermEval 2025 Shared Task on Candy Speech Detection: Retrieval Augmented Generation for Identifying Expressions of Positive Attitudes in German YouTube Comments.</a> In Proceedings of the 21st Conference on Natural Language Processing (KONVENS 2025): Workshops, pages 404–410, Hannover, Germany. HsH Applied Academics.
+
+Jakob Prange, Charlott Jakob, Patrick Göttfert, Raphael Huber, Pia Wenzel Neves, and Annemarie Friedrich. 2025. <a href="https://aclanthology.org/2025.konvens-2.18/"> Overview of the SustainEval 2025 Shared Task: Identifying the Topic and Verifiability of Sustainability Report Excerpts.</a> In Proceedings of the 21st Conference on Natural Language Processing (KONVENS 2025): Workshops, pages 229–238, Hannover, Germany. HsH Applied Academics. <i>(non peer-reviewed)</i>
+
+Hanna Schmück, Michael Reder, Katrin Paula, and Annemarie Friedrich. <a href="https://www.cmc2025.uni-bayreuth.de/pool/dokumente/CMC-2025-Proceedings-2.pdf">A Case Study on Annotating and Analysing Situation Entity Types in Reddit Discussions on Democracy</a>. Accepted to CMC Corpora. September 2025. Bayreuth, Germany. <i>(to appear)</i>
+
+Christian Jaumann, Annemarie Friedrich, and Rainer Lienhart. <a href="https://aclanthology.org/2025.sdp-1.21/">Coling-UniA at SciVQA 2025: Few-Shot Example Retrieval and Confidence-Informed Ensembling for Multimodal Large Language Models</strong>. Accepted to the Fifth Workshop on Scholarly Document Processing (SDProc), co-located with ACL 2025. Vienna, Austria.<br/>
+
+Wei Zhou, Mohsen Mesgar, Annemarie Friedrich, and Heike Adel. 2025.<a href="https://aclanthology.org/2025.semeval-1.100/">G-MACT at SemEval-2025 Task 8: Exploring Planning and Tool Use in Question Answering over Tabular Data.</a> In Proceedings of the 19th International Workshop on Semantic Evaluation (SemEval-2025), pages 726–742, Vienna, Austria. Association for Computational Linguistics.
 
 Wei Zhou, Mohsen Mesgar, Heike Adel, and Annemarie Friedrich. 2025. <a href="https://aclanthology.org/2025.trl-1.8/">RITT: A Retrieval-Assisted Framework with Image and Text Table Representations for Table Question Answering.</a> In Proceedings of the 4th Table Representation Learning Workshop, pages 86–97, Vienna, Austria. Association for Computational Linguistics.<br/>
 
