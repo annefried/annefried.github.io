@@ -25,7 +25,7 @@ Jakob Prange, Charlott Jakob, Patrick Göttfert, Raphael Huber, Pia Wenzel Neves
 
 Hanna Schmück, Michael Reder, Katrin Paula, and Annemarie Friedrich. <a href="https://www.cmc2025.uni-bayreuth.de/pool/dokumente/CMC-2025-Proceedings-2.pdf">A Case Study on Annotating and Analysing Situation Entity Types in Reddit Discussions on Democracy</a>. Accepted to CMC Corpora. September 2025. Bayreuth, Germany. <i>(to appear)</i>
 
-Christian Jaumann, Annemarie Friedrich, and Rainer Lienhart. <a href="https://aclanthology.org/2025.sdp-1.21/">Coling-UniA at SciVQA 2025: Few-Shot Example Retrieval and Confidence-Informed Ensembling for Multimodal Large Language Models</strong>. Accepted to the Fifth Workshop on Scholarly Document Processing (SDProc), co-located with ACL 2025. Vienna, Austria.<br/>
+Christian Jaumann, Annemarie Friedrich, and Rainer Lienhart. <a href="https://aclanthology.org/2025.sdp-1.21/">Coling-UniA at SciVQA 2025: Few-Shot Example Retrieval and Confidence-Informed Ensembling for Multimodal Large Language Models</a>. In Proceedings of the Fifth Workshop on Scholarly Document Processing (SDProc), co-located with ACL 2025. Vienna, Austria.<br/>
 
 Wei Zhou, Mohsen Mesgar, Annemarie Friedrich, and Heike Adel. 2025.<a href="https://aclanthology.org/2025.semeval-1.100/">G-MACT at SemEval-2025 Task 8: Exploring Planning and Tool Use in Question Answering over Tabular Data.</a> In Proceedings of the 19th International Workshop on Semantic Evaluation (SemEval-2025), pages 726–742, Vienna, Austria. Association for Computational Linguistics.
 
