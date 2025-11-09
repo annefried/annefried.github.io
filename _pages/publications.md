@@ -13,9 +13,17 @@ Most of my articles can be found in the <a href="https://aclanthology.org/people
 {% include base_path %}
 
 
+2026
+----
+
+Timo Pierre Schrader, Lukas Lange, Tobias Kaminski, Simon Razniewski, Annemarie Friedrich. <strong>
+A Solver-in-the-Loop Framework for Improving LLMs on Answer Set Programming for Logic Puzzle Solving.</strong> In Proceedings of the 40th Annual AAAI Conference on Artificial Intelligence. January 2026. Singapore. <i>(to appear)</i>
+
+
 
 2025
 ----
+
 Wei Zhou, Mohsen Mesgar, Heike Adel, Annemarie Friedrich. <strong>PPT: A Process-based Preference Learning Framework for Self Improving Table Question Answering Models.</strong> In Proceedings of the International Joint Conference on Natural Language Processing & Asia-Pacific Chapter of the Association for Computational Linguistics, 2025. December 2025. Mumbai, India. <i>(to appear)</i>
 
 
