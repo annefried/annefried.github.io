@@ -26,6 +26,7 @@ A Solver-in-the-Loop Framework for Improving LLMs on Answer Set Programming for 
 
 Wei Zhou, Mohsen Mesgar, Heike Adel, Annemarie Friedrich. <strong>PPT: A Process-based Preference Learning Framework for Self Improving Table Question Answering Models.</strong> In Proceedings of the International Joint Conference on Natural Language Processing & Asia-Pacific Chapter of the Association for Computational Linguistics, 2025. December 2025. Mumbai, India. <i>(to appear)</i>
 
+Julian Lorenz, Mrunmai Phatak, Robin Schön, Katja Ludwig, Nico Hörmann, Annemarie Friedrich, and Rainer Lienhart. <a href="https://openaccess.thecvf.com/content/ICCV2025W/SG2RL/papers/Lorenz_CoPa-SG_Dense_Scene_Graphs_with_Parametric_and_Proto-Relations_ICCVW_2025_paper.pdf">COPA-SG: Dense Scene Graphs with Parametric and Proto-Relations.</a> In Proceedings of Workshop on Scene Graphs and Graph Representation Learning @ ICCV 2025.  October 2025. Honolulu, Hawaii. 
 
 Georg Hofmann and Annemarie Friedrich. 2025. <a href="https://aclanthology.org/2025.konvens-2.34/"> Coling-UniA at GermEval 2025 Shared Task on Candy Speech Detection: Retrieval Augmented Generation for Identifying Expressions of Positive Attitudes in German YouTube Comments.</a> In Proceedings of the 21st Conference on Natural Language Processing (KONVENS 2025): Workshops, pages 404–410, Hannover, Germany. HsH Applied Academics.
 
