@@ -42,9 +42,11 @@ In contrast to the conference presentation that you have probably given, the aud
 * Describe implications of your work and which opportunities for future work you see, in particular those opened up by your research.
 
 
-## Time Management, Feedback, and Dry Runs
+## Preparation, Time Management, Feedback, and Dry Runs
 Making PhD defense slides takes time. Plan for around 2 weeks structuring and editing time, and make sure you have appointments with people helping you. Have a dry run with your team or with experienced researchers, e.g., PostDocs at your department.
 Personally, I am highly grateful to my PhD advisor Prof. Dr. Manfred Pinkal and to Dr. Stefan Thater, whose last-minute feedback was extremely helpful and resulted in an evening of last-minute updates on my side but also a much improved presentation!
+
+Attend as may PhD defenses at your department as you can! See what you like/dislike, what went well, what did not go so well. Plus, there is often free food. :)
 
 ## Discussion
 A large part of the PhD defense is typically the discussion. There is absolutely no need to be afraid of the discussion. You are the absolute expert about your topic in the room, and you have just spent at least three years engaging actively in your research community. You know what is going on! Demonstrate your reflection about the research area by discussing with other experts what you think matters. Be aware that some questions may be a bit more high-level and test your ability to generalize and draw connections also on the meta-level. Answer both in a general and in a specific way! You will be surprised how easy and interesting the discussion will feel. Often, only the members of the committee may ask questions; sometimes also everyone in the room who is a PD (Privatdozent) or professor.
