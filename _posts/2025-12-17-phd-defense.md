@@ -32,9 +32,9 @@ In contrast to the conference presentation that you have probably given, the aud
 
 * Start with explanations of the topic that you trying to solve, and the respective state-of-the-art.
 * What is the motivation for working on this topic? Which problems will it solve? Think broadly. What are relationships to established subfields or research areas in NLP/CL?
-* 
+* Create a slide that visualizes which topics/problems you have worked on and how they relate. In the image below, you can see examples from my own defense and from Stefan Grünewald's (copyright for his slide: him and Bosch).
 
-<img src=""src="https://github.com/annefried/annefried.github.io/blob/master/images/defense/phd-defense-structure.png?raw=true" alt="example slides with structure of PhD, how topics related in boxes and in a triangle, and citations of papers"/>
+<img src="https://github.com/annefried/annefried.github.io/blob/master/images/defense/phd-defense-structure.png?raw=true" alt="example slides with structure of PhD, how topics related in boxes and in a triangle, and citations of papers"/>
 
 
 
