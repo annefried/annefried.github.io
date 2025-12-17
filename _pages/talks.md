@@ -5,6 +5,10 @@ permalink: /talks/
 author_profile: true
 ---
 
+December 3, 2025: **Neurosymbolic Models of Uncertainty and Logical Reasoning**, Invited Talk at The Centre for Linguistic Theory and Studies in Probability (CLASP), Gothenburg University. [[Slides](http://annefried.github.io/files/slides_friedrich_CLASP_Gothenburg_2025.pdf)]
+
+November 10, 2025: **Is AI Research still Scientific? Critical Issues in LLM Research and Paths Forward** Keynote at AI Discovery Expo, Bosch Center for Artificial Intelligence, Renningen, Germany.
+
 July 15, 2025: **Making Sense of Uncertainty in Natural Language Processing**, Invited Talk at the BamNLP group retreat (Prof. Roman Klinger), Franken-Akademie Schloss Schney.
 
 June 4, 2025: **Von  Sprachmodellen und Sprachverstehen: Warum die KI noch nicht ausgelernt hat**, Inaugural lectures, Faculty of Applied Computer Science and Faculty of Philology and History, University of Augsburg.
