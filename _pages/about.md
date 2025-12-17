@@ -41,7 +41,6 @@ I am interested in understanding and modeling interactions at the syntax-semanti
 
 PostDocs
 ------------
-* [Jakob Prange](https://jakpra.github.io/), Akademischer Rat
 * Fabio Mariani, Wissenschaftlicher Mitarbeiter (almost-postdoc)
 * [Hanna Schmück](https://hannaschmueck.github.io/), Wissenschaftliche Mitarbeiterin
 
@@ -49,13 +48,23 @@ PostDocs
 PhD Students
 ------------
 
-* Valentin Knappich (2023-), document-level processing of patent text, co-supervised with Simon Razniewski (TU Dresden) and Anna Haetty (Bosch Center for Artificial Intelligence)
-* Timo Schrader (2023-), temporal processing of text, co-supervised with Lukas Lange and Simon Razniewski (Bosch Center for Artificial Intelligence)
-* Wei Zhou (2023-), document-level modeling of text, co-supervised with Heike Adel and Mohsen Mesgar (Bosch Center for Artificial Intelligence)
+* Valentin Knappich (2023-), document-level processing of patent text, co-advised with Simon Razniewski (TU Dresden) and Anna Haetty (Bosch Center for Artificial Intelligence)
+* Timo Schrader (2023-), temporal processing of text, co-advised with Lukas Lange and Simon Razniewski (Bosch Center for Artificial Intelligence)
+* Wei Zhou (2023-), document-level modeling of text, co-advised with Heike Adel and Mohsen Mesgar (Bosch Center for Artificial Intelligence)
 * Jenny Maria Felser (2024-), topic modeling for applications in digital forensics, co-supervised with Michael Spranger (Hochschule Mittweida)
 
 I also work(ed) very closely with the following PhD students:
 
-* [Sophie Henning](https://sophiehenning.github.io/) (2021-), Uncertainty Modeling for Deep Learning in NLP, co-supervised with Alexander Fraser (LMU Munich)
-* [Stefan Grünewald](https://stgrue.net/) (2019-2023), Syntactic Dependencies and Beyond: Robust Neural Architectures and Quality-Enhanced Corpora for Structured Prediction in NLP, co-supervised with Jonas Kuhn (University of Stuttgart)
-* [Subhash Pujari Chandra](https://scholar.google.com/citations?user=Pda-ntQAAAAJ&hl=en) (2019-2023), Neural Patent Classification beyond Title and Abstract: Leveraging Patent Text and Metadata, co-supervised with Michael Gertz (Heidelberg University) and Jannik Strötgen (FH Karlsruhe)
+* [Sophie Henning](https://sophiehenning.github.io/) (2021-), Uncertainty Modeling for Deep Learning in NLP, co-advised with Alexander Fraser (LMU Munich)
+
+
+Past PhD Students
+-----------------
+* [Stefan Grünewald](https://stgrue.net/) (2019-2023), Syntactic Dependencies and Beyond: Robust Neural Architectures and Quality-Enhanced Corpora for Structured Prediction in NLP, co-advised with Jonas Kuhn (University of Stuttgart) -- now Senior Data Scientist for AI Enabling at the Bosch Center for Artificial Intelligence
+* [Subhash Pujari Chandra](https://scholar.google.com/citations?user=Pda-ntQAAAAJ&hl=en) (2019-2023), Neural Patent Classification beyond Title and Abstract: Leveraging Patent Text and Metadata, co-advised with Michael Gertz (Heidelberg University) and Jannik Strötgen (FH Karlsruhe) -- now Research Scientist at the Bosch Center for Artificial Intelligence
+
+
+
+Alumni
+------
+* [Jakob Prange](https://jakpra.github.io/), Akademischer Rat
