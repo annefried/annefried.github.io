@@ -5,11 +5,11 @@ permalink: /talks/
 author_profile: true
 ---
 
-December 3, 2025: **Neurosymbolic Models of Uncertainty and Logical Reasoning**, Invited Talk at The Centre for Linguistic Theory and Studies in Probability (CLASP), Gothenburg University. [[Slides](http://annefried.github.io/files/slides_friedrich_CLASP_Gothenburg_2025.pdf)]
+December 3, 2025: **Neurosymbolic Models of Uncertainty and Logical Reasoning**. Invited Talk at The Centre for Linguistic Theory and Studies in Probability (CLASP), Gothenburg University. [[Slides](http://annefried.github.io/files/slides_friedrich_CLASP_Gothenburg_2025.pdf)]
 
-November 10, 2025: **Is AI Research still Scientific? Critical Issues in LLM Research and Paths Forward** Keynote at AI Discovery Expo, Bosch Center for Artificial Intelligence, Renningen, Germany.
+November 10, 2025: **Is AI Research still Scientific? Critical Issues in LLM Research and Paths Forward**. Keynote at AI Discovery Expo, Bosch Center for Artificial Intelligence, Renningen, Germany.
 
-July 15, 2025: **Making Sense of Uncertainty in Natural Language Processing**, Invited Talk at the BamNLP group retreat (Prof. Roman Klinger), Franken-Akademie Schloss Schney.
+July 15, 2025: **Making Sense of Uncertainty in Natural Language Processing**. Invited Talk at the BamNLP group retreat (Prof. Roman Klinger), Franken-Akademie Schloss Schney.
 
 June 4, 2025: **Von  Sprachmodellen und Sprachverstehen: Warum die KI noch nicht ausgelernt hat**, Inaugural lectures, Faculty of Applied Computer Science and Faculty of Philology and History, University of Augsburg.
 
@@ -17,9 +17,9 @@ March 28, 2025: **Making Sense of Uncertainty in Natural Language Processing** K
 
 February 19, 2025: **Macht menschliche Intelligenz noch Sinn im Zeitalter von KI?** RHI Talk (Roman-Herzog-Institut), München. [<a href="https://www.youtube.com/watch?v=Sn2nqUf1p1s">Video</a>]
 
-November 28, 2024: **Uncertainty in Natural Language Processing.** Invited Talk at IMS, University of Stuttgart. 
+November 28, 2024: **Uncertainty in Natural Language Processing**. Invited Talk at IMS, University of Stuttgart. 
 
-October 30, 2024: **Uncertainty in Natural Language Processing**, AI in Medicine: Bias and Explainability, Workshop at the Hochschule für Philosophie, Munich, organized by the [Center for Responsible AI Technology](https://www.center-responsible-ai.de/).
+October 30, 2024: **Uncertainty in Natural Language Processing**. AI in Medicine: Bias and Explainability, Workshop at the Hochschule für Philosophie, Munich, organized by the [Center for Responsible AI Technology](https://www.center-responsible-ai.de/).
 
 April 11, 2024: **Wie kommen die Vorurteile in textbasierte KI-Modelle?**, Generative Künstliche Intelligenz in Theorie und Praxis, NExT e.V., Community KI & Ethik (virtual meeting).
 
