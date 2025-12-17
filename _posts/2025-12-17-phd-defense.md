@@ -36,10 +36,8 @@ In contrast to the conference presentation that you have probably given, the aud
 
 <img src="https://github.com/annefried/annefried.github.io/blob/master/images/defense/phd-defense-structure.png?raw=true" alt="example slides with structure of PhD, how topics related in boxes and in a triangle, and citations of papers"/>
 
-
-
-Name dropping of publications
-What are contributions !!
+* Mention the publications explicitly, drop the citations (in a unified short format) whenever they fit. I typically use blue color for own citations and black for other relevant citations.
+* Most important, you need to convey what your __contributions__ are. You know what counts as contributions because you already listed them explicitly in the introduction sections of your papers and in your PhD dissertation. This is analogous. Make it more entertaining than showing a list. The contributions do not necessarily have to occur as one list on a slide. You can explain them along the presentation whenever they fit and summarize in the end.
 
 
 ## Time Management, Feedback, and Dry Runs
