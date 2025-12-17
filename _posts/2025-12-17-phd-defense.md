@@ -38,12 +38,26 @@ In contrast to the conference presentation that you have probably given, the aud
 
 * Mention the publications explicitly, drop the citations (in a unified short format) whenever they fit. I typically use blue color for own citations and black for other relevant citations.
 * Most important, you need to convey what your __contributions__ are. You know what counts as contributions because you already listed them explicitly in the introduction sections of your papers and in your PhD dissertation. This is analogous. Make it more entertaining than showing a list. The contributions do not necessarily have to occur as one list on a slide. You can explain them along the presentation whenever they fit and summarize in the end.
+* Use (animated) diagrams to explain your methods and results (as usual).
+* Describe implications of your work and which opportunities for future work you see, in particular those opened up by your research.
 
 
 ## Time Management, Feedback, and Dry Runs
+Making PhD defense slides takes time. Plan for around 2 weeks structuring and editing time, and make sure you have appointments with people helping you. Have a dry run with your team or with experienced researchers, e.g., PostDocs at your department.
+Personally, I am highly grateful to my PhD advisor Prof. Dr. Manfred Pinkal and to Dr. Stefan Thater, whose last-minute feedback was extremely helpful and resulted in an evening of last-minute updates on my side but also a much improved presentation!
 
+## Discussion
+A large part of the PhD defense is typically the discussion. There is absolutely no need to be afraid of the discussion. You are the absolute expert about your topic in the room, and you have just spent at least three years engaging actively in your research community. You know what is going on! Demonstrate your reflection about the research area by discussing with other experts what you think matters. Be aware that some questions may be a bit more high-level and test your ability to generalize and draw connections also on the meta-level. Answer both in a general and in a specific way! You will be surprised how easy and interesting the discussion will feel. Often, only the members of the committee may ask questions; sometimes also everyone in the room who is a PD (Privatdozent) or professor.
 
 
 ## Celebration !!
-Food and hat celebration
-thank Manfred, Alexis and Stefan Thater
+I was lucky enough to do my PhD at the CoLi department of Saarland University (now called Language Science and Technology). This department really celebrated PhD defenses. Everyone went. There was a formal handshake and congratulations, and drinks and food afterwards. The fellow PhD students always created a hat with silly items on it. The recent graduate has to guess what the items stand for, and only if they guessed everyone correctly, they were allowed to put on the hat. It was an awesome time, and worthy celebration of x years of hard work!
+
+<img src="https://github.com/annefried/annefried.github.io/blob/master/images/defense/phd-hat.png?raw=true" alt="three pictures of the social part of my PhD defense with the hat"/>
+
+In the pictures, you can see
+1. me celebrating with my PhD advisor Manfred Pinkal, a linguist and computer scientist and pioneer in computational linguistics
+2. me guessing what the items on the hat mean
+3. me having guessed everything correctly and wearing the hat
+
+_Enjoy your PhD defense!_
