@@ -52,6 +52,7 @@ PhD Students
 * Timo Schrader (2023-), temporal processing of text, co-advised with Lukas Lange and Simon Razniewski (Bosch Center for Artificial Intelligence)
 * Wei Zhou (2023-), document-level modeling of text, co-advised with Heike Adel and Mohsen Mesgar (Bosch Center for Artificial Intelligence)
 * Jenny Maria Felser (2024-), topic modeling for applications in digital forensics, co-supervised with Michael Spranger (Hochschule Mittweida)
+* Xaver Krückl (2026-)
 
 I also work(ed) very closely with the following PhD students:
 
@@ -67,4 +68,4 @@ Past PhD Students
 
 Alumni
 ------
-* [Jakob Prange](https://jakpra.github.io/), Akademischer Rat
+* [Jakob Prange](https://jakpra.github.io/), Akademischer Rat/PostDoc (2023-2025)
