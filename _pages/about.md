@@ -70,3 +70,9 @@ Past PhD Students
 Alumni
 ------
 * [Jakob Prange](https://jakpra.github.io/), Akademischer Rat/PostDoc (2023-2025)
+
+
+
+Mini Bio
+--------
+Annemarie Friedrich is the Chair of Computational Linguistics in the Institute of Applied Computer Science at the University of Augsburg. Her research focuses on computational semantics, discourse processing, and linguistic annotation, and her group also engages in digital humanities projects. Before joining the University of Augsburg in 2023, she worked as a Senior Expert in Natural Language Processing at the Bosch Center for Artificial Intelligence, where she specialized in text mining for scientific literature.
