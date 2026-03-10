@@ -16,6 +16,8 @@ Most of my articles can be found in the <a href="https://aclanthology.org/people
 2026
 ----
 
+<!--LREC Paper.-->
+
 Timo Pierre Schrader, Lukas Lange, Tobias Kaminski, Simon Razniewski, Annemarie Friedrich. <strong>
 A Solver-in-the-Loop Framework for Improving LLMs on Answer Set Programming for Logic Puzzle Solving.</strong> In Proceedings of the 40th Annual AAAI Conference on Artificial Intelligence. January 2026. Singapore. <i>(to appear)</i>
 
