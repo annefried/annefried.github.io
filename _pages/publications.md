@@ -27,7 +27,7 @@ Timo Pierre Schrader, Lukas Lange, Tobias Kaminski, Simon Razniewski, Annemarie 
 2025
 ----
 
-Wei Zhou, Mohsen Mesgar, Heike Adel, Annemarie Friedrich. <strong>PPT: A Process-based Preference Learning Framework for Self Improving Table Question Answering Models.</strong> In Proceedings of the International Joint Conference on Natural Language Processing & Asia-Pacific Chapter of the Association for Computational Linguistics, 2025. December 2025. Mumbai, India. <i>(to appear)</i>
+Wei Zhou, Mohsen Mesgar, Heike Adel, and Annemarie Friedrich. 2025. <a href="https://aclanthology.org/2025.ijcnlp-short.20/">p²-TQA: A Process-based Preference Learning Framework for Self-Improving Table Question Answering Models</a>. In Proceedings of the 14th International Joint Conference on Natural Language Processing and the 4th Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics, pages 217–231, Mumbai, India. The Asian Federation of Natural Language Processing and The Association for Computational Linguistics.
 
 Julian Lorenz, Mrunmai Phatak, Robin Schön, Katja Ludwig, Nico Hörmann, Annemarie Friedrich, and Rainer Lienhart. <a href="https://openaccess.thecvf.com/content/ICCV2025W/SG2RL/papers/Lorenz_CoPa-SG_Dense_Scene_Graphs_with_Parametric_and_Proto-Relations_ICCVW_2025_paper.pdf">COPA-SG: Dense Scene Graphs with Parametric and Proto-Relations.</a> In Proceedings of Workshop on Scene Graphs and Graph Representation Learning @ ICCV 2025.  October 2025. Honolulu, Hawaii. 
 
