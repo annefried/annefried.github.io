@@ -16,7 +16,9 @@ Most of my articles can be found in the <a href="https://aclanthology.org/people
 2026
 ----
 
-<!--LREC Paper.-->
+Tobias Hallmen, Kathrin Gietl, Karoline Hillesheim, Annemarie Friedrich and Elisabeth André. <strong>Annotating Conversational Phases and Communication Techniques: A Corpus of German Teacher-Parent Counseling Conversations</strong>. <i>(accepted to LREC 2026)</i>
+
+Fabio Mariani, Helmut Graser, B. Ann Tlusty, Regina Dauser, and Annemarie Friedrich. <a href="https://zenodo.org/records/18702907">"Ein Freinttlichen Trunck": The Zechzettel Dataset for Handwritten Text Recognition and Information Retrieval</a>. Digital Humanities im deutschsprachigen Raum. February 2026. Vienna. <i>Poster presentation with peer-reviewed extended abstract.</i> [[Slides](http://annefried.github.io/files/zechzettel-posterdhd2026.pdf)]
 
 Timo Pierre Schrader, Lukas Lange, Tobias Kaminski, Simon Razniewski, Annemarie Friedrich. <strong>
 A Solver-in-the-Loop Framework for Improving LLMs on Answer Set Programming for Logic Puzzle Solving.</strong> In Proceedings of the 40th Annual AAAI Conference on Artificial Intelligence. January 2026. Singapore. <i>(to appear)</i>
@@ -34,7 +36,7 @@ Georg Hofmann and Annemarie Friedrich. 2025. <a href="https://aclanthology.org/2
 
 Jakob Prange, Charlott Jakob, Patrick Göttfert, Raphael Huber, Pia Wenzel Neves, and Annemarie Friedrich. 2025. <a href="https://aclanthology.org/2025.konvens-2.18/"> Overview of the SustainEval 2025 Shared Task: Identifying the Topic and Verifiability of Sustainability Report Excerpts.</a> In Proceedings of the 21st Conference on Natural Language Processing (KONVENS 2025): Workshops, pages 229–238, Hannover, Germany. HsH Applied Academics. <i>(non peer-reviewed)</i>
 
-Hanna Schmück, Michael Reder, Katrin Paula, and Annemarie Friedrich. <a href="https://www.cmc2025.uni-bayreuth.de/pool/dokumente/CMC-2025-Proceedings-2.pdf">A Case Study on Annotating and Analysing Situation Entity Types in Reddit Discussions on Democracy</a>. Accepted to CMC Corpora. September 2025. Bayreuth, Germany. <i>(to appear)</i>
+Hanna Schmück, Michael Reder, Katrin Paula, and Annemarie Friedrich. <a href="https://www.cmc2025.uni-bayreuth.de/pool/dokumente/CMC-2025-Proceedings-2.pdf">A Case Study on Annotating and Analysing Situation Entity Types in Reddit Discussions on Democracy</a>. Accepted to CMC Corpora. September 2025. Bayreuth, Germany.
 
 Christian Jaumann, Annemarie Friedrich, and Rainer Lienhart. <a href="https://aclanthology.org/2025.sdp-1.21/">Coling-UniA at SciVQA 2025: Few-Shot Example Retrieval and Confidence-Informed Ensembling for Multimodal Large Language Models</a>. In Proceedings of the Fifth Workshop on Scholarly Document Processing (SDProc), co-located with ACL 2025. Vienna, Austria.<br/>
 
@@ -94,7 +96,7 @@ Timo Pierre Schrader, Teresa Bürkle, Sophie Henning, Sherry Tan, Matteo Finco, 
 
 Annemarie Friedrich, Nianwen Xue, and Alexis Palmer. 2023. [A Kind Introduction to Lexical and Grammatical Aspect, with a Survey of Computational Approaches](https://aclanthology.org/2023.eacl-main.44/). In Proceedings of the 17th Conference of the European Chapter of the Association for Computational Linguistics (EACL), pages 599–622, Dubrovnik, Croatia. Association for Computational Linguistics. ([video](https://doi.org/10.48448/hhrb-sq43))
 
-Sophie Henning, William Beluch, Alexander Fraser, and Annemarie Friedrich. 2023. [A Survey of Methods for Addressing Class Imbalance in Deep-Learning Based Natural Language Processing](https://www.google.com/url?client=internal-element-cse&cx=000299513257099441687:fkkgoogvtaw&q=https://aclanthology.org/2023.eacl-main.38&sa=U&ved=2ahUKEwjb753Nyf__AhXPPOwKHcZdDAAQFnoECAcQAQ&usg=AOvVaw0I01ix9p7bEie5jIGj_8Ye). In Proceedings of the 17th Conference of the European Chapter of the Association for Computational Linguistics (EACL), pages 523–540, Dubrovnik, Croatia. Association for Computational Linguistics.
+Sophie Henning, William Beluch, Alexander Fraser, and Annemarie Friedrich. 2023. [A Survey of Methods for Addressing Class Imbalance in Deep-Learning Based Natural Language Processing](https://aclanthology.org/2023.eacl-main.38/). In Proceedings of the 17th Conference of the European Chapter of the Association for Computational Linguistics (EACL), pages 523–540, Dubrovnik, Croatia. Association for Computational Linguistics.
 
 
 2022

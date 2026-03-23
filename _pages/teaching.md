@@ -16,6 +16,7 @@ Current Teaching (University of Augsburg)
 * Introduction to Python Programming (for B.Sc. Computer Science), co-taught with Jakob Prange and Fabio Mariani.
 * Seminar Natural Language Understanding (for B.Sc. Computer Science / M.Sc. Computer Science), co-taught with Jakob Prange.
 * <a href="https://annefried.github.io/teaching/probevorlesung">Probevorlesung "Wie funktioniert ChatGPT?"</a>
+* We also offer project modules (Master-level, 10 ECTS) and research modules (Bachelor-level, 6 ECTS) at our chair, as well as opportunities for Master and Bachelor theses.
 
 
 Past Teaching
@@ -40,18 +41,26 @@ I have given various lectures and seminars at Saarland University and at Ludwig-
 Theses advised
 -------------
 
-* Martin Bichlmeier, "tbd", B.Sc. thesis, University of Augsburg, 2025 (ongoing). (co-advised with Fabio Mariani)
+* Lea Nora Avelina Tuncer Mata, "tbd", M.Sc. thesis. (co-advised with Georg Hofmann)
 
-* Georg Hofmann, "tbd", M.Sc. thesis, University of Augsburg, 2025 (ongoing).
+* Elias Kohout, "An LLM-Empowered Web-Based Study Advisor: Design, Implementation, and Evaluation", B.Sc. thesis (ongoing).
 
-* Benjamin Schüßler, "tbd", M.Sc. thesis, University of Augsburg, 2025 (ongoing). (co-advised with Jakob Prange)
+* Andrea Krestakova, "Annotating and modeling situation entities for Czech", M.Sc. thesis (ongoing). (co-advised with Hanna Schmück)
 
-* Leo Pöller: "tbd", B.Sc. thesis, University of Augsburg, 2025 (ongoing). (co-advised with Jakob Prange) 
+* Martin Bichlmeier, "Quotation Detection in Fictional and Non-Fictional Texts Using Large Language Models", B.Sc. thesis, University of Augsburg, 2025. (co-advised with Fabio Mariani)
+
+* Georg Hofmann, "Confidence Estimation for Extreme Multi-Label Text Classification
+using Large Language Models", M.Sc. thesis, University of Augsburg, 2025.
+
+* Benjamin Schüßler, "Analyzing and Improving Readability in German Environmental,
+Social, and Governance Reporting", M.Sc. thesis, University of Augsburg, 2025. (co-advised with Jakob Prange)
+
+* Leo Pöller: "Dealing with Uncertainties in Corpora Climate Reports:
+Multidimensional classification and interpretation with LLMs and Contrastive Explanations", B.Sc. thesis, University of Augsburg, 2025. (co-advised with Jakob Prange) 
 
 * Christian Jaumann: "Ranking for Abstract Screening in Systematic Literature Reviews using Large Language Models", B.Sc. thesis, University of Augsburg, 2024.
-
-* Thomas Niemeier: "Large Language Model based
-Information Extraction from Visually Rich Documents", B.Sc. thesis, University of Augsburg, 2024.
+ [[ACL Findings 2025](https://aclanthology.org/2025.findings-acl.412/)]
+* Thomas Niemeier: "Large Language Model based Information Extraction from Visually Rich Documents", B.Sc. thesis, University of Augsburg, 2024.
 
 * Daniel Neu: "Prompt Ensembles for Annotation Error Detection with Large Language Models in Temporal Reasoning Datasets", B.Sc. thesis, University of Augsburg, 2024.
 
