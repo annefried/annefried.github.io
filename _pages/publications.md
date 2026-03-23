@@ -20,7 +20,7 @@ Tobias Hallmen, Kathrin Gietl, Karoline Hillesheim, Annemarie Friedrich and Elis
 
 Fabio Mariani, Helmut Graser, B. Ann Tlusty, Regina Dauser, and Annemarie Friedrich. <a href="https://zenodo.org/records/18702907">"Ein Freinttlichen Trunck": The Zechzettel Dataset for Handwritten Text Recognition and Information Retrieval</a>. Digital Humanities im deutschsprachigen Raum. February 2026. Vienna. <i>Poster presentation with peer-reviewed extended abstract.</i> [[Slides](http://annefried.github.io/files/zechzettel-posterdhd2026.pdf)]
 
-Timo Pierre Schrader, Lukas Lange, Tobias Kaminski, Simon Razniewski, Annemarie Friedrich. <a href="https://ojs.aaai.org/index.php/AAAI/article/view/39714">A Solver-in-the-Loop Framework for Improving LLMs on Answer Set Programming for Logic Puzzle Solving.</a> In Proceedings of the 40th Annual AAAI Conference on Artificial Intelligence. January 2026. Singapore. <i>(to appear)</i>
+Timo Pierre Schrader, Lukas Lange, Tobias Kaminski, Simon Razniewski, Annemarie Friedrich. <a href="https://ojs.aaai.org/index.php/AAAI/article/view/39714">A Solver-in-the-Loop Framework for Improving LLMs on Answer Set Programming for Logic Puzzle Solving.</a> In Proceedings of the 40th Annual AAAI Conference on Artificial Intelligence. January 2026. Singapore.
 
 
 
