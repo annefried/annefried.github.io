@@ -75,7 +75,7 @@ in Cyber Threat Reports.</a> In Proceedings of LREC-COLING 2024 - The 2024 Joint
 Conference on Computational Linguistics, Language Resources and Evaluation, 2024.
 
 
-Tim Tarsi, Heike Adel, Jan Hendrik Metzen, Dan Zhang, Matteo Finco, and Annemarie Friedrich. 2024. [SciOL and MuLMS-Img: Introducing A Large-Scale Multimodal Scientific Dataset and Models for Image-Text Tasks in the Scientific Domain](https://openaccess.thecvf.com/content/WACV2024/html/Tarsi_SciOL_and_MuLMS-Img_Introducing_a_Large-Scale_Multimodal_Scientific_Dataset_and_WACV_2024_paper.html). In Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV). January 2024, Waikoloa, Hawaii.
+Tim Tarsi, Heike Adel, Jan Hendrik Metzen, Dan Zhang, Matteo Finco, and Annemarie Friedrich. 2024. [SciOL and MuLMS-Img: Introducing A Large-Scale Multimodal Scientific Dataset and Models for Image-Text Tasks in the Scientific Domain](https://ieeexplore.ieee.org/document/10483603). In Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV). January 2024, Waikoloa, Hawaii.
 
 
 
