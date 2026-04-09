@@ -16,6 +16,10 @@ Most of my articles can be found in the <a href="https://aclanthology.org/people
 2026
 ----
 
+Valentin Knappich, Anna Hätty, Simon Razniewski, and Annemarie Friedrich. <strong>Is It Novel and Why? Fine-Grained Patent Novelty Prediction Based on Passage Retrieval</strong>. <i>Accepted to ACM SIGIR 2026.</i>
+
+Wei Zhou, Bolei Ma, Annemarie Friedrich, and Mohsen Mesgar.<strong>Table Question Answering in the Era of Large Language Models: A Comprehensive Survey of Tasks, Methods, and Evaluation</strong>. <i>Accepted to ACL 2026 (main conference)</i>
+
 Tobias Hallmen, Kathrin Gietl, Karoline Hillesheim, Annemarie Friedrich and Elisabeth André. <strong>Annotating Conversational Phases and Communication Techniques: A Corpus of German Teacher-Parent Counseling Conversations</strong>. <i>(accepted to LREC 2026)</i>
 
 Fabio Mariani, Helmut Graser, B. Ann Tlusty, Regina Dauser, and Annemarie Friedrich. <a href="https://zenodo.org/records/18702907">"Ein Freinttlichen Trunck": The Zechzettel Dataset for Handwritten Text Recognition and Information Retrieval</a>. Digital Humanities im deutschsprachigen Raum. February 2026. Vienna. <i>Poster presentation with peer-reviewed extended abstract.</i> [[Slides](http://annefried.github.io/files/zechzettel-posterdhd2026.pdf)]

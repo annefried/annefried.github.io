@@ -35,6 +35,7 @@ Research Interests
 * Linguistic Annotation
 * Deep Learning
 * Digital Humanities
+* Our research on all of these topics is closely related to evaluating, improving, fine-tuning, or the usage of Large Language Models.
 
 I am interested in understanding and modeling interactions at the syntax-semantics interface, taking into account influences of discourse and pragmatics. Most of my past research is about the computational modeling of aspect and genericity. More details [here](https://www.coli.uni-saarland.de/projects/sitent/page.php). I am currently also interested in text mining for scientific text and historical text corpora, syntactic and semantic parsing, and uncertainty in the context of deep learning for NLP.
 
