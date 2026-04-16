@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 
+April 15, 2026: **Neurosymbolic Models of Uncertainty and Logical Reasoning**. Invited Talk at the Boulder Natural Language Processing Seminar, University of Colorado Boulder (remote).
 
 February 26, 2026: **Temporal dynamics and linguistic patterns in discourse modes: The case of narrative passages**. Hanna Schmück, Sonja Zeman, Annemarie Friedrich, and Claudia Claridge. Talk at DGfS 2026 (Trier), AG 9 Linguistic patterns of textual organization across registers.
 
