@@ -8,13 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-Contact
--------
-E-Mail: firstname dot lastname @ informatik dot uni minus augsburg dot de
-
 Photo: © University of Augsburg
 
+
+Contact
+-------
+
+E-Mail: firstname dot lastname @ uni minus a dot de
+
 [Official university team website](https://www.uni-augsburg.de/de/fakultaet/fai/informatik/prof/coling/) - for organizational matters, please contact team assistant Sabrina Achberger (firstname.lastname@uni-a.de, +49 821 598 4628)
+
+Interested in a PhD? Please check out [this information](https://annefried.github.io/posts/2026-04-21-applying) first.
 
 
 About me
@@ -75,3 +79,5 @@ Alumni
 Mini Bio
 --------
 Annemarie Friedrich is the Chair of Computational Linguistics in the Institute of Applied Computer Science at the University of Augsburg. Her research focuses on computational semantics, discourse processing, and linguistic annotation, and her group also engages in digital humanities projects. Before joining the University of Augsburg in 2023, she worked as a Senior Expert in Natural Language Processing at the Bosch Center for Artificial Intelligence, where she specialized in text mining for scientific literature.
+
+
