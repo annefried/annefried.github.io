@@ -18,7 +18,7 @@ E-Mail: firstname dot lastname @ uni minus a dot de
 
 [Official university team website](https://www.uni-augsburg.de/de/fakultaet/fai/informatik/prof/coling/) - for organizational matters, please contact team assistant Sabrina Achberger (firstname.lastname@uni-a.de, +49 821 598 4628)
 
-Interested in a PhD? Please check out [this information](https://annefried.github.io/posts/2026-04-21-applying) first.
+Interested in a PhD? Please check out [this information](https://annefried.github.io/posts/2026-04-01-applying) first.
 
 
 About me
