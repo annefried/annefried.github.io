@@ -91,6 +91,8 @@ If a paper is not in the ACL Anthology, try finding a high-quality Bibtex entry 
 If an ArXiv paper has a follow-up version accepted for publication at a conference or journal, you should cite this peer-reviewed version.
 Only if you cannot find an entry in these sources, resort to other sources for Bibtex entries (e.g., Google Scholar).
 Please pay special attention to the instructions of how to integrate citations into the text. Always refer to the authors, _they_ state/propose/found something, not "the paper." This means you should write: "Friedrich et al. (2020) found that ..." (use the `\citet` command!) rather than: "In (Friedrich et al., 2020) it was found that ..." If a citation refers to a full sentence, put it _within_ the sentence, e.g., "XYZ can be achieved using really small language models (Friedrich et al., 2031)."
+There also exists a `\citeauthor` command that will output only the name of the author, e.g., "Friedrich et al.". You can use this if you have already cited the paper WITH the year in a nearby context. In fact, in this case it is recommended rather than repeating the full citation. However, be careful: it is bad style to keep citing the same paper over and over again. Look carefully: are there other papers you could/should cite as well in the context? Can you use other formulations that still make it clear which work you are referring to without mentioning the name of the authors over and over again?
+
 
 ## Cross-References
 
