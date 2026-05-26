@@ -81,3 +81,12 @@ Mini Bio
 Annemarie Friedrich is the Chair of Computational Linguistics in the Institute of Applied Computer Science at the University of Augsburg. Her research focuses on computational semantics, discourse processing, and linguistic annotation, and her group also engages in digital humanities projects. Before joining the University of Augsburg in 2023, she worked as a Senior Expert in Natural Language Processing at the Bosch Center for Artificial Intelligence, where she specialized in text mining for scientific literature.
 
 
+Applications
+------------
+
+Are you interested in completing your Ph.D. thesis under my supervision? In Germany, most Ph.D. positions in the field of informatics are embedded in third-party funded research projects. Whenever I am able to offer such a position, it is advertised via social media ([LinkedIn](https://www.linkedin.com/in/annemariefriedrich/)), the [Corpora mailing list](https://list.elra.info/mailman3/hyperkitty/list/corpora@list.elra.info/), and the [university website's job ads](https://www.uni-augsburg.de/de/jobs-und-karriere/stellenangebote/).
+
+For people from outside Germany, the [DAAD](https://www.daad.de/en/studying-in-germany/scholarships/daad-scholarships/) may offer scholarships.
+
+I currently receive a very high number of initiave applications, which I really value.
+If you want to contact me about a PhD opportunity, especially outside any official job postings, please put `[phd-with-anne]` at the beginning of your e-mail subject so that I can see that you spent the time to read this (other e-mails may not be answered), and provide an idea how you will obtain funding. Please note that I do not have secret funding options, and that I only take on PhD students that have funding such that they can concentrate on their PhD. If you would like to learn about such opportunities, please follow me on LinkedIn where I post job ads as soon as I have an opening. Thank you!
