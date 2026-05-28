@@ -18,7 +18,7 @@ Most of my articles can be found in the <a href="https://aclanthology.org/people
 
 Valentin Knappich, Anna Hätty, Simon Razniewski, and Annemarie Friedrich. <strong>Is It Novel and Why? Fine-Grained Patent Novelty Prediction Based on Passage Retrieval</strong>. <i>Accepted to ACM SIGIR 2026.</i>
 
-Wei Zhou, Bolei Ma, Annemarie Friedrich, and Mohsen Mesgar.<strong>Table Question Answering in the Era of Large Language Models: A Comprehensive Survey of Tasks, Methods, and Evaluation</strong>. <i>Accepted to ACL 2026 (main conference)</i>
+Wei Zhou, Bolei Ma, Annemarie Friedrich, and Mohsen Mesgar. <strong>Table Question Answering in the Era of Large Language Models: A Comprehensive Survey of Tasks, Methods, and Evaluation</strong>. <i>Accepted to ACL 2026 (main conference)</i>
 
 Linda Kupfer, Lisa Hader, Christian Jaumann, and Annemarie Friedrich. <strong>WWTC@UniA at SemEval-2026 Task 13: BERT-based Code Authorship Detection and Qualitative Analysis</strong>. In Proceedings of SemEval 2026, Task 13: Detecting Machine-Generated Code with Multiple Programming Languages, Generators, and Application Scenarios. <i>(to appear)</i>
 
