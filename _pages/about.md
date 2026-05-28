@@ -51,12 +51,14 @@ PostDocs
 PhD Students
 ------------
 
-* Valentin Knappich (2023-), document-level processing of patent text, co-advised with Simon Razniewski (TU Dresden) and Anna Haetty (Bosch Center for Artificial Intelligence)
-* Timo Schrader (2023-), temporal processing of text, co-advised with Lukas Lange and Simon Razniewski (Bosch Center for Artificial Intelligence)
-* Wei Zhou (2023-), document-level modeling of text, co-advised with Heike Adel and Mohsen Mesgar (Bosch Center for Artificial Intelligence)
+* Wei Zhou (2023-2026), Querying over Tabular Data with Large Language Models:
+Analysis, Modeling and Evaluation, co-advised with Heike Adel (Hochschule der Medien Stuttgart) and Mohsen Mesgar (Bosch Center for Artificial Intelligence)
+* Valentin Knappich (2023-2026), Large Language Models for
+Patent Generation and Examination, co-advised with Anna Haetty (Bosch Center for Artificial Intelligence) and Simon Razniewski (TU Dresden)
+* Timo Schrader (2023-2026), Combining Neural Language Models with Structured Knowledge Representations for Robust Reasoning and Knowledge Construction, co-advised with Lukas Lange (Bosch Center for Artificial Intelligence) and Simon Razniewski (TU Dresden)
 * Jenny Maria Felser (2024-), topic modeling for applications in digital forensics, co-supervised with Michael Spranger (Hochschule Mittweida)
 * Georg Hofmann (2025-), uncertainty in natural language processing
-* Xaver Krückl (2026-)
+* Xaver Krückl (2026-), tbd
 
 I also work very closely with the following PhD students:
 
