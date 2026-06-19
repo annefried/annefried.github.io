@@ -16,6 +16,8 @@ Most of my articles can be found in the <a href="https://aclanthology.org/people
 2026
 ----
 
+Hanna Schmück, Veronika Urban, Xaver Maria Krückl, Sonja Zeman, Claudia Claridge, and Annemarie Friedrich.  <strong>Cross-Linguistic Situation Entity Segmentation for Discourse Analysis in Diachronic English and German Text</strong>. <i>Accepted to The 20th Linguistic Annotation Workshop (LAW XX).</i>
+
 Valentin Knappich, Anna Hätty, Simon Razniewski, and Annemarie Friedrich. <strong>Is It Novel and Why? Fine-Grained Patent Novelty Prediction Based on Passage Retrieval</strong>. <i>Accepted to ACM SIGIR 2026.</i>
 
 Wei Zhou, Bolei Ma, Annemarie Friedrich, and Mohsen Mesgar. <strong>Table Question Answering in the Era of Large Language Models: A Comprehensive Survey of Tasks, Methods, and Evaluation</strong>. <i>Accepted to ACL 2026 (main conference)</i>

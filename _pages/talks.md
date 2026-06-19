@@ -5,6 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
+June 10, 2026: **Neurosymbolic Models of Uncertainty and Logical Reasoning**. Invited Talk at the BaioSphere session of the Helmholtz AI Conference (HAICON) 2026, Munich.
 
 April 15, 2026: **Neurosymbolic Models of Uncertainty and Logical Reasoning**. Invited Talk at the Boulder Natural Language Processing Seminar, University of Colorado Boulder (remote).
 
