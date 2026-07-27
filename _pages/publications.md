@@ -16,13 +16,13 @@ Most of my articles can be found in the <a href="https://aclanthology.org/people
 2026
 ----
 
-Hanna Schmück, Veronika Urban, Xaver Maria Krückl, Sonja Zeman, Claudia Claridge, and Annemarie Friedrich.  <strong>Cross-Linguistic Situation Entity Segmentation for Discourse Analysis in Diachronic English and German Text</strong>. <i>Accepted to The 20th Linguistic Annotation Workshop (LAW XX).</i>
+Hanna Schmück, Veronika Urban, Xaver Krückl, Sonja Zeman, Claudia Claridge, and Annemarie Friedrich. 2026. <a href="https://aclanthology.org/2026.law-main.8/">Cross-Linguistic Situation Entity Segmentation for Discourse Analysis in Diachronic English and German Text.</a> In Proceedings of the 20th Linguistic Annotation Workshop (LAW XX), pages 95–112, San Diego, California, USA. Association for Computational Linguistics.
 
-Valentin Knappich, Anna Hätty, Simon Razniewski, and Annemarie Friedrich. <strong>Is It Novel and Why? Fine-Grained Patent Novelty Prediction Based on Passage Retrieval</strong>. <i>Accepted to ACM SIGIR 2026.</i>
+Valentin Knappich, Anna Hätty, Simon Razniewski, and Annemarie Friedrich. 2026. <a href="https://dl.acm.org/doi/10.1145/3805712.3809576">Is It Novel and Why? Fine-Grained Patent Novelty Prediction Based on Passage Retrieval.</a> In Proceedings of the 49th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR '26). Association for Computing Machinery, New York, NY, USA, 845–856.
 
-Wei Zhou, Bolei Ma, Annemarie Friedrich, and Mohsen Mesgar. <strong>Table Question Answering in the Era of Large Language Models: A Comprehensive Survey of Tasks, Methods, and Evaluation</strong>. <i>Accepted to ACL 2026 (main conference)</i>
+Wei Zhou, Bolei Ma, Annemarie Friedrich, and Mohsen Mesgar. 2026. <a href="https://aclanthology.org/2026.acl-long.557/">Table Question Answering in the Era of Large Language Models: A Comprehensive Survey of Tasks, Methods, and Evaluation.</a> In Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), pages 12161–12189, San Diego, California, United States. Association for Computational Linguistics. (&#127941; SAC Highlight Award)
 
-Linda Kupfer, Lisa Hader, Christian Jaumann, and Annemarie Friedrich. <strong>WWTC@UniA at SemEval-2026 Task 13: BERT-based Code Authorship Detection and Qualitative Analysis</strong>. In Proceedings of SemEval 2026, Task 13: Detecting Machine-Generated Code with Multiple Programming Languages, Generators, and Application Scenarios. <i>(to appear)</i>
+Linda Kupfer, Lisa Hader, Christian Jaumann, and Annemarie Friedrich. 2026. <a href="https://aclanthology.org/2026.semeval-1.298/">WWTC@UniA at SemEval-2026 Task 13: BERT-based Code Authorship Detection and Qualitative Analysis.</a> In Proceedings of the 20th International Workshop on Semantic Evaluation (2026), pages 2359–2375, San Diego, California, USA. Association for Computational Linguistics. (&#127941; Best Paper Award SemEval-2026 Task 13)
 
 Tobias Hallmen, Kathrin Gietl, Karoline Hillesheim, Annemarie Friedrich and Elisabeth André. <strong>Annotating Conversational Phases and Communication Techniques: A Corpus of German Teacher-Parent Counseling Conversations</strong>. <i>(accepted to LREC 2026)</i>
 

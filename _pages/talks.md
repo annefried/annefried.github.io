@@ -5,7 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
-June 10, 2026: **Neurosymbolic Models of Uncertainty and Logical Reasoning**. Invited Talk at the BaioSphere session of the Helmholtz AI Conference (HAICON) 2026, Munich.
+June 10, 2026: **Neurosymbolic Models of Uncertainty and Logical Reasoning**. Invited Talk at the BaioSphere session of the Helmholtz AI Conference (HAICON) 2026, Munich. [[Video (YouTube)](https://www.youtube.com/watch?v=HL0_8VRenbU)]
 
 April 15, 2026: **Neurosymbolic Models of Uncertainty and Logical Reasoning**. Invited Talk at the Boulder Natural Language Processing Seminar, University of Colorado Boulder (remote).
 
@@ -21,7 +21,7 @@ June 4, 2025: **Von  Sprachmodellen und Sprachverstehen: Warum die KI noch nicht
 
 March 28, 2025: **Making Sense of Uncertainty in Natural Language Processing** Keynote at Text-as-data in Hydrology, Natural Hazards, and Climate Change Research: exploring challenges and opportunities. Helmholtz Center for Environmental Research - UFZ Leipzig, Germany.
 
-February 19, 2025: **Macht menschliche Intelligenz noch Sinn im Zeitalter von KI?** RHI Talk (Roman-Herzog-Institut), München. [<a href="https://www.youtube.com/watch?v=Sn2nqUf1p1s">Video</a>]
+February 19, 2025: **Macht menschliche Intelligenz noch Sinn im Zeitalter von KI?** RHI Talk (Roman-Herzog-Institut), München. [[Video (YouTube)](https://www.youtube.com/watch?v=Sn2nqUf1p1s)]
 
 November 28, 2024: **Uncertainty in Natural Language Processing**. Invited Talk at IMS, University of Stuttgart. 
 
