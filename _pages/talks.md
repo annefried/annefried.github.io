@@ -5,6 +5,8 @@ permalink: /talks/
 author_profile: true
 ---
 
+July 1, 2026: **Neural Models for Zechzettel & Discourse Modes**. Invited Talk at the DH Masterkolloquium, University of Stuttgart. Joint talk with Fabio Mariani.
+
 June 10, 2026: **Neurosymbolic Models of Uncertainty and Logical Reasoning**. Invited Talk at the BaioSphere session of the Helmholtz AI Conference (HAICON) 2026, Munich. [[Video (YouTube)](https://www.youtube.com/watch?v=HL0_8VRenbU)]
 
 April 15, 2026: **Neurosymbolic Models of Uncertainty and Logical Reasoning**. Invited Talk at the Boulder Natural Language Processing Seminar, University of Colorado Boulder (remote).
