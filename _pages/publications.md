@@ -16,6 +16,8 @@ Most of my articles can be found in the <a href="https://aclanthology.org/people
 2026
 ----
 
+Timo Pierre Schrader, Annemarie Friedrich, Simon Razniewski, and Lukas Lange. <strong>The Canonical Order Problem: When Large Language Models Are Unreliable Knowledge Bases for Multi-Valued Relations</strong>. <i>Accepted to AKBC 2026.</i>
+
 Hanna Schmück, Veronika Urban, Xaver Krückl, Sonja Zeman, Claudia Claridge, and Annemarie Friedrich. 2026. <a href="https://aclanthology.org/2026.law-main.8/">Cross-Linguistic Situation Entity Segmentation for Discourse Analysis in Diachronic English and German Text.</a> In Proceedings of the 20th Linguistic Annotation Workshop (LAW XX), pages 95–112, San Diego, California, USA. Association for Computational Linguistics.
 
 Valentin Knappich, Anna Hätty, Simon Razniewski, and Annemarie Friedrich. 2026. <a href="https://dl.acm.org/doi/10.1145/3805712.3809576">Is It Novel and Why? Fine-Grained Patent Novelty Prediction Based on Passage Retrieval.</a> In Proceedings of the 49th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR '26). Association for Computing Machinery, New York, NY, USA, 845–856.
@@ -24,7 +26,7 @@ Wei Zhou, Bolei Ma, Annemarie Friedrich, and Mohsen Mesgar. 2026. <a href="https
 
 Linda Kupfer, Lisa Hader, Christian Jaumann, and Annemarie Friedrich. 2026. <a href="https://aclanthology.org/2026.semeval-1.298/">WWTC@UniA at SemEval-2026 Task 13: BERT-based Code Authorship Detection and Qualitative Analysis.</a> In Proceedings of the 20th International Workshop on Semantic Evaluation (2026), pages 2359–2375, San Diego, California, USA. Association for Computational Linguistics. (&#127941; Best Paper Award SemEval-2026 Task 13)
 
-Tobias Hallmen, Kathrin Gietl, Karoline Hillesheim, Annemarie Friedrich and Elisabeth André. <strong>Annotating Conversational Phases and Communication Techniques: A Corpus of German Teacher-Parent Counseling Conversations</strong>. <i>(accepted to LREC 2026)</i>
+Tobias Hallmen, Kathrin Gietl, Karoline Hillesheim, Annemarie Friedrich and Elisabeth André. <a href="https://aclanthology.org/2026.lrec-1.505/">Annotating Conversational Phases and Communication Techniques: A Corpus of German Teacher-Parent Counseling Conversations</a>. In Proceedings of the Fifteenth Language Resources and Evaluation Conference, pages 6361–6372, Palma de Mallorca, Spain. ELRA Language Resource Association.
 
 Fabio Mariani, Helmut Graser, B. Ann Tlusty, Regina Dauser, and Annemarie Friedrich. <a href="https://zenodo.org/records/18702907">"Ein Freinttlichen Trunck": The Zechzettel Dataset for Handwritten Text Recognition and Information Retrieval</a>. Digital Humanities im deutschsprachigen Raum. February 2026. Vienna. <i>Poster presentation with peer-reviewed extended abstract.</i> [[Slides](http://annefried.github.io/files/zechzettel-posterdhd2026.pdf)]
 
