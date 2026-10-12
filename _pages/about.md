@@ -44,7 +44,7 @@ I am interested in understanding and modeling interactions at the syntax-semanti
 
 PostDocs
 ------------
-* Fabio Mariani, Wissenschaftlicher Mitarbeiter (almost-postdoc)
+* Fabio Mariani, Wissenschaftlicher Mitarbeiter
 * [Hanna Schmück](https://hannaschmueck.github.io/), Wissenschaftliche Mitarbeiterin
 
 
