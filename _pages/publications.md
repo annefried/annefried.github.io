@@ -53,7 +53,7 @@ Wei Zhou, Mohsen Mesgar, Annemarie Friedrich, and Heike Adel. 2025.<a href="http
 
 Wei Zhou, Mohsen Mesgar, Heike Adel, and Annemarie Friedrich. 2025. <a href="https://aclanthology.org/2025.trl-1.8/">RITT: A Retrieval-Assisted Framework with Image and Text Table Representations for Table Question Answering.</a> In Proceedings of the 4th Table Representation Learning Workshop, pages 86–97, Vienna, Austria. Association for Computational Linguistics.<br/>
 
-Valentin Knappich, Annemarie Friedrich, Anna Hätty and Simon Razniewski. <a href="https://arxiv.org/abs/2505.21342">PEDANTIC: A Dataset for the Automatic Examination of Definiteness in Patent Claims</a>. In Proceedings the 6th Workshop on Patent Text Mining and Semantic Technologies (PatentSemTech 2025), co-located with SIGIR, Padua, Italy. <i>(to appear)</i><br/>
+Valentin Knappich, Annemarie Friedrich, Anna Hätty and Simon Razniewski. <a href="https://arxiv.org/abs/2505.21342">PEDANTIC: A Dataset for the Automatic Examination of Definiteness in Patent Claims</a>. In Proceedings the 6th Workshop on Patent Text Mining and Semantic Technologies (PatentSemTech 2025), co-located with SIGIR, Padua, Italy.<br/>
 
 Christian Jaumann, Andreas Wiedholz, Annemarie Friedrich. <a href="https://aclanthology.org/2025.findings-acl.412/">	LGAR: Zero-Shot LLM-Guided Neural Ranking for Abstract Screening in Systematic Literature Reviews</a>. In: Findings of the Association for Computational Linguistics: ACL 2025. Vienna, Austria.<br/>
 
