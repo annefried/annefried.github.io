@@ -55,7 +55,7 @@ Wei Zhou, Mohsen Mesgar, Heike Adel, and Annemarie Friedrich. 2025. <a href="htt
 
 Valentin Knappich, Annemarie Friedrich, Anna Hätty and Simon Razniewski. <a href="https://arxiv.org/abs/2505.21342">PEDANTIC: A Dataset for the Automatic Examination of Definiteness in Patent Claims</a>. In Proceedings the 6th Workshop on Patent Text Mining and Semantic Technologies (PatentSemTech 2025), co-located with SIGIR, Padua, Italy. <i>(to appear)</i><br/>
 
-Christian Jaumann, Andreas Wiedholz, Annemarie Friedrich. <a href="https://aclanthology.org/2025.findings-acl.412/">	LGAR: Zero-Shot LLM-Guided Neural Ranking for Abstract Screening in Systematic Literature Reviews</a>. In: Findings of the Association for Computational Linguistics: ACL 2025. Vienna, Austria. <i>(to appear)</i><br/>
+Christian Jaumann, Andreas Wiedholz, Annemarie Friedrich. <a href="https://aclanthology.org/2025.findings-acl.412/">	LGAR: Zero-Shot LLM-Guided Neural Ranking for Abstract Screening in Systematic Literature Reviews</a>. In: Findings of the Association for Computational Linguistics: ACL 2025. Vienna, Austria.<br/>
 
 Bolei Ma, Yuting Li, Wei Zhou, Ziwei Gong, Yang Janet Liu, Katja Jasinskaja, Annemarie Friedrich, Julia Hirschberg, Frauke Kreuter, Barbara Plank. <a href="https://aclanthology.org/2025.acl-long.425/">Pragmatics in the Era of Large Language Models: A Survey on Datasets, Evaluation, Opportunities and Challenges</a>. In Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers). Vienna, Austria.<br/>
 
