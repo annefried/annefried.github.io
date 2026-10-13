@@ -29,7 +29,9 @@ Student Exchange: Staffordshire University, UK.
 
 Work Experience
 --------
-**since 06/2023** - **Professor** (tenured) at the Faculty of Applied Computer Science, University of Augsburg, Germany.
+**since 06/2023** - **University Professor (W3)** (tenured) at the Faculty of Applied Computer Science, University of Augsburg, Germany. Chair of Computational Linguistics.
+
+**06/2023 - 08/2025** - **University Professor (W2)** (tenured) at the Faculty of Applied Computer Science, University of Augsburg, Germany. Professorship for Natural Language Understanding with Applications to Digital Humanities.
 
 **01/2023 - 04/2023** - **Senior Expert** for Natural Language Processing at the Bosch Center for Artificial Intelligence, Renningen, Stuttgart.
 
